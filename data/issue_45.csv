@@ -1,0 +1,27 @@
+description,title,section,site,issue_num,link
+"  Roman Nurik shared some examples how to create elegant multistep forms. He created a WizardPager component that does all the heavy lifting.",On Wizards,"
+  Articles & Tutorials",plus.google.com,45,https://plus.google.com/113735310430199015092/posts/6cVymZvn3f4
+"  He also published an intro how to add animations to your Android app.",Add animations to your Android app,"
+  Articles & Tutorials",plus.google.com,45,https://plus.google.com/113735310430199015092/posts/FpqgDJvRcgd
+"  Mark Allison continues his series on how to style a ""pull to refresh"" ListView.",Styling Pull to Refresh Part 2,"
+  Articles & Tutorials",blog.stylingandroid.com,45,http://blog.stylingandroid.com/archives/1350?utm_campaign=1350
+"  In this short blogpost Lars Vogel shares a snippet that shows you how to properly style a multiline TextField.",How to define a Android Multiline EditText,"
+  Articles & Tutorials",vogella.com,45,http://www.vogella.com/blog/2012/11/07/how-to-define-a-android-multiline-edittext/
+"  Is your app crashing and you don't know about it? Lucky for us Android has a builtin error reporting mechanism to handle such cases. Tom Tasche explains in his blog post how to do it.",Use built-in feedback mechanism on Android,"
+  Articles & Tutorials",blog.tomtasche.at,45,http://blog.tomtasche.at/2012/10/use-built-in-feedback-mechanism-on.html
+"  Do you need to get the android emulator to work on a MacBook Pro Retina? This blog post explains how.",Android Emulator to Work on the Macbook Pro Retina,"
+  Articles & Tutorials",kotancode.com,45,http://www.kotancode.com/2012/08/06/getting-the-android-emulator-to-work-on-the-macbook-pro-retina-display
+,Post a job on Android Weekly,"
+  Jobs",androidweekly.net,45,http://androidweekly.net/jobs/new
+"  UnifiedPreference is a library for working with all versions of the Android Preference package from API v4 and up.",UnifiedPreference,"
+  Libraries & Code",github.com,45,https://github.com/saik0/UnifiedPreference
+"  If you need some Error Reporting with more power, then Acra is your thing. It support multiple backends like HockeyApp or Bugsense.",ACRA - Know your Bugs,"
+  Libraries & Code",acra.ch,45,http://acra.ch/
+"  Do you need some Jelly Bean goodness for your notifications on older devices? Then checkout this repository by Jake Wharton. It adds the missing functionality.",NotificationCompat2,"
+  Libraries & Code",github.com,45,https://github.com/JakeWharton/NotificationCompat2
+"  Here comes the same for startActivity and ActivityOptions",ActivityCompat2,"
+  Libraries & Code",github.com,45,https://github.com/JakeWharton/ActivityCompat2
+"  Android turned 5 years old today. Here is a brief story how it all began.",5 Years of Android,"
+  News",crave.cnet.co.uk,45,http://crave.cnet.co.uk/mobiles/android-is-5-years-old-today-heres-how-it-all-began-50009685/
+"  Bad idea or worst idea? Watch the debate.",Exit Buttons in Android,"
+  Screencasts",androidandme.com,45,http://wla.tv/tfJc

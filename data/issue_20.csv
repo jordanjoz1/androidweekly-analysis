@@ -1,0 +1,17 @@
+description,title,section,site,issue_num,link
+"    Some cool 3D OpenGL stuff for Android you should try out!",NeHe Android Ports,"
+  Articles & Tutorials",insanitydesign.com,20,http://insanitydesign.com/wp/projects/nehe-android-ports/
+"  This tutorial describes how to use Animations in Android.",Android Animations,"
+  Articles & Tutorials",vogella.de,20,http://www.vogella.de/articles/AndroidAnimation/article.html
+"  If you ever wanted to know if a certain feature runs on a certain Android Version this page is really helpful.",API Levels,"
+  Articles & Tutorials",developer.android.com,20,http://developer.android.com/guide/appendix/api-levels.html
+"  This article show you the 5 common Android newbie mistakes.",Android newbie mistakes,"
+  Articles & Tutorials",developer.com,20,http://www.developer.com/ws/android/programming/5-common-android-newbie-mistakes.html
+"  Android-ScrollBarPanel allows to attach a View to a scroll indicator like it's done in Path 2.0.",Android Scroll Bar Panel,"
+  Libraries & Code",github.com,20,https://github.com/rno/Android-ScrollBarPanel
+"  Adds panning and pinch zoom to Android ImageView.",Touch Image View,"
+  Libraries & Code",github.com,20,https://github.com/MikeOrtiz/TouchImageView
+"    The next iteration of Android is looking to launch in June, just as Ice Cream Sandwich, the current version, finds itself on more devices.",Android 5.0,"
+  News",news.cnet.com,20,http://news.cnet.com/8301-1035_3-57402420-94/android-5.0-aka-jelly-bean-rumored-for-q3-release/
+"	DroidEdit is a text and source code editor for android tablets and phones.",DroidEdit,"
+  App of the Week",play.google.com,20,https://play.google.com/store/apps/details?id=com.aor.droidedit

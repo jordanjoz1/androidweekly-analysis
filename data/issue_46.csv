@@ -1,0 +1,29 @@
+description,title,section,site,issue_num,link
+"    In his ""Examining the ViewPager"" series Sebastian Kaspari explains how to use this component the best way.",ViewPager,"
+  Articles & Tutorials",androidzeitgeist.com,46,http://www.androidzeitgeist.com/p/viewpager.html
+"  Interesting that Mark Allison starts a new series on the ViewPager aswell. This time how to style it the best.",ViewPager Redux – Part 1,"
+  Articles & Tutorials",blog.stylingandroid.com,46,http://blog.stylingandroid.com/archives/1357
+"  Romain Guy announced that we should automate UI testing with the new Android UI testing framwork.",UI Testing,"
+  Articles & Tutorials",developer.android.com,46,http://developer.android.com/tools/testing/testing_ui.html
+"  Did you know that in Android 4.2 you can create LockScreen Widgets? Check the official documentation on how to do that.",Enabling App Widgets on the Lockscreen,"
+  Articles & Tutorials",developer.android.com,46,http://developer.android.com/guide/topics/appwidgets/index.html#lockscreen
+"  Writing universal apps for a phone and a tablet is hard. That's why Dave Smith compiled a few best practices on how to structure and select resources for universal apps.",Efficient Multi-Screen Resource Selection,"
+  Articles & Tutorials",wiresareobsolete.com,46,http://wiresareobsolete.com/wordpress/2012/11/multi-screen-resource-selection/
+"  Two Toasters is looking for Mobile Developers to join our team. At Two Toasters, you will be working with cutting edge technology to build state of the art iOS and Android applications with a team that enjoys working hard and playing ping pong.",Mobile Developer at Two Toasters,"
+  Jobs","Durham, North Carolina, USA",46,http://goo.gl/VEn07?utm_source=androidweekly
+,Post a job on Android Weekly,"
+  Jobs",androidweekly.net,46,http://androidweekly.net/jobs/new
+"  AnDevCon IV, December 4-7 in Burlingame (San Francisco), is the technical conference for software developers building or selling Android apps. It will offer one day of intensive workshops, followed by three days of technical classes. Use code MEDIASPONSOR for $100 discount.",AnDevCon Sepcial,"
+    AnDevCon",andevcon.com,46,http://andevcon.com/?utm_source=androidweekly&utm_medium=banner&utm_term=partnership&utm_campaign=Androidweekly
+"  Do you want to go to @AnDevCon in December, but you don't have a ticket yet? You can win one here!",Win a Ticket to AnDevCon,"
+    AnDevCon",androidweekly.net,46,http://androidweekly.net/win
+"  Have you ever needed to update the SQLite Database in one of your apps? It's a nightmare, right? Luckily Jeff Gilfelt created this handy helper class that does the heavy lifting. It manages the database creation and handles version management.",Android Sqlite Asset Helper,"
+  Libraries & Code",github.com,46,https://github.com/jgilfelt/android-sqlite-asset-helper
+"  Gaug.es is a webservice to analyize traffic. They've open sourced their Android Client and it's a very well engineered app. Check out if you want to see how a good app architecture is made - or if you want to play with their API.",Gaug.es Android App,"
+  Libraries & Code",github.com,46,https://github.com/github/gauges-android#readme
+"  The Android 4.2 SDK (API Level 17) has been released. Lot's of good stuff in there.",Android 4.2 SDK,"
+  News",android-developers.blogspot.de,46,http://android-developers.blogspot.de/2012/11/introducing-android-42-new-and-improved.html
+"  This is a pretty good talk from Google IO about how to optimize UI performance in Android apps.",Optimize UI Performance,"
+  Video",wla.tv,46,http://wla.tv/bTJY
+"  HackerNews is a beloved resource for - well... hacker related news. This post by Thomas Kjemperud covers many clients for Android, he also lists the pros and cons.",The Ultimate Hacker News App Comparison for Android,"
+  App Reviews",thomas.do,46,http://thomas.do/post/35489071482/hacker-news-android-apps

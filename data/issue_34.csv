@@ -1,0 +1,21 @@
+description,title,section,site,issue_num,link
+"    We're approaching the 1000 subscribers - but we need your help to get there! Please forward this email to a fellow Android Developer who does not know about Android Weekly yet. Thanks ",Almost 1000 subscribers,"
+  Almost!",androidweekly.net,34,http://androidweekly.net/
+"    In this blog post Isaac Hayes talks about the performance difference between a SpraseArray and a Hashmap.",Android Performance Tweaking,"
+  Articles & Tutorials",programmingmobile.com,34,http://www.programmingmobile.com/2012/07/android-performance-tweaking-parsearray.html
+"  In this blog post Javier Manzano talks about his experience when he integrated different OAuth providers via a WebView.",How to get the most out of Android’s WebView?,"
+  Articles & Tutorials",jmanzano.es,34,http://www.jmanzano.es/blog/?p=551
+"  Mark Allison shows us a great approach what to do when you have to pluralize strings that can also be internationalized.",Plurals,"
+  Articles & Tutorials",blog.stylingandroid.com,34,http://blog.stylingandroid.com/archives/1136
+"  In this tutorial you'll learn how to implement a sliding drawer tutorial.",Android Sliding Drawer Tutorial,"
+  Articles & Tutorials",androidpeople.com,34,http://www.androidpeople.com/android-sliding-drawer-tutorial
+"  AndroidAnnotations is an Open Source framework that speeds up Android development. It takes care of the plumbing, and lets you concentrate on what's really important. By simplifying your code, it facilitates its maintenance. It has RoboGuice under the hood and really simplifies your code from boilerplate.",Android annotations,"
+  Libraries & Code",androidannotations.org,34,http://androidannotations.org/
+"  Crouton, is a class that can be used by Android developers that feel the need for an alternative to the Context insensitive Toast.",Crouton,"
+  Libraries & Code",github.com,34,https://github.com/neofoniemobile/Crouton
+"  Android Billing Library implements in-app billing's full specification and offers high-level classes to use it. Transactions are stored in a local obfuscated database which can be easily queried.",AndroidBillingLibrary,"
+  Libraries & Code",github.com,34,https://github.com/robotmedia/AndroidBillingLibrary
+"    The device art generator allows you to quickly wrap your app screenshots in real device artwork. This provides better visual context for your app screenshots on your web site or in other promotional materials.",Device Art Generator,"
+  Tools",developer.android.com,34,http://developer.android.com/distribute/promote/device-art.html
+"  In this guidelines you'll learn how to provide the right marketing assets when you want to get featured in the Android Market.",Android Market Featured-Image Guidelines,"
+  Business",android-developers.blogspot.de,34,http://android-developers.blogspot.de/2011/10/android-market-featured-image.html

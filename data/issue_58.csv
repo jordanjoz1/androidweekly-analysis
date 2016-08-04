@@ -1,0 +1,37 @@
+description,title,section,site,issue_num,link
+"  The Square Engineering Blog has released a brief guide about testing for Android.",The Resurrection of Testing for Android,"
+  Articles & Tutorials",corner.squareup.com,58,http://corner.squareup.com/2013/04/the-resurrection-of-testing-for-android.html
+"  A good read how to use IDs in XML Layouts.",Use Android's @+id Notation With Care,"
+  Articles & Tutorials",androitism.posterous.com,58,http://androitism.posterous.com/use-androids-id-notation-with-care
+"  Mark Allisons tutorial on how to create a text with text with a gradient.",Gradient Text,"
+  Articles & Tutorials",blog.stylingandroid.com,58,http://blog.stylingandroid.com/archives/1671
+"  We're looking for a mobile engineer to help build cutting-edge Android apps for Eventbrite. We're building the tools that allow event organizers to sell tickets or check in attendees right on their phone or tablet, and to allow attendees to check in at events.",Eventbrite Senior Android Mobile Engineer,"
+  Jobs","San Francisco, CA",58,https://hire.jobvite.com/j?cj=okVcXfw8&s=AndroidWeekly
+"  Are you passionate about the latest Android SDK developments and 100% focused on great user experience and beautiful code? If you want to build exciting new features for the SoundCloud Android app and potentially other platforms, then this is for you.",SoundCloud Android Developer,"
+  Jobs","Berlin, Germany",58,http://hire.jobvite.com/j/?cj=oCIeWfwe&s=Android_Weekly
+"  Do you share our dream that iterating a feature across the whole stack from UI to backend, should be as easy as a walk in the park? Do you love Android? Do you to be part of figuring out and architecting infrastructure that will fulfill our dream? Let's chat!",Spotify Platform Software Engineer Android,"
+  Jobs",Stockholm or New York,58,https://www.spotify.com/se/jobs/view/oRh7WfwV?utm_source=androidweekly
+"  We want to improve people's relationship to music massively. We want to develop the most loved music service on Android. We believe in thinking holistically, using metrics, A/B tests, interviewing, and other ways to validate and tweak our ideas. Interested?",Spotify Feature Developer Android,"
+  Jobs","Stockholm, New York, or San Francisco",58,https://www.spotify.com/se/jobs/vacancies?utm_source=androidweekly
+,Post a job on Android Weekly,"
+  Jobs",androidweekly.net,58,http://androidweekly.net/jobs/new
+"  6Wunderkinder have released a SlidingLayer Component for Android that can be seen in their Wunderlist 2 app.",6Wunderkinder SlidingLayer for Android,"
+  Libraries & Code",github.com,58,https://github.com/6wunderkinder/android-sliding-layer-lib
+"  Android form edit text is an extension of EditText that brings data validation facilities to the edittext.",Android Form EditText,"
+  Libraries & Code",github.com,58,https://github.com/vekexasia/android-form-edittext
+"  MultiChoiceAdapter by Manuel Peinado is an implementation of ListAdapter which adds support for modal multiple choice selection as in the native Gmail app.",MultiChoiceAdapter,"
+  Libraries & Code",github.com,58,https://github.com/ManuelPeinado/MultiChoiceAdapter
+"  RobotoViews is an Android library hosting a collection of Views that use the Roboto font.",RobotoViews,"
+  Libraries & Code",github.com,58,https://github.com/eeVoskos/RobotoViews
+"  Routable is a little router component for iOS and Android. It seems to be very valuable if you have URLs that can be called externally. It also helps you to decouple your activities.",Routable,"
+  Libraries & Code",usepropeller.com,58,http://usepropeller.com/blog/posts/routable/
+"  The Tactrick Android Developer Cup is challenging brainy Android developers. Prove yourself as the best app developer.",Tatrick DevCup 2013,"
+  Sponsored",devcup.tactrick.com,58,http://devcup.tactrick.com?utm_source=androidweekly
+"  AnDevCon Spring, May 28-31, Boston, is the technical conference for software developers building or selling Android apps. Receive a $100 discount off the prevailing rate of either the 4-day or 3-day pass by inserting the code MEDIASPONSOR when prompted on the eRegistration page linked from www.andevcon.com",AnDevCon Spring 2013,"
+  Sponsored",andevcon.com,58,http://andevcon.com/?utm_source=androidweekly&utm_medium=banner&utm_term=partnership&utm_campaign=Androidweekly
+"  In Android Developer Days, there will be presentations, tutorials, quickies and workshops. If you want to share your knowledge and experience, we are inviting you to share them. All papers can be submitted to Android Developer Days OpenConf until 1st May 2013.","Android Developer Days, June 14/15, 2013,Call For Papers","
+  Sponsored",androiddeveloperdays.com,58,http://www.androiddeveloperdays.com
+"  Taylor Ling just posted an update to his awesome free Android UI Design Kit! The new update adds support for Nexus 4 resolution as well as some new UI elements for quick usage, like quick return, undo bar, drawer menu, crouton, cards, and some gestures.",Taylor Ling's Android UI Design Kit updated to 4.2!,"
+  Design",androiduipatterns.com,58,http://www.androiduipatterns.com/2013/03/taylor-lings-android-ui-design-kit.html
+"  ShareKM is a cool little tool to share keyboard and mouse with any Android Devices.",Share KM,"
+  App of the Week",sites.google.com,58,https://sites.google.com/site/droidskm/home

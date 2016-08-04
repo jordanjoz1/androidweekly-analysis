@@ -1,0 +1,23 @@
+description,title,section,site,issue_num,link
+"    AndroidKickstartR helps you to quickly create a well configured Android application using the most popular libraries. It creates and configures your project for you. Just focus on code!",AndroidKickstartR,"
+  Articles & Tutorials",androidkickstartr.com,41,http://androidkickstartr.com/
+"  Release often, release early - it's a good mantra in software development. To keep your customers up to date you may use a changelog dialog. This post explains how to do it.",Adding a change log dialog to your app,"
+  Articles & Tutorials",martin.cubeactive.com,41,http://martin.cubeactive.com/?p=769
+"  In this blog post Wolfram Rittmeyer explains the steps that are necessary to make your Android app accessible.",Take These Steps to Make your Android App Accessible,"
+  Articles & Tutorials",grokkingandroid.com,41,http://www.grokkingandroid.com/steps-to-making-android-app-accessible/
+"  Mark Allisons 4th post about styling the ActionBar. You should check out the past posts if you haven't already.",Styling the ActionBar Part 4,"
+  Articles & Tutorials",blog.stylingandroid.com,41,http://blog.stylingandroid.com/archives/1285
+"  The ShowcaseView library is designed to highlight and showcase specific parts of apps to the user with a distinctive and attractive overlay. ",ShowcaseView,"
+  Libraries & Code",github.co,41,https://github.com/Espiandev/ShowcaseView
+"  Polaris is a nice library, by Cyrill Mottier, that makes the developer life much easier when dealing with Google Maps. Read a nice wrap up of all features in his blog post. The source is released on Github.","Meet Polaris, a map library for Android","
+  Libraries & Code",android.cyrilmottier.com,41,http://android.cyrilmottier.com/?p=824
+"    Ericsson has started Application Awards 2013. So if you have a good app idea, go for the 25.000 € prize money.",Ericsson Application Awards 2013,"
+  News",ericssonapplicationawards.com,41,http://www.ericssonapplicationawards.com/
+"  Good news everyone! According to a GigaOM survey the amount of apps developed on Android is growing at a faster rate than iOS.",App development growing: Android vs. iOS,"
+  News",gigaom.com,41,http://gigaom.com/2012/10/04/android-app-development-growing-at-a-faster-rate-than-ios-chart/
+"  If you want to lower the entry barrier for customers to use your app, while keeping you revenue stream steady check out the new try-and-buy feature for in-app-subscriptions.",Free Trial Period,"
+  News",developer.android.com,41,http://developer.android.com/guide/google/play/billing/billing_subscriptions.html#trials
+"    This recorded Android Developer Lab+ hangout deals about Connectivity APIs.",Android Developer Lab+ - Connectivity APIs,"
+  Video",wla.tv,41,http://wla.tv/pIzL
+"  A demonstration application for the polaris library project",Polaris Sample,"
+  App of the Week",play.google.com,41,https://play.google.com/store/apps/details?id=com.cyrilmottier.android.polarissample

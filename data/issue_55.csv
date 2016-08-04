@@ -1,0 +1,25 @@
+description,title,section,site,issue_num,link
+"  If you want to learn more about custom class loading on the Dalvik VM check out the official blog post from the Android development blog.",Custom Class Loading in Dalvik,"
+  Articles & Tutorials",android-developers.blogspot.de,55,http://android-developers.blogspot.de/2011/07/custom-class-loading-in-dalvik.html
+"  Facebook has released a very interesting post on their engineering blog. The article deals which efforts they had to take to make their huge code base running on Android 2.2 with custom class loading. It a crazy, dare we say insane, piece of engineering and you should definetly check it out.",Dalvik patch for Facebook for Android,"
+  Articles & Tutorials",facebook.com,55,https://www.facebook.com/notes/facebook-engineering/under-the-hood-dalvik-patch-for-facebook-for-android/10151345597798920
+"  This article by Gabriele Mariotti explains briefly how to making your application’s data usage preferences available from system settings.",Making your application’s data usage preferences available from system settings,"
+  Articles & Tutorials",gmariotti.blogspot.de,55,http://gmariotti.blogspot.de/2013/02/making-your-applications-data-usage.html
+"  Cyril Mottier has released the 4th part of the making of Prixing #4: in-layout notifications",In-layout Notifications,"
+  Articles & Tutorials",android.cyrilmottier.com,55,http://android.cyrilmottier.com/?p=773
+"  Full native RTL support has landed in Android 4.1",Native RTL support in Android 4.2,"
+  Articles & Tutorials",android-developers.blogspot.de,55,http://android-developers.blogspot.de/2013/03/native-rtl-support-in-android-42.html
+"  The Tactrick Android Developer Cup is challenging brainy Android developers. Prove yourself as the best app developer.",The Tatrick Android Developer Cup,"
+  Tatrick DevCup 2013",devcup.tactrick.com,55,http://devcup.tactrick.com?utm_source=androidweekly
+"  Do you share our dream that iterating a feature across the whole stack from UI to backend, should be as easy as a walk in the park? Do you love Android? Do you to be part of figuring out and architecting infrastructure that will fulfill our dream? Let's chat!",Spotify Platform Software Engineer Android,"
+  Jobs",Stockholm or New York,55,https://www.spotify.com/se/jobs/view/oRh7WfwV?utm_source=androidweekly
+"  We want to improve people's relationship to music massively. We want to develop the most loved music service on Android. We believe in thinking holistically, using metrics, A/B tests, interviewing, and other ways to validate and tweak our ideas. Interested?",Spotify Feature Developer Android,"
+  Jobs","Stockholm, New York, or San Francisco",55,https://www.spotify.com/se/jobs/vacancies?utm_source=androidweekly
+,Post a job on Android Weekly,"
+  Jobs",androidweekly.net,55,http://androidweekly.net/jobs/new
+"  Butter Knife is a view ""injection"" library, by Jake Wharton,  which uses annotation processing to generate code that does direct field assignment of your views.",Butterknife,"
+  Libraries & Code",github.com,55,https://github.com/JakeWharton/butterknife
+"  Quality Tools for Android is an Android sample app + tests that will be used to work on various project to increase the quality of the Android platform.",Quality-Tools-for-Android,"
+  Libraries & Code",github.com,55,https://github.com/stephanenicolas/Quality-Tools-for-Android
+"  DevBytes has released a short series of short instructional videos on android development.",DevBytes: RequestDuringLayout,"
+  Screencasts",watchlaterapp.com,55,http://watchlaterapp.com/Covm

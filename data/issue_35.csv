@@ -1,0 +1,19 @@
+description,title,section,site,issue_num,link
+"    Ever wanted to format some text in your views? Wolfram Rittmeyer explaines briefly how to do that using Html.fromHtml().",Formatting Text with Html.fromHtml(),"
+  Articles & Tutorials",grokkingandroid.com,35,http://www.grokkingandroid.com/android-quick-tip-formatting-text-with-html-fromhtml/
+"  Roman Nurik completes the blog post with some nifty example code.",Scrolltricks,"
+  Articles & Tutorials",code.google.com,35,http://code.google.com/p/romannurik-code/source/browse/misc/scrolltricks
+"  In this blogpost Kirill Grouchnikov explains how to realize a synchronized scrolling mechanism.",Synchronized scrolling,"
+  Articles & Tutorials",pushing-pixels.org,35,http://www.pushing-pixels.org/2011/07/18/android-tips-and-tricks-synchronized-scrolling.html
+"  Ever wanted to use a custom font in your App? In this blog post you'll learn how to do it.",Using Custom Fonts,"
+  Articles & Tutorials",barebonescoder.com,35,http://www.barebonescoder.com/2010/05/android-development-using-custom-fonts/
+"  In this beginner tutorial you'll learn everything about LinearLayout you ever wanted to know (but where afraid to ask).",LinearLayout distribution explained,"
+  Articles & Tutorials",joseluisugia.wordpress.com,35,http://joseluisugia.wordpress.com/2012/01/19/android-linearlayout-distribution-explained-weight-and-sizes/
+"  ActivityOptions got introduced in Jelly Bean (4.1) and is the hot new shit if you want to customize your Activity transitions. In this blog post you'll learn how to create your own animation.",Customization of Android Activity Animation,"
+  Articles & Tutorials",code4reference.com,35,http://code4reference.com/2012/08/customization-android-activity-animation/
+"  Robotium is a test framework created to make it easy to write powerful and robust automatic black-box test cases for Android applications.",Robotium,"
+  Libraries & Code",code.google.com,35,http://code.google.com/p/robotium/
+"  Do you want to give your app a Flipboard like effect? Here's some code, that exactly does that.",Implement Flipboard Animation,"
+  Libraries & Code",openaphid.github.com,35,http://openaphid.github.com/blog/2012/05/21/how-to-implement-flipboard-animation-on-android/
+"  You've maybe heard the buzz about App.net. Here is a link to an alpha version to a mobile client for App.net created by David Krauser.",Mobile client for App.net,"
+  App of the Week",tapp.davidkrauser.com,35,http://tapp.davidkrauser.com/

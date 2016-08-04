@@ -1,0 +1,39 @@
+description,title,section,site,issue_num,link
+"    Maven is a very powerful dependency manager for Java. This article shows you how to mavenize your Android project.",Maven and Android,"
+  Articles & Tutorials",blog.stylingandroid.com,30,http://blog.stylingandroid.com/archives/1067?utm_campaign=1067
+"  In this tutorial you''ll learn how to manage background tasks that have to be repeated periodically.",Managing Background Tasks on Android using the Alarm Manager,"
+  Articles & Tutorials",hascode.com,30,http://www.hascode.com/2011/11/managing-background-tasks-on-android-using-the-alarm-manager/
+"  Some usefull code to create Amazing Android Apps. The project lacks a lot of documentation but the aim is create a bunch of boilerplate code for Android Application development.",Beardroid,"
+  Libraries & Code",github.com,30,https://github.com/hvasconcelos/beardroid
+"  Swipe to Dismiss is an interesting UI Pattern. In this gist you can find an example code.",Swipe to Dismiss,"
+  Libraries & Code",gist.github.com,30,https://gist.github.com/2980593
+"  Swipe to Dismiss is an interesting UI Pattern. In this gist you can find an example code.",Double Tap List View Handler,"
+  Libraries & Code",github.com,30,https://github.com/NikolaDespotoski/DoubleTapListViewHandler
+"  Layouting in Eclipse ADT can be a little quiry. DroidDraw is a nice little cross platform WYSIWYG editor to create Android layouts.",Droid Draw,"
+  Tools",code.google.com,30,http://code.google.com/p/droiddraw/downloads/detail?name=droiddraw-r1b22.dmg&can=2&q=
+"    If you don't want to miss all the news about the Google IO checkout the official website or searh the #io12 hashtag on Twitter or Google+",Google IO 2012,"
+  News",developers.google.com,30,https://developers.google.com/events/io/
+"  Google IO brought a huge redesign of the official Android Developer website. And it's great - we love it!",Huge redesign,"
+  News",plus.google.com,30,https://plus.google.com/108967384991768947849/posts/Xpf8DZGPfis
+,"Fast & Smooth - Android 4.1, Jelly Bean","
+  Videos",watchlaterapp.com,30,http://watchlaterapp.com/bDc3
+,400 million Android activations!,"
+  Videos",watchlaterapp.com,30,http://wla.tv/bDzQ
+,Introducing Google Now,"
+  Videos",watchlaterapp.com,30,http://wla.tv/bD8g
+,Introducing Nexus 7,"
+  Videos",watchlater.com,30,http://wla.tv/bCs2
+,Google Nexus 7 Demonstration and official Presentation at Google I/O 2012,"
+  Videos",watchlater.com,30,http://wla.tv/bE1v
+,Introducing Nexus Q,"
+  Videos",watchlater.com,30,http://wla.tv/bDb9
+,How Nexus Q Works,"
+  Videos",watchlater.com,30,http://wla.tv/bCot
+,Google+ Events: introducing a new way to get together,"
+  Videos",watchlater.com,30,http://wla.tv/bCUL
+,Go Offline with Google Maps for Android,"
+  Videos",watchlater.com,30,http://wla.tv/bDFB
+,Project Glass: Skydiving Demo at Google I/O 2012,"
+  Videos",watchlater.com,30,http://wla.tv/bDrL
+,Google Wallet for digital goods,"
+  Videos",watchlater.com,30,http://wla.tv/bFyV

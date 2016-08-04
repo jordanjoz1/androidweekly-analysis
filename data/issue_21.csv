@@ -1,0 +1,25 @@
+description,title,section,site,issue_num,link
+"    This article is about integrating an Android process into the broader automated build infrastructure.",Android Development with Maven,"
+  Articles & Tutorials",wakaleo.com,21,http://www.wakaleo.com/blog/302-android-development-with-maven
+"  This article describes one practical approach to dividing application code into three layers according the MVC paradigm and connecting the view to the controller using the Android messaging framework.",Message-based MVC,"
+  Articles & Tutorials",mindtherobot.com,21,http://mindtherobot.com/blog/675/android-architecture-message-based-mvc/
+"  In this article you will find a short introduction to two nice classes – Looper and Handler.",Intro to Loopers and Handlers,"
+  Articles & Tutorials",mindtherobot.com,21,http://mindtherobot.com/blog/159/android-guts-intro-to-loopers-and-handlers/
+"  In this example you will see how to create an intent that performs a phone number dial action.",Intents and Intent filters,"
+  Articles & Tutorials",mobileorchard.com,21,http://mobileorchard.com/android-app-development-intents-and-intent-filters/
+"  Lightweight persistence library for Android.",Android Active Record,"
+  Libraries & Code",code.google.com,21,http://code.google.com/p/android-active-record/
+"  Easy to use Maven plugin for Android.",Maven plugin for Android,"
+  Libraries & Code",github.com,21,https://github.com/jberkel/maven-android-plugin
+"    PhoneGap is an open source implementation of open standards. That means developers and companies can use PhoneGap for mobile applications that are free, commercial, open source, or any combination of these.",Phongap,"
+  Resources",phonegap.com,21,http://phonegap.com/about
+"  ActiveAndroid is an active record style ORM wich allows you to save and retrieve SQLite database records without ever writing a single SQL statement.",ActiveAndroid,"
+  Resources",activeandroid.com,21,https://www.activeandroid.com/about/
+"  Buy and sell gently used Android devices",Swappa,"
+  Resources",swappa.com,21,http://swappa.com/
+"    Google Drive Screenshot Shows 2GB of Storage, On Tap for Mid-April",Google Drive,"
+  News",talkandroid.com,21,http://www.talkandroid.com/102428-leak-google-drive-screenshot-shows-2gb-of-storage-on-tap-for-mid-april/
+"    This screencast shows you how to create classic Hello World app following Test Driven Development.",Test Driven Development,"
+  Screencasts",watchlaterapp.com,21,http://watchlaterapp.com/aikR
+"	AirDroid is a fast, free app that lets you wirelessly manage & control your Android device from a web browser Over-The-Air. ",AirDriod,"
+  App of the Week",play.google.com,21,https://play.google.com/store/apps/details?id=com.sand.airdroid&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5zYW5kLmFpcmRyb2lkIl0.

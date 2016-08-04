@@ -1,0 +1,33 @@
+description,title,section,site,issue_num,link
+"  This series of blog posts by Gabriele Mariotti explains how to create proper preferences for your app - the Android way.","PreferenceActivity , PreferenceFragment and headers (Part 1)","
+  Articles & Tutorials",gmariotti.blogspot.it,52,http://gmariotti.blogspot.it/2013/01/preferenceactivity-preferencefragment.html
+,"PreferenceActivity , PreferenceFragment and headers (Part 2)","
+  Articles & Tutorials",gmariotti.blogspot.it,52,http://gmariotti.blogspot.it/2013/01/preferenceactivity-preferencefragment_28.html
+,"PreferenceActivity , PreferenceFragment and headers (Part 3)","
+  Articles & Tutorials",gmariotti.blogspot.de,52,http://gmariotti.blogspot.de/2013/02/preferenceactivity-preferencefragment.html
+"  In this blog post by Kiran Rao you'll learn the quirks and perks of using onStop in your Activity lifecycle. You'll also learn on how to it better.",Android: is onDestroy the new onStop?,"
+  Articles & Tutorials",curioustechizen.blogspot.de,52,http://curioustechizen.blogspot.de/2013/01/android-ondestroy-is-new-onstop.html
+"  Understand location is a blog post by Andy Gup that explains everything you need to know about GPS location data.",How accurate is Android GPS?,"
+  Articles & Tutorials",andygup.net,52,http://www.andygup.net/?p=1105
+"  Android app Quality Guidelines. A checklist to do a quick QA and make sure your app meets the minimum bar for quality.",Core App Quality Guidelines,"
+  Articles & Tutorials",developer.android.com,52,http://developer.android.com/distribute/googleplay/quality/core.html
+"Genymobile is a French expert company on Android OS and Application area. We are looking for Linux hacker, Android Fan and Metal music lover ! You want to work on INNOVATIVE projects like Home Automation, Connected Object, .... joint the team ! ",Bugdroid needs you Android/Linux Engineer !,"
+  Jobs","Paris, France",52,https://genymobile.recruiterbox.com/jobs?utm_source=androidweekly
+,Post a job on Android Weekly,"
+  Jobs",androidweekly.net,52,http://androidweekly.net/jobs/new
+"Check out a blog post about a free-to-attend Android developer event at Apps World North America on February 7-8 in San Francisco is all set to feature various leading Android developers, authors, evangelists and operators divulging their expertise on all things Droid.",Android Developer Conference,"
+  Sponsored",apps-world.net,52,http://www.apps-world.net/blog/2013/01/north-america/android-developer-conference-highlights-at-appsworld?utm_source=androidweekly
+"  EventBus is an Android optimized publish/subscribe event bus. A typical use case for Android apps is gluing Activities, Fragments, and background threads together.",EventBus,"
+  Libraries & Code",github.com,52,https://github.com/greenrobot/EventBus
+"  GlowPadView is a circular grid of dots, with a central handle that the user can grab to various customizable targets. It is heavily based upon Google's own internal implementation of the GlowPadView found in Android 4.2 Jelly Bean.",GlowPadBackport,"
+  Libraries & Code",github.com,52,https://github.com/rock3r/GlowPadBackport
+"  TimeSquare is a standalone Android widget for picking a single date from a calendar view.",TimesSquare,"
+  Libraries & Code",corner.squareup.com,52,http://corner.squareup.com/2013/01/times-square.html
+"  Android Data Abstraction Framework is an ORM library that aims to simplify your code. With plenty of examples and screencasts the frameworks looks quit ok. Unfortunately I cannot see any tests in the repository so I cannot evaluate the robustness of the library.",ADAFramework,"
+  Libraries & Code",github.com,52,https://github.com/mobandme/ADA-Framework
+"  An easy to use ViewPager that adds an awesome set of custom swiping animations. Just change your ViewPagers to JazzyViewPagers and you're good to go!",JazzyViewPager,"
+  Libraries & Code",github.com,52,https://github.com/jfeinstein10/JazzyViewPager
+"  Writing parcelables can be a time consuming task. Luckily Dallas Gutauckis implemented a generator to build all the bolierplate code.",parcelabler: for implementing Android’s Parcelable interface,"
+  Libraries & Code",dallasgutauckis.com,52,http://dallasgutauckis.com/2012/01/20/parcelabler-for-implementing-androids-parcelable-interface/
+"  You can hear it on the streets: Key Lime Pie is on it's way.",Leaked Documents Confirm Android Key Lime Pie Launch,"
+  News",latestandroidnews.weebly.com,52,http://latestandroidnews.weebly.com/2/post/2013/02/leaked-documents-confirm-android-key-lime-pie-launch.html

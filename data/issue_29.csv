@@ -1,0 +1,19 @@
+description,title,section,site,issue_num,link
+"    If you want to use fragments with a MapView there is no easy way to that. Xavi Rigau explains a cool workaround and shows how to combine ActionBarSherlock, a MapFragment and a ListFragment.",HowTo: ActionBarSherlock + MapFragment + ListFragment,"
+  Articles & Tutorials",xrigau.wordpress.com,29,http://xrigau.wordpress.com/2012/03/22/howto-actionbarsherlock-mapfragment-listfragment/?utm_source=androidweekly
+"  Ever tried to find the needle in you logcat debug output? Jeff Sharkey has put up a very nice solution to colorize and structure the output. I could not imagine to develop without.",Modifying the Android logcat stream for full-color debugging,"
+  Articles & Tutorials",jsharkey.org,29,http://jsharkey.org/blog/2009/04/22/modifying-the-android-logcat-stream-for-full-color-debugging/?utm_source=androidweekly
+"  A sliding navigation is an emerging design pattern in recent Android apps. In a blog post Juhani Lehtimaeki is explaining the conceptual design decision that has to be made to use that kind of navigation. In the end of the article he points also to some implementations.",Emerging UI Pattern - Side Navigation,"
+  Articles & Tutorials",androiduipatterns.com,29,http://www.androiduipatterns.com/2012/06/emerging-ui-pattern-side-navigation.html?utm_source=androidweekly
+"  31 Days of Android: Sharing data between Activities.",31 Days of Android: Day 7,"
+  Libraries & Code",chrisrisner.com,29,http://chrisrisner.com/31-Days-of-Android--Day-7%E2%80%93Sharing-Data-Between-Activities
+"  This weeks code snippets will deal with how to implement an iOS like segmented control. We've selected 3 open source components, so that you can choose for yourself.",Segmented Radiobutton,"
+  Libraries & Code",github.com,29,https://github.com/makeramen/android-segmentedradiobutton
+,Segcontrol,"
+  Libraries & Code",github.com,29,https://github.com/bookwormat/segcontrol
+,Segmented Button Control in Android,"
+  Libraries & Code",ttlnews.blogspot.de,29,http://ttlnews.blogspot.de/2011/09/segmented-button-control-in-android.html
+"  AndTweet is an open source Android client for twitter.",AndTweet,"
+  Libraries & Code",code.google.com,29,http://code.google.com/p/andtweet/
+"	The legendary InstaPaper finally arrived on our Android Phones. It's not a free app but the 2,41 € are totally worth it.",Instapaper,"
+  App of the Week",play.google.com,29,https://play.google.com/store/apps/details?id=com.instapaper.android

@@ -1,0 +1,37 @@
+description,title,section,site,issue_num,link
+"    Providing a global menu which can be opened from left or right edge of the mobile screen is pretty common in apps these days. One of the technical hurdles is to detect a global onTouch event in Android. In this blog post Ketan Parmar explains how it can be done.",Detect Global Touch Event,"
+  Articles & Tutorials",kpbird.com,59,http://www.kpbird.com/2013/03/android-detect-global-touch-event.html
+"  Great post and video by Udi Cohen on how to tweak the performance of Android apps to the max",Android app to the Challenge,"
+  Articles & Tutorials",udinic.wordpress.com,59,http://udinic.wordpress.com/2013/03/04/android-app-to-the-challenge/
+"  In these slides Markus Junginger shows us which lessons he learned while developing a TV guide app for multiple Android platforms.",Prime Guide: Lessons learnt - Android App Development,"
+  Articles & Tutorials",de.slideshare.net,59,http://de.slideshare.net/greenrobot/prime-guide-lessons-learnt-android-app-development-18474518
+"  Mark Allison has started a new series dedicated to Adapters. Good stuff for beginners and a nice refresher for the experts.",Adapters – Part 1,"
+  Articles & Tutorials",blog.stylingandroid.com,59,http://blog.stylingandroid.com/archives/1679
+"  Part 2 of the Adapter series.",Adapters – Part 2,"
+  Articles & Tutorials",blog.stylingandroid.com,59,http://blog.stylingandroid.com/archives/1702
+"  If you're writing a service you might want to send data to your Activity. In this post Ronald Ammann explains how to do this using ResultReceiver.",ResultReceiver - Receive results from a service,"
+  Articles & Tutorials",ramdroid.github.io,59,http://ramdroid.github.io/androiddev/ResultReceiverDemo.html
+"  In this post Luke Sleeman show you hoe to toggle the device keyboard with a custom one.",Building clean RPN part one – Toggling the device and built in keypad,"
+  Articles & Tutorials",lukesleeman.com.au,59,http://lukesleeman.com.au/building-clean-rpn-part-one-toggling-the-device-and-built-in-keypad/
+"  This article is not directly Android related but it is crazy cool nonetheless: Hugo Teso shows how to hijack a plane just with an Android phone.",Hijacking airplanes with an Android phone,"
+  Articles & Tutorials",net-security.org,59,http://net-security.org/secworld.php?id=14733
+"  We're looking for a mobile engineer to help build cutting-edge Android apps for Eventbrite. We're building the tools that allow event organizers to sell tickets or check in attendees right on their phone or tablet, and to allow attendees to check in at events.",Eventbrite Senior Android Mobile Engineer,"
+  Jobs","San Francisco, CA",59,https://hire.jobvite.com/j?cj=okVcXfw8&s=AndroidWeekly
+"  Are you passionate about the latest Android SDK developments and 100% focused on great user experience and beautiful code? If you want to build exciting new features for the SoundCloud Android app and potentially other platforms, then this is for you.",SoundCloud Android Developer,"
+  Jobs","Berlin, Germany",59,http://hire.jobvite.com/j/?cj=oCIeWfwe&s=Android_Weekly
+,Post a job on Android Weekly,"
+  Jobs",androidweekly.net,59,http://androidweekly.net/jobs/new
+"  Udi Cohen has released a component for a split transition between two activities.",Activity Split Animation,"
+  Libraries & Code",udinic.wordpress.com,59,http://udinic.wordpress.com/2013/03/13/activity-split-animation/
+"  Tjerk Wolterink has released an Expandable List View like the fancy one you can see in the Spotify app.",Slide Expandable List View,"
+  Libraries & Code",github.com,59,https://github.com/tjerkw/Android-SlideExpandableListView
+"  AndroidAsync is a java.nio based socket and http library for Android.",Android Async,"
+  Libraries & Code",github.com,59,https://github.com/koush/AndroidAsync
+"    There is a new Google Play Store in town.  It is rolling out worldwide to Android phones and tablets. The UI got a lot better but the most important feature is that the ""In App Purchase"" is now dialog based. You don't have to leave the app to buy stuff.  ","New Look, New Purchase Flow in Google Play","
+  News",android-developers.blogspot.de,59,http://android-developers.blogspot.de/2013/04/new-look-new-purchase-flow-in-google.html
+"  Facebook has announced their new home screen.",Facebook Home review: are people more important than apps?,"
+  News",theverge.com,59,http://www.theverge.com/2013/4/9/4206168/facebook-home-review-android
+,"Android App to the challenge, by Udi Cohen, Reversim Summit 2013","
+  Screencasts",wla.tv,59,http://wla.tv/EV36
+"  Do you need a kickass backend development team for you Android app? Then you take a look at 9elements who are specialised in building awesome web applications.",Backend for your Android app!,"
+  Sponsored",9elements.com,59,http://9elements.com

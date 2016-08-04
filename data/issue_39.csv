@@ -1,0 +1,21 @@
+description,title,section,site,issue_num,link
+"    Mark Allisons 2nd post about styling the ActionBar. Be sure that you check out the past posts if you haven't already.",Styling the ActionBar Part 2,"
+  Articles & Tutorials",blog.stylingandroid.com,39,http://blog.stylingandroid.com/archives/1249
+"  Mobile testing automation is a difficult task. In this blog post from Dominik Dary you'll get an overview which mobile testing automation frameworks are out there. In later posts he'll show you how to apply mobile testing automation for your app.",Open Source Mobile Test Automation Frameworks,"
+  Articles & Tutorials",dary.de,39,http://www.dary.de/2012/03/open-source-mobile-test-automation-frameworks/
+"  In this blog post you'll learn some good tips when dealing with the WebView component.",WebView tips & tricks,"
+  Articles & Tutorials",stablex.blogspot.de,39,http://stablex.blogspot.de/2012/08/android-webview-tips-tricks.html
+"  Have you ever wondered why the vanilla WebView component is not as powerful as the Android browser - It's all a matter of configuration! HTML5WebView is a better start and it has plenty of configuration options! So when you want to implement HTML5 Video support or Geolocation Features you should start with this one.",Html5 Webview,"
+  Libraries & Code",code.google.com,39,http://code.google.com/p/html5webview/
+"  Novoda, a london based dev shop, released an open source component: ImageLoader. ImageLoader is a simple library that makes it easy to download, display and cache remote images in Android apps. Download happens away from the UI thread and the images are cached with a two-level in-memory/SD card cache.",ImageLoader,"
+  Libraries & Code",androidimageloader.com,39,http://androidimageloader.com/
+"  Do you need a Google+ sign in? Google Play services, client library API that offers integration with Google products in Android apps.",Google+ sign in,"
+  Libraries & Code",developers.google.com,39,https://developers.google.com/android/google-play-services/
+"    In this post Sebastiaan de With talks about the design process he applied when creating doubleTwist Alarm. ",Awakenings: An Android Design Process,"
+  Design",dewith.com,39,http://dewith.com/2012/an-android-design-process/
+"  Taylor Ling has written a series of blog posts UI/UX tips when designing Android apps.",Android UI/UX Tips #1,"
+  Design",androiduiux.com,39,http://androiduiux.com/2012/08/23/android-uiux-tips-1/
+"  Do you ever wanted to tweak you mobile website with a proper WebInspector? Device Remote Inspector does such a thing - but only for Chrome for Android.",Device Remote Inspector,"
+  Tools",github.com,39,https://github.com/subtleGradient/DeviceRemoteInspector.app
+"	Podkicker is a great Podcast application.",Podkicker Podcast Player,"
+  App of the Week",play.google.com,39,https://play.google.com/store/apps/details?id=ait.podka

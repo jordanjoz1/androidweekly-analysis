@@ -1,0 +1,31 @@
+description,title,section,site,issue_num,link
+"  An Android performance case study by Romain Guy it also includes a follow up exercise on how to optimize.",Android Performance Case Study,"
+  Articles & Tutorials",curious-creature.org,48,http://www.curious-creature.org/2012/12/01/android-performance-case-study/
+"  Romain Guy also shares a recipe how to create images with rounded corners.","Android Recipe #1, image with rounded corners","
+  Articles & Tutorials",curious-creature.org,48,http://www.curious-creature.org/2012/12/11/android-recipe-1-image-with-rounded-corners/
+"  Mark Allison is starting a new series on how to support multiple displays, a new feature in Android 4.2.",Multiple Displays – Part 1,"
+  Articles & Tutorials",blog.stylingandroid.com,48,http://blog.stylingandroid.com/archives/1394
+,And multiple displays part 2,"
+  Articles & Tutorials",blog.stylingandroid.com,48,http://blog.stylingandroid.com/archives/1413
+"  Sebastian Kaspari gives us a little inside about checking if a string is empty. Clean code FTW.  ",Mind the gap: String.isEmpty(),"
+  Articles & Tutorials",androidzeitgeist.com,48,http://www.androidzeitgeist.com/2012/12/string-is-empty.html
+"  IconicTextView, by Artur Termenji, is an extension of Android TextView class which provides support for some iconic fonts like Entypo.",IconicTextView,"
+  Libraries & Code",github.com,48,https://github.com/atermenji/IconicTextView
+"  Transfuse is a Java Dependency Injection and integration library geared specifically for the Google Android API. It would be interesting in what ways it differs from Roboguice.",Transfuse,"
+  Libraries & Code",androidtransfuse.org,48,http://androidtransfuse.org/
+"  Do you start Android development and do you want to know who things are done? Checkout the open source White House app. Lot's of best practices inside.",White House,"
+  Libraries & Code",github.com,48,https://github.com/WhiteHouse/wh-app-android
+"  Returning to N. America for 2013 Apps World’s Droid World will be housing some of the world’s leading developers, authors, brands and handset manufactures who will be taking the stage for two days of insight and debate around the world’s most popular smartphone OS.  It’s completely free to attend – register today! By the way: Android Weekly is giving away a free access all areas pass within the next weeks. Stay tuned.",Droid World,"
+  News",apps-world.net,48,http://www.apps-world.net/northamerica/agenda/tracks/droid-world
+"  Android In-App-Billing Version 3 launched. You can now use synchronous requests and many things are way easier to use.",In-App-Billing Version 3,"
+  News",android-developers.blogspot.co.uk,48,http://android-developers.blogspot.co.uk/2012/12/in-app-billing-version-3.html
+"  New Google Maps Android API now part of Google Play services.",Google Maps Android API,"
+  News",android-developers.blogspot.de,48,http://android-developers.blogspot.de/2012/12/new-google-maps-android-api-now-part-of.html
+"Two Toasters is looking for Mobile Developers to join our team. At Two Toasters, you will be working with cutting edge technology to build state of the art iOS and Android applications with a team that enjoys working hard and playing ping pong.",Mobile Developer at Two Toasters,"
+  Jobs","Durham, North Carolina, USA",48,http://twotoasters.com/Jobs/#Mobile%20Developer?utm_source=androidweekly
+"Join us in the Tech Villa and develop the next killer Android App with an exceptionally team at doo. If you're a senior Android developer with a passion for building kick-ass apps, we look forward to hearing from you! Check out what its like to work at doo. https://doo.net/de/jobs.html",doo - focus on building something great,"
+  Jobs","Bonn, Germany",48,http://vimeo.com/doonet/review/53607029/b3ff5d5229?utm_source=androidweekly
+"Your job will be to develop Android Apps in a friendly, fair and relaxedworking environment.You should enjoy programming and constant learning andhave a sense for clean, reusable code. Knowledge of other programminglanguages than Java is a plus.",Android App Developer at The App Guys,"
+  Jobs","Cologne, Germany",48,http://www.theappguys.de/jobs?utm_source=androidweekly
+,Post a job on Android Weekly,"
+  Jobs",androidweekly.net,48,http://androidweekly.net/jobs/new

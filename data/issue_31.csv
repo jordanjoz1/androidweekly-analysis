@@ -1,0 +1,19 @@
+description,title,section,site,issue_num,link
+"    This tutorial walks you briefly through the pitfalls when creating custom layouts.",Creating Custom Layouts for Android,"
+  Articles & Tutorials",arpitonline.com,31,http://www.arpitonline.com/blog/2012/07/01/creating-custom-layouts-for-android/?utm_source=androidweekly
+"  An AR engine that covers not only AR but related operations like compass and location.",Appunta,"
+  Libraries & Code",code.google.com,31,http://code.google.com/p/appunta/?utm_source=androidweekly
+"  The source code for the Google I/O 2012 Android app is now available at Google Code. If you're a newbie developer and want to see how things are glued together take a look at this to get some inspiration.",iosched,"
+  Libraries & Code",code.google.com,31,http://code.google.com/p/iosched/?utm_source=androidweekly
+"  I'm not quit sure if I like the AsyncTask handling since AsyncTask can really mess things up when you tear an Activity down (e.g. during orientation changes) but it looks quite solid nonetheless.",A basic HTTP client for Android,"
+  Libraries & Code",turbomanage.wordpress.com,31,http://turbomanage.wordpress.com/2012/06/12/a-basic-http-client-for-android-and-more/?utm_source=androidweekly
+"    Today we're launching the first version of our Android Toolbox. The toolbox helps you choosing the right libraries to get things done. If you have any additions feel free to submit them here.",Android Toolbox,"
+  News",androidweekly.net,31,http://androidweekly.net/toolbox/?utm_source=androidweekly
+"  This is an interesting attempt at collection information about what device runs at which pixel density.",List of Android Devices,"
+  Tools",blog.blundell-apps.com,31,http://blog.blundell-apps.com/list-of-android-devices-with-pixel-density-buckets/?utm_source=androidweekly
+"  Asset Studio is a bunch of tools that allow you to quickly and easily generate icons from existing source images, clipart, or text.",Android Asset Studio,"
+  Tools",android-ui-utils.googlecode.com,31,http://android-ui-utils.googlecode.com/hg/asset-studio/dist/index.html/?utm_source=androidweekly
+"    A sneak peak video about the new nine patch generator in the Asset Studio.",Asset Studio,"
+  Screencasts",watchlaterapp.com,31,http://watchlaterapp.com/cIoQ/?utm_source=androidweekly
+"	A free app that shows you all common UI Patterns on Android.",Android UI Patterns,"
+  App of the Week",play.google.com,31,https://play.google.com/store/apps/details?id=com.groidify.uipatterns
