@@ -1,21 +1,11 @@
 description,title,section,site,issue_num,link
-"     We were on the road in cologne on a hackathon event and had a lot of stuff to do.",Sorry for the delay,"
-  Sorry!",androidweekly.net,25,http://androidweekly.net/images/issue25/sorry.png
-"    This sample application aims at illustrating the port of the Restlet API on the Google Android platform.",Restlet API,"
-  Articles & Tutorials",wiki.restlet.org,25,http://wiki.restlet.org/docs_2.1/13-restlet/275-restlet/266-restlet/269-restlet.html
-"  5 non technical skills to look forward to.",Hire Android App Developer,"
-  Articles & Tutorials",android.ezinemark.com,25,http://android.ezinemark.com/hire-android-app-developer-5-non-technical-skills-to-look-forward-to-7d35eca8d905.html
-"  How to use intents to launch several activities within the same application and how to pass data between them.",How to use intents to launch several activities,"
-  Articles & Tutorials",mobileorchard.com,25,http://mobileorchard.com/android-app-development-using-intents-to-pass-data-and-return-results-between-activities/
-"  An Android optimization - how to customize the listview for Android.",Why is my list black?,"
-  Articles & Tutorials",curious-creature.org,25,http://www.curious-creature.org/2008/12/22/why-is-my-list-black-an-android-optimization/
-"  Our first App.",31 Days of Android: Day 4,"
-  Articles & Tutorials",chrisrisner.com,25,http://chrisrisner.com/31-Days-of-Android--Day-4%E2%80%93Our-First-App
-"  Droid-Fu was a nice library of helper classes - you Ignition is aiming to supersede it. It contains several widgets, a better HTTP Client and a nicer and more robust implementation of AsyncTask.",Droid-Fo -> Ignition,"
-  Libraries & Code",github.com,25,https://github.com/kaeppler/ignition
-"  Dealing with self-signed SSL certificates is a real pain, because it's not that simple to add them in your app and let android accept them. But fortunately, there's a workaround that uses an own SSLSocketFactory and an own TrustManager.",Android and self-signed ssl certificates,"
-  Libraries & Code",blog.synyx.de,25,http://blog.synyx.de/2010/06/android-and-self-signed-ssl-certificates/
-"  RenderScript is an API that allows developers to better utilize the GPUs in the newest Android phones.",Learn about RenderScript,"
-  Screencasts",watchlaterapp.com,25,http://watchlaterapp.com/asOx
-"	Fancy is for curators of style. It's part blog, part magazine and part bookmarking tool. It's a place to share and discover great stuff, to curate a collection of things that define your style, to create a museum of Me.",Fancy,"
-  App of the Week",play.google.com,25,https://play.google.com/store/apps/details?id=com.thefancy.app&feature=search_result
+We were on the road in cologne on a hackathon event and had a lot of stuff to do.,Sorry for the delay,Sorry!,androidweekly.net,25,http://androidweekly.net/images/issue25/sorry.png
+This sample application aims at illustrating the port of the Restlet API on the Google Android platform.,Restlet API,Articles & Tutorials,wiki.restlet.org,25,http://wiki.restlet.org/docs_2.1/13-restlet/275-restlet/266-restlet/269-restlet.html
+5 non technical skills to look forward to.,Hire Android App Developer,Articles & Tutorials,android.ezinemark.com,25,http://android.ezinemark.com/hire-android-app-developer-5-non-technical-skills-to-look-forward-to-7d35eca8d905.html
+How to use intents to launch several activities within the same application and how to pass data between them.,How to use intents to launch several activities,Articles & Tutorials,mobileorchard.com,25,http://mobileorchard.com/android-app-development-using-intents-to-pass-data-and-return-results-between-activities/
+An Android optimization - how to customize the listview for Android.,Why is my list black?,Articles & Tutorials,curious-creature.org,25,http://www.curious-creature.org/2008/12/22/why-is-my-list-black-an-android-optimization/
+Our first App.,31 Days of Android: Day 4,Articles & Tutorials,chrisrisner.com,25,http://chrisrisner.com/31-Days-of-Android--Day-4%E2%80%93Our-First-App
+"Droid-Fu was a nice library of helper classes - you Ignition is aiming to supersede it. It contains several widgets, a better HTTP Client and a nicer and more robust implementation of AsyncTask.",Droid-Fo -> Ignition,Libraries & Code,github.com,25,https://github.com/kaeppler/ignition
+"Dealing with self-signed SSL certificates is a real pain, because it's not that simple to add them in your app and let android accept them. But fortunately, there's a workaround that uses an own SSLSocketFactory and an own TrustManager.",Android and self-signed ssl certificates,Libraries & Code,blog.synyx.de,25,http://blog.synyx.de/2010/06/android-and-self-signed-ssl-certificates/
+RenderScript is an API that allows developers to better utilize the GPUs in the newest Android phones.,Learn about RenderScript,Screencasts,watchlaterapp.com,25,http://watchlaterapp.com/asOx
+"Fancy is for curators of style. It's part blog, part magazine and part bookmarking tool. It's a place to share and discover great stuff, to curate a collection of things that define your style, to create a museum of Me.",Fancy,App of the Week,play.google.com,25,https://play.google.com/store/apps/details?id=com.thefancy.app&feature=search_result

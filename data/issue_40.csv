@@ -1,21 +1,11 @@
 description,title,section,site,issue_num,link
-"    In this tutorial you'll learn how to create a Twitter widget that updates every 30 seconds.",Twitter Feed on an App Widget,"
-  Articles & Tutorials",blog.blundell-apps.com,40,http://blog.blundell-apps.com/tut-twitter-on-an-app-widget/
-"  Mark Allisons 3rd post about styling the ActionBar. You should check out the past posts if you haven't already.",Styling the ActionBar – Part 3,"
-  Articles & Tutorials",blog.stylingandroid.com,40,http://blog.stylingandroid.com/archives/1267
-"  In this post Dominik Dary gives you 10 (sometimes painful) lessons learned, when doing Test Automation.",Test Automation - 10 Lessons Learned,"
-  Articles & Tutorials",dary.de,40,http://www.dary.de/2012/03/test-automation-10-sometimes-painful-lessons-learned/
-"  Chris Banes has released PhotoView, a simple ImageView that support zooming, both by Multi-touch gestures and double-tap.",PhotoView,"
-  Libraries & Code",github.com,40,https://github.com/chrisbanes/PhotoView
-"  Disk LRU Cache, written by Jake Wharton, is a cache that uses a certain amount of space on a filesystem.",Disk LRU Cache,"
-  Libraries & Code",github.com,40,https://github.com/JakeWharton/DiskLruCache
-"  Jalousie, a library providing expandable layouts and views for Android. ",Jalousie,"
-  Libraries & Code",github.com,40,https://github.com/AndreasZeiser/Jalousie
-"    Second blog post by Tayler Ling about UI/UX tips for designing Android apps.",Android UI/UX Tips #2,"
-  Design",androiduiux.com,40,http://androiduiux.com/2012/09/04/android-uiux-tips-2/
-"  Droid Style is a little blog dedicated how little design details are done in the Android world.",Droidstyle,"
-  Design",droidstyle.aaplab.com,40,http://droidstyle.aaplab.com/
-"    Travel Booking and Planning",Android Design in Action,"
-  Screencasts",watchlaterapp.com,40,http://watchlaterapp.com/oDaD
-"	The Verge app. Nice designed and worth a look.",Verge,"
-  App of the Week",play.google.com,40,https://play.google.com/store/apps/details?id=com.verge.android
+In this tutorial you'll learn how to create a Twitter widget that updates every 30 seconds.,Twitter Feed on an App Widget,Articles & Tutorials,blog.blundell-apps.com,40,http://blog.blundell-apps.com/tut-twitter-on-an-app-widget/
+Mark Allisons 3rd post about styling the ActionBar. You should check out the past posts if you haven't already.,Styling the ActionBar – Part 3,Articles & Tutorials,blog.stylingandroid.com,40,http://blog.stylingandroid.com/archives/1267
+"In this post Dominik Dary gives you 10 (sometimes painful) lessons learned, when doing Test Automation.",Test Automation - 10 Lessons Learned,Articles & Tutorials,dary.de,40,http://www.dary.de/2012/03/test-automation-10-sometimes-painful-lessons-learned/
+"Chris Banes has released PhotoView, a simple ImageView that support zooming, both by Multi-touch gestures and double-tap.",PhotoView,Libraries & Code,github.com,40,https://github.com/chrisbanes/PhotoView
+"Disk LRU Cache, written by Jake Wharton, is a cache that uses a certain amount of space on a filesystem.",Disk LRU Cache,Libraries & Code,github.com,40,https://github.com/JakeWharton/DiskLruCache
+"Jalousie, a library providing expandable layouts and views for Android.",Jalousie,Libraries & Code,github.com,40,https://github.com/AndreasZeiser/Jalousie
+Second blog post by Tayler Ling about UI/UX tips for designing Android apps.,Android UI/UX Tips #2,Design,androiduiux.com,40,http://androiduiux.com/2012/09/04/android-uiux-tips-2/
+Droid Style is a little blog dedicated how little design details are done in the Android world.,Droidstyle,Design,droidstyle.aaplab.com,40,http://droidstyle.aaplab.com/
+Travel Booking and Planning,Android Design in Action,Screencasts,watchlaterapp.com,40,http://watchlaterapp.com/oDaD
+The Verge app. Nice designed and worth a look.,Verge,App of the Week,play.google.com,40,https://play.google.com/store/apps/details?id=com.verge.android

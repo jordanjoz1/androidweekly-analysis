@@ -1,21 +1,11 @@
 description,title,section,site,issue_num,link
-"    Have you ever wanted to use BitMap fonts on Android? Maybe for a game or something else? This article explains how to implement your own SurfaceView.",Using Bitmap Fonts in Android,"
-  Articles & Tutorials",obviam.net,24,http://obviam.net/index.php/using-bitmap-fonts-in-android/
-"  A great blogpost on how to set targetSdkVersion and minSdkVersion.",What API level should I target?,"
-  Articles & Tutorials",simonvt.net,24,http://simonvt.net/2012/02/07/what-api-level-should-i-target/
-"  In the upcoming weeks, some of the older Client Login authentication keys will expire. If you generated the token you’re currently using to authenticate with the C2DM servers before October 2011, it will stop working.",Android C2DM - Client Login key expiration,"
-  Articles & Tutorials",android-developers.blogspot.de,24,http://android-developers.blogspot.de/2012/04/android-c2dm-client-login-key.html
-,31 Days of Android: Day 3 - A Java Refresher,"
-  Articles & Tutorials",chrisrisner.com,24,http://chrisrisner.com/31-Days-of-Android--Day-3---A-Java-Refresher
-"  DataDroid is a library that helps you to develop Restful Android Applications.",DataDroid,"
-  Libraries & Code",github.com,24,https://github.com/foxykeep/datadroid
-"  The ViewFlow UI component is a horizontally scrollable ViewGroup with items populated from an Adapter. It has been recently improved and updated.",ViewFlow UI,"
-  Libraries & Code",github.com,24,https://github.com/pakerfeldt/android-viewflow
-"  Testing HTTP services can a pain. Fortunately Vladimir Vivien has created a mock http server to test your services.",Mock Http Server,"
-  Libraries & Code",github.com,24,https://github.com/vladimirvivien/workbench/tree/master/android-tutorials/MockHttpServer
-"    This session will present architectural considerations for developing RESTful applications on the Android platform.",Android REST client applications ,"
-  Screencasts",watchlaterapp.com,24,http://watchlaterapp.com/wEP
-,A screencast on how to master C2DM,"
-  Screencasts",watchlaterapp.com,24,http://watchlaterapp.com/arYY
-"	Spotify brings millions of tracks to Android. Your music is always with you.",Spotify,"
-  App of the Week",play.google.com,24,https://play.google.com/store/apps/details?id=com.spotify.mobile.android.ui&feature=search_result&hl=en
+Have you ever wanted to use BitMap fonts on Android? Maybe for a game or something else? This article explains how to implement your own SurfaceView.,Using Bitmap Fonts in Android,Articles & Tutorials,obviam.net,24,http://obviam.net/index.php/using-bitmap-fonts-in-android/
+A great blogpost on how to set targetSdkVersion and minSdkVersion.,What API level should I target?,Articles & Tutorials,simonvt.net,24,http://simonvt.net/2012/02/07/what-api-level-should-i-target/
+"In the upcoming weeks, some of the older Client Login authentication keys will expire. If you generated the token you’re currently using to authenticate with the C2DM servers before October 2011, it will stop working.",Android C2DM - Client Login key expiration,Articles & Tutorials,android-developers.blogspot.de,24,http://android-developers.blogspot.de/2012/04/android-c2dm-client-login-key.html
+,31 Days of Android: Day 3 - A Java Refresher,Articles & Tutorials,chrisrisner.com,24,http://chrisrisner.com/31-Days-of-Android--Day-3---A-Java-Refresher
+DataDroid is a library that helps you to develop Restful Android Applications.,DataDroid,Libraries & Code,github.com,24,https://github.com/foxykeep/datadroid
+The ViewFlow UI component is a horizontally scrollable ViewGroup with items populated from an Adapter. It has been recently improved and updated.,ViewFlow UI,Libraries & Code,github.com,24,https://github.com/pakerfeldt/android-viewflow
+Testing HTTP services can a pain. Fortunately Vladimir Vivien has created a mock http server to test your services.,Mock Http Server,Libraries & Code,github.com,24,https://github.com/vladimirvivien/workbench/tree/master/android-tutorials/MockHttpServer
+This session will present architectural considerations for developing RESTful applications on the Android platform.,Android REST client applications,Screencasts,watchlaterapp.com,24,http://watchlaterapp.com/wEP
+,A screencast on how to master C2DM,Screencasts,watchlaterapp.com,24,http://watchlaterapp.com/arYY
+Spotify brings millions of tracks to Android. Your music is always with you.,Spotify,App of the Week,play.google.com,24,https://play.google.com/store/apps/details?id=com.spotify.mobile.android.ui&feature=search_result&hl=en

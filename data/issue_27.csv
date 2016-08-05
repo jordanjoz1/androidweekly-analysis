@@ -1,25 +1,13 @@
 description,title,section,site,issue_num,link
-"    Fragments are a great way to split up Activities into smaller and better reusable pieces. Originally they were introduced with Honeycomb, but with the v4 Compat library they are also available for older devices. In this tutorial you'll learn how to create a basic input dialog with fragments.",Using DialogFragments,"
-  Articles & Tutorials",android-developers.blogspot.de,27,http://android-developers.blogspot.de/2012/05/using-dialogfragments.html
-"  All roads lead to Rome. But sometimes you need the best road - Android Cookbook is a crowd-sourced collection of tutorials that explain how to do specific tasks like how to deal with the GUI or how to do inter and intra process communication.",Android CookBook,"
-  Articles & Tutorials",androidcookbook.com,27,http://androidcookbook.com/
-"  31 Days of Android: Day 6–Options Menus and Base Activities",31 Days Android: Day 6,"
-  Articles & Tutorials",chrisrisner.com,27,http://chrisrisner.com/31-Days-of-Android--Day-6%E2%80%93Options-Menus-and-Base-Activities
-"  Do you have some problems like ANR of death or memory leaks and you have no clue where it comes from? Enable the StrictMode and get much more information about your app.",StrictMode,"
-  Articles & Tutorials",developer.android.com,27,https://developer.android.com/reference/android/os/StrictMode.html
-"  Image manager provides performant and easy way to load image resources asynchronously with many options like loading different versions and image quality control.",Android-image-manager,"
-  Libraries & Code",code.google.com,27,http://code.google.com/p/android-image-manager/
-"  This gist shows you how to implement a ContractFragment. It ensures that the parent Activity implements a contract interface.",ContractFragment,"
-  Libraries & Code",github.com,27,https://gist.github.com/2621173
-"  If you want to use a AsyncTaskLoader to load something over the network here is a little snippets to help you get the job done.",Using Loaders beyond Cursors,"
-  Libraries & Code",andappdevlog.tumblr.com,27,http://andappdevlog.tumblr.com/post/6756906908/using-loaders-beyond-cursors
-"  A code library to communicate AdbToggle.",AdbToggleAccessLib,"
-  Libraries & Code",github.com,27,https://github.com/ramdroid/AdbToggleAccessLib
-"    When google bought Motorola a lot of vendors were afraid that their devices will get 2nd class citizen in the Android landscape. Now google is changing the track: Instead of one chosen vendor who will get hands on the next Android OS all vendors will get a preview so that they can start early integrating their custom extensions.",Google Shifts Tack on Android,"
-  News",online.wsj.com,27,http://online.wsj.com/article/SB10001424052702304371504577406511931421118.html
-"  Another great Android income report. If you want to make money in the Playstore this is an essential resource.",Android Income Report #12,"
-  News",droid-blog.net,27,http://droid-blog.net/2012/05/13/android-income-report-12-may-12/
-"  Do you need some inspiration on design? Android app patterns shows great examples for many UI design patterns.",Android App Patterns,"
-  Design",android-app-patterns.com,27,http://www.android-app-patterns.com/
-"	AdbToggle is a security tool that allows you to toggle the USB debug settings. ",AdbToggle,"
-  App of the Week",play.google.com,27,https://play.google.com/store/apps/details?id=com.ramdroid.adbtoggle
+"Fragments are a great way to split up Activities into smaller and better reusable pieces. Originally they were introduced with Honeycomb, but with the v4 Compat library they are also available for older devices. In this tutorial you'll learn how to create a basic input dialog with fragments.",Using DialogFragments,Articles & Tutorials,android-developers.blogspot.de,27,http://android-developers.blogspot.de/2012/05/using-dialogfragments.html
+All roads lead to Rome. But sometimes you need the best road - Android Cookbook is a crowd-sourced collection of tutorials that explain how to do specific tasks like how to deal with the GUI or how to do inter and intra process communication.,Android CookBook,Articles & Tutorials,androidcookbook.com,27,http://androidcookbook.com/
+31 Days of Android: Day 6–Options Menus and Base Activities,31 Days Android: Day 6,Articles & Tutorials,chrisrisner.com,27,http://chrisrisner.com/31-Days-of-Android--Day-6%E2%80%93Options-Menus-and-Base-Activities
+Do you have some problems like ANR of death or memory leaks and you have no clue where it comes from? Enable the StrictMode and get much more information about your app.,StrictMode,Articles & Tutorials,developer.android.com,27,https://developer.android.com/reference/android/os/StrictMode.html
+Image manager provides performant and easy way to load image resources asynchronously with many options like loading different versions and image quality control.,Android-image-manager,Libraries & Code,code.google.com,27,http://code.google.com/p/android-image-manager/
+This gist shows you how to implement a ContractFragment. It ensures that the parent Activity implements a contract interface.,ContractFragment,Libraries & Code,github.com,27,https://gist.github.com/2621173
+If you want to use a AsyncTaskLoader to load something over the network here is a little snippets to help you get the job done.,Using Loaders beyond Cursors,Libraries & Code,andappdevlog.tumblr.com,27,http://andappdevlog.tumblr.com/post/6756906908/using-loaders-beyond-cursors
+A code library to communicate AdbToggle.,AdbToggleAccessLib,Libraries & Code,github.com,27,https://github.com/ramdroid/AdbToggleAccessLib
+When google bought Motorola a lot of vendors were afraid that their devices will get 2nd class citizen in the Android landscape. Now google is changing the track: Instead of one chosen vendor who will get hands on the next Android OS all vendors will get a preview so that they can start early integrating their custom extensions.,Google Shifts Tack on Android,News,online.wsj.com,27,http://online.wsj.com/article/SB10001424052702304371504577406511931421118.html
+Another great Android income report. If you want to make money in the Playstore this is an essential resource.,Android Income Report #12,News,droid-blog.net,27,http://droid-blog.net/2012/05/13/android-income-report-12-may-12/
+Do you need some inspiration on design? Android app patterns shows great examples for many UI design patterns.,Android App Patterns,Design,android-app-patterns.com,27,http://www.android-app-patterns.com/
+AdbToggle is a security tool that allows you to toggle the USB debug settings.,AdbToggle,App of the Week,play.google.com,27,https://play.google.com/store/apps/details?id=com.ramdroid.adbtoggle

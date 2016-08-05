@@ -1,19 +1,10 @@
 description,title,section,site,issue_num,link
-"    Cloud to device messaging, Androids counterpart to push notifications, is pretty easy to implemented. In his C2DM tutorial Lars Vogel walks you through everything you need to know.",Cloud to Device Messaging,"
-  Articles & Tutorials",vogella.com,23,http://www.vogella.com/articles/AndroidCloudToDeviceMessaging/article.html
-"  In the second tutorial of 31 Days of Android you'll learn how to create Android Virtual Devices for the emulator.",Creating Android Virtual Devices (AVDs),"
-  Articles & Tutorials",chrisrisner.com,23,http://chrisrisner.com/31-Days-of-Android--Day-2---Creating-Android-Virtual-Devices-(AVDs)
-"  If you want to pass complex objects beween Activities you have to do a little ceremonial work (aka implement the parcable interface). In this tutorial you'll learn how to do that.",Parcel data to pass between Activities using Parcelable classes,"
-  Articles & Tutorials",shri.blog.kraya.co.uk,23,http://shri.blog.kraya.co.uk/2010/04/26/android-parcel-data-to-pass-between-activities-using-parcelable-classes/
-"  Ever wondered which parameters to stuff in an intent to share an email? Android Snippets got the answer! ",Android Snippets,"
-  Libraries & Code",androidsnippets.com,23,http://www.androidsnippets.com/
-"  Badges are a pretty common design pattern. Viewbadger is a simple way to ""badge"" any given Android view at runtime without having to cater for it in layout.",Android Viewbadger,"
-  Libraries & Code",github.com,23,https://github.com/jgilfelt/android-viewbadger
-"  SmartImageView is a drop-in replacement for Android’s standard ImageView which additionally allows images to be loaded from URLs or the user’s contact address book. Images are cached to memory and to disk for super fast loading.",Smart Image View for Android,"
-  Libraries & Code",github.com,23,https://github.com/loopj/android-smart-image-view
-"    Google just announced significant updates to their (painfully slow) emulator. That should make testing more pleasant. If you need even more speed then try one of those Android x86 images that can be found on http://www.android-x86.org/",A Faster Emulator with Better Hardware Support,"
-  News",android-developers.blogspot.de,23,http://android-developers.blogspot.de/2012/04/faster-emulator-with-better-hardware.html
-"    Good read on how the Android App Papermill worked. Papermill is a client for Instapaper.",First few weeks of Papermill,"
-  Business",papermill.me,23,http://www.papermill.me/firstweeks/
-"	We covered this already, but now currents is available for the outside US markets.",Google Currents,"
-  App of the Week",play.google.com,23,https://play.google.com/store/apps/details?id=com.google.android.apps.currents
+"Cloud to device messaging, Androids counterpart to push notifications, is pretty easy to implemented. In his C2DM tutorial Lars Vogel walks you through everything you need to know.",Cloud to Device Messaging,Articles & Tutorials,vogella.com,23,http://www.vogella.com/articles/AndroidCloudToDeviceMessaging/article.html
+In the second tutorial of 31 Days of Android you'll learn how to create Android Virtual Devices for the emulator.,Creating Android Virtual Devices (AVDs),Articles & Tutorials,chrisrisner.com,23,http://chrisrisner.com/31-Days-of-Android--Day-2---Creating-Android-Virtual-Devices-(AVDs)
+If you want to pass complex objects beween Activities you have to do a little ceremonial work (aka implement the parcable interface). In this tutorial you'll learn how to do that.,Parcel data to pass between Activities using Parcelable classes,Articles & Tutorials,shri.blog.kraya.co.uk,23,http://shri.blog.kraya.co.uk/2010/04/26/android-parcel-data-to-pass-between-activities-using-parcelable-classes/
+Ever wondered which parameters to stuff in an intent to share an email? Android Snippets got the answer!,Android Snippets,Libraries & Code,androidsnippets.com,23,http://www.androidsnippets.com/
+"Badges are a pretty common design pattern. Viewbadger is a simple way to ""badge"" any given Android view at runtime without having to cater for it in layout.",Android Viewbadger,Libraries & Code,github.com,23,https://github.com/jgilfelt/android-viewbadger
+SmartImageView is a drop-in replacement for Android’s standard ImageView which additionally allows images to be loaded from URLs or the user’s contact address book. Images are cached to memory and to disk for super fast loading.,Smart Image View for Android,Libraries & Code,github.com,23,https://github.com/loopj/android-smart-image-view
+Google just announced significant updates to their (painfully slow) emulator. That should make testing more pleasant. If you need even more speed then try one of those Android x86 images that can be found on http://www.android-x86.org/,A Faster Emulator with Better Hardware Support,News,android-developers.blogspot.de,23,http://android-developers.blogspot.de/2012/04/faster-emulator-with-better-hardware.html
+Good read on how the Android App Papermill worked. Papermill is a client for Instapaper.,First few weeks of Papermill,Business,papermill.me,23,http://www.papermill.me/firstweeks/
+"We covered this already, but now currents is available for the outside US markets.",Google Currents,App of the Week,play.google.com,23,https://play.google.com/store/apps/details?id=com.google.android.apps.currents

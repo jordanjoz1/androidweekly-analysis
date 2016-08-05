@@ -1,19 +1,10 @@
 description,title,section,site,issue_num,link
-"  App monetization is a quite tricky thing. Here comes a nice blog post that tries to explain how to do it (or how to fail).",App Monetization as a Case Study,"
-  Articles & Tutorials",mssoni.blogspot.in,36,http://mssoni.blogspot.in/2012/08/app-monetization-as-case-study-omnidesk.html
-"  This tutorial by Wolfram Rittmeyer explains how to handle binary data together with contentproviders.",Handling Binary Data with ContentProviders,"
-  Articles & Tutorials",grokkingandroid.com,36,http://www.grokkingandroid.com/handling-binary-data-with-contentproviders/
-"  And another tutorial from him that shows you how to implement search suggestions.",Adding Search Suggestions,"
-  Articles & Tutorials",grokkingandroid.com,36,http://www.grokkingandroid.com/android-tutorial-adding-suggestions-to-search/
-"  An asynchronous callback-based Http client for Android built on top of Apache’s HttpClient libraries. All requests are made outside of your app’s main UI thread, but any callback logic will be executed on the same thread as the callback was created using Android’s Handler message passing.",Asynchronous Http Client,"
-  Libraries & Code",loopj.com,36,http://loopj.com/android-async-http/
-"  Android Menu Drawer is a fly in app menu implementation based on this blog post (http://android.cyrilmottier.com/?p=658). It's implemented as an Android Library project.",Android Menudrawer,"
-  Libraries & Code",github.com,36,https://github.com/SimonVT/android-menudrawer
-"  Wizard Builder is a helper to create easy wizards for your app.",Wizard Builder,"
-  Libraries & Code",github.com,36,https://github.com/ramdroid/WizardBuilder
-"  This one is similar to our toolbox, great libraries in there.",The Ultimate Android Library,"
-  Libraries & Code",theultimateandroidlibrary.com,36,http://www.theultimateandroidlibrary.com/
-"    Good news everyone! Latest Android device distribution shows that now a little more than 20% of all devices are running Android >4.0",more than 20% Android 4.0 devices,"
-  News",developer.android.com,36,http://developer.android.com/about/dashboards/index.html
-"	This app is for our supernerds: Emacs for your Android.",Emacs,"
-  App of the Week",play.google.com,36,https://play.google.com/store/apps/details?id=com.zielm.emacs
+App monetization is a quite tricky thing. Here comes a nice blog post that tries to explain how to do it (or how to fail).,App Monetization as a Case Study,Articles & Tutorials,mssoni.blogspot.in,36,http://mssoni.blogspot.in/2012/08/app-monetization-as-case-study-omnidesk.html
+This tutorial by Wolfram Rittmeyer explains how to handle binary data together with contentproviders.,Handling Binary Data with ContentProviders,Articles & Tutorials,grokkingandroid.com,36,http://www.grokkingandroid.com/handling-binary-data-with-contentproviders/
+And another tutorial from him that shows you how to implement search suggestions.,Adding Search Suggestions,Articles & Tutorials,grokkingandroid.com,36,http://www.grokkingandroid.com/android-tutorial-adding-suggestions-to-search/
+"An asynchronous callback-based Http client for Android built on top of Apache’s HttpClient libraries. All requests are made outside of your app’s main UI thread, but any callback logic will be executed on the same thread as the callback was created using Android’s Handler message passing.",Asynchronous Http Client,Libraries & Code,loopj.com,36,http://loopj.com/android-async-http/
+Android Menu Drawer is a fly in app menu implementation based on this blog post (http://android.cyrilmottier.com/?p=658). It's implemented as an Android Library project.,Android Menudrawer,Libraries & Code,github.com,36,https://github.com/SimonVT/android-menudrawer
+Wizard Builder is a helper to create easy wizards for your app.,Wizard Builder,Libraries & Code,github.com,36,https://github.com/ramdroid/WizardBuilder
+"This one is similar to our toolbox, great libraries in there.",The Ultimate Android Library,Libraries & Code,theultimateandroidlibrary.com,36,http://www.theultimateandroidlibrary.com/
+Good news everyone! Latest Android device distribution shows that now a little more than 20% of all devices are running Android >4.0,more than 20% Android 4.0 devices,News,developer.android.com,36,http://developer.android.com/about/dashboards/index.html
+This app is for our supernerds: Emacs for your Android.,Emacs,App of the Week,play.google.com,36,https://play.google.com/store/apps/details?id=com.zielm.emacs

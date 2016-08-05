@@ -1,21 +1,11 @@
 description,title,section,site,issue_num,link
-"		Happy new year everyone! Plenty of things are happening in the Android sphere, and we are glad to help you to catch up with all the stuff that happens.",Happy new year,"
-	HEADLINES",androidweekly.net,9,http://androidweekly.net
-"	A quick eample how to use SQLite in an Android app.",Using SQLite Database with Android,"
-	ARTICLES AND TUTORIALS",agiliq.com,9,http://agiliq.com/blog/2011/12/using-sqlite-database-with-android/
-"	Androids 4.0 holo themes and what you should know about it.",Holo Everywhere,"
-	ARTICLES AND TUTORIALS",android-developers.blogspot.com,9,http://android-developers.blogspot.com/2012/01/holo-everywhere.html
-"	In this article you'll find a summary how Android UIs generally function on a higher level.",What Android Apps Should Look like?,"
-	ARTICLES AND TUTORIALS",androiduipatterns.com,9,http://www.androiduipatterns.com/2011/12/how-should-android-apps-look-like_16.html
-"	With HockeyKit deploying Android and iOS Apps for your testers is like a breeze.",HockeyKit Demo version for Android,"
-	LIBRARIES AND CODE",github.com,9,https://github.com/TheRealKerni/HockeyKit
-,A demo of CheckBox’s isChecked() method.,"
-	LIBRARIES AND CODE",technotalkative.com,9,http://www.technotalkative.com/android-checkbox-example-ischecked/
-,Sending SMS from android application - method 1.,"
-	LIBRARIES AND CODE",technotalkative.com,9,http://www.technotalkative.com/android-%E2%80%93-sending-sms-from-android-application-%E2%80%93-method-1/
-,Sending SMS from android application - method 2.,"
-	LIBRARIES AND CODE",technotalkative.com,9,http://www.technotalkative.com/android-sending-sms-from-android-application
-"		 ",A screencast about Android intents.,"
-	SCREENCASTS",watchlaterapp.com,9,http://wla.tv/7eMy
-"	AdFree removes most ads in the browser and other apps.",AdFree,"
-	APP OF THE WEEK",market.android.com,9,https://market.android.com/details?id=com.bigtincan.android.adfree
+"Happy new year everyone! Plenty of things are happening in the Android sphere, and we are glad to help you to catch up with all the stuff that happens.",Happy new year,HEADLINES,androidweekly.net,9,http://androidweekly.net
+A quick eample how to use SQLite in an Android app.,Using SQLite Database with Android,ARTICLES AND TUTORIALS,agiliq.com,9,http://agiliq.com/blog/2011/12/using-sqlite-database-with-android/
+Androids 4.0 holo themes and what you should know about it.,Holo Everywhere,ARTICLES AND TUTORIALS,android-developers.blogspot.com,9,http://android-developers.blogspot.com/2012/01/holo-everywhere.html
+In this article you'll find a summary how Android UIs generally function on a higher level.,What Android Apps Should Look like?,ARTICLES AND TUTORIALS,androiduipatterns.com,9,http://www.androiduipatterns.com/2011/12/how-should-android-apps-look-like_16.html
+With HockeyKit deploying Android and iOS Apps for your testers is like a breeze.,HockeyKit Demo version for Android,LIBRARIES AND CODE,github.com,9,https://github.com/TheRealKerni/HockeyKit
+,A demo of CheckBox’s isChecked() method.,LIBRARIES AND CODE,technotalkative.com,9,http://www.technotalkative.com/android-checkbox-example-ischecked/
+,Sending SMS from android application - method 1.,LIBRARIES AND CODE,technotalkative.com,9,http://www.technotalkative.com/android-%E2%80%93-sending-sms-from-android-application-%E2%80%93-method-1/
+,Sending SMS from android application - method 2.,LIBRARIES AND CODE,technotalkative.com,9,http://www.technotalkative.com/android-sending-sms-from-android-application
+ ,A screencast about Android intents.,SCREENCASTS,watchlaterapp.com,9,http://wla.tv/7eMy
+AdFree removes most ads in the browser and other apps.,AdFree,APP OF THE WEEK,market.android.com,9,https://market.android.com/details?id=com.bigtincan.android.adfree

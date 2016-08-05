@@ -1,17 +1,9 @@
 description,title,section,site,issue_num,link
-"		A deep dive tutorial on how to use Android Intents.",Using Intents in Android,"
-	ARTICLES AND TUTORIALS",vogella.de,12,http://www.vogella.de/articles/AndroidIntent/article.html
-"		Say goodbye to the menu button. This tutorials explains why you should avoid to put all your actions into the menu.",Goodbye Menu Button,"
-	ARTICLES AND TUTORIALS",android-developers.blogspot.com,12,http://android-developers.blogspot.com/2012/01/say-goodbye-to-menu-button.html
-"	This weeks focus is on persistence and the first library will show you on how to persist classes with SQLite.",OrmLite,"
-	LIBRARIES AND CODE",ormlite.com,12,http://ormlite.com/sqlite_java_android_orm.shtml
-,Deserializing JSON in Android using GSON,"
-	LIBRARIES AND CODE",benjii.me,12,http://benjii.me/2010/04/deserializing-json-in-android-using-gson/
-,Simple XML in Android,"
-	LIBRARIES AND CODE",robertmassaioli.wordpress.com,12,http://robertmassaioli.wordpress.com/2011/04/21/simple-xml-in-android-1-5-and-up/
-"		You want to use some of the new fancy Holo icons? Just download them all, they are licensed under Apache License.",Fancy holo Icons,"
-	RESOURCES",developer.android.com,12,http://developer.android.com/design/static/download/action_bar_icons-v4.0.zip
-,Designing and Implementing Android UIs for Phones and Tablets,"
-	SCREENCASTS",watchlaterapp.com,12,http://watchlaterapp.com/16G
-"	Google Currents is an awesome app. This blogpost tells you how to install it outside US.",Google Currents APK Outside US,"
-	APP OF THE WEEK",geeknizer.com,12,http://geeknizer.com/how-to-install-google-currents-apk-outside-us/
+A deep dive tutorial on how to use Android Intents.,Using Intents in Android,ARTICLES AND TUTORIALS,vogella.de,12,http://www.vogella.de/articles/AndroidIntent/article.html
+Say goodbye to the menu button. This tutorials explains why you should avoid to put all your actions into the menu.,Goodbye Menu Button,ARTICLES AND TUTORIALS,android-developers.blogspot.com,12,http://android-developers.blogspot.com/2012/01/say-goodbye-to-menu-button.html
+This weeks focus is on persistence and the first library will show you on how to persist classes with SQLite.,OrmLite,LIBRARIES AND CODE,ormlite.com,12,http://ormlite.com/sqlite_java_android_orm.shtml
+,Deserializing JSON in Android using GSON,LIBRARIES AND CODE,benjii.me,12,http://benjii.me/2010/04/deserializing-json-in-android-using-gson/
+,Simple XML in Android,LIBRARIES AND CODE,robertmassaioli.wordpress.com,12,http://robertmassaioli.wordpress.com/2011/04/21/simple-xml-in-android-1-5-and-up/
+"You want to use some of the new fancy Holo icons? Just download them all, they are licensed under Apache License.",Fancy holo Icons,RESOURCES,developer.android.com,12,http://developer.android.com/design/static/download/action_bar_icons-v4.0.zip
+,Designing and Implementing Android UIs for Phones and Tablets,SCREENCASTS,watchlaterapp.com,12,http://watchlaterapp.com/16G
+Google Currents is an awesome app. This blogpost tells you how to install it outside US.,Google Currents APK Outside US,APP OF THE WEEK,geeknizer.com,12,http://geeknizer.com/how-to-install-google-currents-apk-outside-us/

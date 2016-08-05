@@ -1,23 +1,12 @@
 description,title,section,site,issue_num,link
-"	A good tutorial about how to create widgets in Android.",Create Widgets,"
-	ARTICLES AND TUTORIALS",vogella.de,11,http://www.vogella.de/articles/AndroidWidgets/article.html
-"	This article will show you how to update the UI in an Android activity using data from a background service.",Update the UI,"
-	ARTICLES AND TUTORIALS",websmithing.com,11,http://www.websmithing.com/2011/02/01/how-to-update-the-ui-in-an-android-activity-using-data-from-a-background-service/
-,Hands on Open Source Android UI Libraries,"
-	ARTICLES AND TUTORIALS",androiduipatterns.com,11,http://www.androiduipatterns.com/2012/01/hands-on-open-source-android-ui.html
-,The Photoshop PSDs Google forgot,"
-	ARTICLES AND TUTORIALS",androiddesign.info,11,http://www.androiddesign.info/
-"	Android library for using the Honeycomb (Android 3.0) animation API on all versions of the platform back to 1.0!",Using the Animation API,"
-	LIBRARIES AND CODE",nineoldandroids.com,11,http://nineoldandroids.com/
-"	This is what you need if you want to show an alert message (text notification) to the user of an application.",Toast notification,"
-	LIBRARIES AND CODE",technotalkative.com,11,http://www.technotalkative.com/android-text-notifications-toast/
-,Custom Toast notification,"
-	LIBRARIES AND CODE",technotalkative.com,11,http://www.technotalkative.com/android-custom-toast-notification/
-"		Don't miss the Global Android DevCamp 2012 / 17th - 19th February.",Global Android DevCamp,"
-	HEADLINES",android-dev-camp-2012.blogspot.com,11,http://android-dev-camp-2012.blogspot.com/
-"		Over 250 Million People Using Android Phones and 11 Billion Market Downloads.",Over 250 Million Androids !,"
-	HEADLINES",phandroid.com,11,http://phandroid.com/2012/01/19/over-250-million-people-using-android-phones-and-11-billion-market-downloads-says-google/
-,"For the hackers, who to build a custom ROM part 2.","
-	SCREENCASTS",watchlaterapp.com,11,http://watchlaterapp.com/7HNK
-"	AirDroid is a fast, free app that lets you wirelessly manage & control your Android device from a web browser Over-The-Air. ",AirDroid,"
-	APP OF THE WEEK",market.android.com,11,https://market.android.com/details?id=com.sand.airdroid&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5zYW5kLmFpcmRyb2lkIl0.
+A good tutorial about how to create widgets in Android.,Create Widgets,ARTICLES AND TUTORIALS,vogella.de,11,http://www.vogella.de/articles/AndroidWidgets/article.html
+This article will show you how to update the UI in an Android activity using data from a background service.,Update the UI,ARTICLES AND TUTORIALS,websmithing.com,11,http://www.websmithing.com/2011/02/01/how-to-update-the-ui-in-an-android-activity-using-data-from-a-background-service/
+,Hands on Open Source Android UI Libraries,ARTICLES AND TUTORIALS,androiduipatterns.com,11,http://www.androiduipatterns.com/2012/01/hands-on-open-source-android-ui.html
+,The Photoshop PSDs Google forgot,ARTICLES AND TUTORIALS,androiddesign.info,11,http://www.androiddesign.info/
+Android library for using the Honeycomb (Android 3.0) animation API on all versions of the platform back to 1.0!,Using the Animation API,LIBRARIES AND CODE,nineoldandroids.com,11,http://nineoldandroids.com/
+This is what you need if you want to show an alert message (text notification) to the user of an application.,Toast notification,LIBRARIES AND CODE,technotalkative.com,11,http://www.technotalkative.com/android-text-notifications-toast/
+,Custom Toast notification,LIBRARIES AND CODE,technotalkative.com,11,http://www.technotalkative.com/android-custom-toast-notification/
+Don't miss the Global Android DevCamp 2012 / 17th - 19th February.,Global Android DevCamp,HEADLINES,android-dev-camp-2012.blogspot.com,11,http://android-dev-camp-2012.blogspot.com/
+Over 250 Million People Using Android Phones and 11 Billion Market Downloads.,Over 250 Million Androids !,HEADLINES,phandroid.com,11,http://phandroid.com/2012/01/19/over-250-million-people-using-android-phones-and-11-billion-market-downloads-says-google/
+,"For the hackers, who to build a custom ROM part 2.",SCREENCASTS,watchlaterapp.com,11,http://watchlaterapp.com/7HNK
+"AirDroid is a fast, free app that lets you wirelessly manage & control your Android device from a web browser Over-The-Air.",AirDroid,APP OF THE WEEK,market.android.com,11,https://market.android.com/details?id=com.sand.airdroid&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5zYW5kLmFpcmRyb2lkIl0.

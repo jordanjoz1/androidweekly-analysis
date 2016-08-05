@@ -1,31 +1,16 @@
 description,title,section,site,issue_num,link
-"  This blog post by the square engineering blog tells you how to realize transparent JPEGs.",Transparency with JPEGs,"
-  Articles & Tutorials",corner.squareup.com,51,http://corner.squareup.com/2013/01/transparent-jpegs.html
-"  In this blog post by Ketan Parmar you'll learn how to authorize a user using the new Google Play Service API.",Android Google Play Service: Authorization,"
-  Articles & Tutorials",kpbird.com,51,http://www.kpbird.com/2013/01/android-google-play-service.html
-"  This Android Protip comes from Adam Powell. He says all you need to test your display sizes is a Nexus 10, since it has the capability to emulate different display sizes and display densitites.","""a Nexus 10 is all you need""","
-  Articles & Tutorials",plus.google.com,51,https://plus.google.com/107708120842840792570/posts/cz5TxuoNDfG
-"  In this series of blog posts Mark Allison tells you how to create a TextClock Widget on Android.",Text Clock – Part 1,"
-  Articles & Tutorials",blog.stylingandroid.com,51,http://blog.stylingandroid.com/archives/1501
-,Text Clock – Part 2,"
-  Articles & Tutorials",blog.stylingandroid.com,51,http://blog.stylingandroid.com/archives/1512
-"  Is your APK larger than 50MB? In this blog post by Ankit Thakkar you'll learn how to attach up to two large expansion files that supplement your APK.",APK Expansion Files in Android with Example,"
-  Articles & Tutorials",ankitthakkar90.blogspot.in,51,http://ankitthakkar90.blogspot.in/2013/01/apk-expansion-files-in-android-with.html
-"  An introductionary blog post on how to implement a SlidingMenu in your Application.",Sliding Menu in Android application,"
-  Articles & Tutorials",blog.masconsult.eu,51,http://blog.masconsult.eu/sliding-menu-in-android-application
-"  Genymobile is a French expert company on Android OS and Application area. We are looking for Linux hacker, Android Fan and Metal music lover ! You want to work on INNOVATIVE projects like Home Automation, Connected Object, .... joint the team ! ",Bugdroid needs you Android/Linux Engineer !,"
-  Jobs","Paris, France",51,https://genymobile.recruiterbox.com/jobs?utm_source=androidweekly
-,Post a job on Android Weekly,"
-  Jobs",androidweekly.net,51,http://androidweekly.net/jobs/new
-"  Check out a blog post about a free-to-attend Android developer event at Apps World North America on February 7-8 in San Francisco is all set to feature various leading Android developers, authors, evangelists and operators divulging their expertise on all things Droid.",Android Developer Conference,"
-  Sponsored",apps-world.net,51,http://www.apps-world.net/blog/2013/01/north-america/android-developer-conference-highlights-at-appsworld/
-"  Chris Bane has released V2.1 of Android-BitmapCache, a specialised cache, for use with Android Bitmap objects. The update includes an update to v1.3.1 of DiskLruCache. Also the API got a lot easier and more direct.",Android-BitmapCache v2.1,"
-  Libraries & Code",senab.co.uk,51,http://www.senab.co.uk/2013/01/24/android-bitmapcache-v2-1/
-"  Photup is an application by Chris Banes, currently available on Google Play with an average rating of 4.4 (at time of writing). Due to lack of time, I'm open sourcing this so anyone can look at the code, and more importantly, so you can submit patches and keep it alive.",Photup,"
-  Libraries & Code",github.com,51,https://github.com/chrisbanes/photup
-"  We covered that, but in case you missed it: A SlidingMenu Component by Jeremy Feinstein",SlidingMenu,"
-  Libraries & Code",github.com,51,https://github.com/jfeinstein10/SlidingMenu
-,The square fork of robolectric is now officially deprecated. Stay tuned for something better and bigger.,"
-  News",github.com,51,https://github.com/jfeinstein10/SlidingMenu
-"  Did your Homescreen got a little boring? This website definetly has some inspiration.",Discover beautiful Android homescreens,"
-  Design",mycolorscreen.com,51,http://mycolorscreen.com/
+This blog post by the square engineering blog tells you how to realize transparent JPEGs.,Transparency with JPEGs,Articles & Tutorials,corner.squareup.com,51,http://corner.squareup.com/2013/01/transparent-jpegs.html
+In this blog post by Ketan Parmar you'll learn how to authorize a user using the new Google Play Service API.,Android Google Play Service: Authorization,Articles & Tutorials,kpbird.com,51,http://www.kpbird.com/2013/01/android-google-play-service.html
+"This Android Protip comes from Adam Powell. He says all you need to test your display sizes is a Nexus 10, since it has the capability to emulate different display sizes and display densitites.","""a Nexus 10 is all you need""",Articles & Tutorials,plus.google.com,51,https://plus.google.com/107708120842840792570/posts/cz5TxuoNDfG
+In this series of blog posts Mark Allison tells you how to create a TextClock Widget on Android.,Text Clock – Part 1,Articles & Tutorials,blog.stylingandroid.com,51,http://blog.stylingandroid.com/archives/1501
+,Text Clock – Part 2,Articles & Tutorials,blog.stylingandroid.com,51,http://blog.stylingandroid.com/archives/1512
+Is your APK larger than 50MB? In this blog post by Ankit Thakkar you'll learn how to attach up to two large expansion files that supplement your APK.,APK Expansion Files in Android with Example,Articles & Tutorials,ankitthakkar90.blogspot.in,51,http://ankitthakkar90.blogspot.in/2013/01/apk-expansion-files-in-android-with.html
+An introductionary blog post on how to implement a SlidingMenu in your Application.,Sliding Menu in Android application,Articles & Tutorials,blog.masconsult.eu,51,http://blog.masconsult.eu/sliding-menu-in-android-application
+"Genymobile is a French expert company on Android OS and Application area. We are looking for Linux hacker, Android Fan and Metal music lover ! You want to work on INNOVATIVE projects like Home Automation, Connected Object, .... joint the team !",Bugdroid needs you Android/Linux Engineer !,Jobs,"Paris, France",51,https://genymobile.recruiterbox.com/jobs?utm_source=androidweekly
+,Post a job on Android Weekly,Jobs,androidweekly.net,51,http://androidweekly.net/jobs/new
+"Check out a blog post about a free-to-attend Android developer event at Apps World North America on February 7-8 in San Francisco is all set to feature various leading Android developers, authors, evangelists and operators divulging their expertise on all things Droid.",Android Developer Conference,Sponsored,apps-world.net,51,http://www.apps-world.net/blog/2013/01/north-america/android-developer-conference-highlights-at-appsworld/
+"Chris Bane has released V2.1 of Android-BitmapCache, a specialised cache, for use with Android Bitmap objects. The update includes an update to v1.3.1 of DiskLruCache. Also the API got a lot easier and more direct.",Android-BitmapCache v2.1,Libraries & Code,senab.co.uk,51,http://www.senab.co.uk/2013/01/24/android-bitmapcache-v2-1/
+"Photup is an application by Chris Banes, currently available on Google Play with an average rating of 4.4 (at time of writing). Due to lack of time, I'm open sourcing this so anyone can look at the code, and more importantly, so you can submit patches and keep it alive.",Photup,Libraries & Code,github.com,51,https://github.com/chrisbanes/photup
+"We covered that, but in case you missed it: A SlidingMenu Component by Jeremy Feinstein",SlidingMenu,Libraries & Code,github.com,51,https://github.com/jfeinstein10/SlidingMenu
+,The square fork of robolectric is now officially deprecated. Stay tuned for something better and bigger.,News,github.com,51,https://github.com/jfeinstein10/SlidingMenu
+Did your Homescreen got a little boring? This website definetly has some inspiration.,Discover beautiful Android homescreens,Design,mycolorscreen.com,51,http://mycolorscreen.com/

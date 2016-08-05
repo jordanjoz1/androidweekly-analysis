@@ -1,21 +1,11 @@
 description,title,section,site,issue_num,link
-"		Gingerbread sees a big boost.",Latest version of Android fragmentation,"
-	HEADLINES",androidcentral.com,6,http://www.androidcentral.com/android-version-numbers-dec-1-are-out-gingerbread-sees-big-boost
-"		Develop high-performance native Android apps with new tools directly from ARM.",The Perfect Companion For The Android NDK,"
-	HEADLINES",arm.com,6,http://www.arm.com/products/tools/software-tools/ds-5/community-edition/index.php
-"	A detailed tour of all UI controls that i used on Android devices.",A design guide for Android,"
-	ARTICLES AND TUTORIALS",http://coding.smashingmagazine.com,6,http://coding.smashingmagazine.com/2011/06/30/designing-for-android/
-"	An Android tutorial for Ice Cream Sandwich (Android 4.0).",A tasty tutorial,"
-	ARTICLES AND TUTORIALS",vogella.de,6,http://www.vogella.de/articles/Android/article.html
-"	Create buttons with custom rounded corners.",Button design guide,"
-	ARTICLES AND TUTORIALS",nishantvnair.wordpress.com,6,http://nishantvnair.wordpress.com/2010/11/09/customize-button-in-android/
-"	Ever wanted to integrate QR Codes into your App? Heres a good library for that.",QR Library,"
-	LIBRARIES AND CODE",code.google.com,6,http://code.google.com/p/zxing/
-"	The missing tabs widget.",Themissingtabwidget,"
-	LIBRARIES AND CODE",code.google.com,6,http://code.google.com/p/themissingtabwidget/
-"		Screencast about using the NDK.",NDK,"
-	SCREENCASTS",watchlaterapp.com,6,http://watchlaterapp.com/5e7R
-"	Way snappier than the native gallery app.",Quickpic,"
-	APP OF THE WEEK",market.android.com,6,https://market.android.com/details?id=com.alensw.PicFolder
-"		We will create a sticker!",Killbot Voting,"
-	USER VOTING",androidweekly.net,6,http://androidweekly.net/images/issue6/killbot.png
+Gingerbread sees a big boost.,Latest version of Android fragmentation,HEADLINES,androidcentral.com,6,http://www.androidcentral.com/android-version-numbers-dec-1-are-out-gingerbread-sees-big-boost
+Develop high-performance native Android apps with new tools directly from ARM.,The Perfect Companion For The Android NDK,HEADLINES,arm.com,6,http://www.arm.com/products/tools/software-tools/ds-5/community-edition/index.php
+A detailed tour of all UI controls that i used on Android devices.,A design guide for Android,ARTICLES AND TUTORIALS,http://coding.smashingmagazine.com,6,http://coding.smashingmagazine.com/2011/06/30/designing-for-android/
+An Android tutorial for Ice Cream Sandwich (Android 4.0).,A tasty tutorial,ARTICLES AND TUTORIALS,vogella.de,6,http://www.vogella.de/articles/Android/article.html
+Create buttons with custom rounded corners.,Button design guide,ARTICLES AND TUTORIALS,nishantvnair.wordpress.com,6,http://nishantvnair.wordpress.com/2010/11/09/customize-button-in-android/
+Ever wanted to integrate QR Codes into your App? Heres a good library for that.,QR Library,LIBRARIES AND CODE,code.google.com,6,http://code.google.com/p/zxing/
+The missing tabs widget.,Themissingtabwidget,LIBRARIES AND CODE,code.google.com,6,http://code.google.com/p/themissingtabwidget/
+Screencast about using the NDK.,NDK,SCREENCASTS,watchlaterapp.com,6,http://watchlaterapp.com/5e7R
+Way snappier than the native gallery app.,Quickpic,APP OF THE WEEK,market.android.com,6,https://market.android.com/details?id=com.alensw.PicFolder
+We will create a sticker!,Killbot Voting,USER VOTING,androidweekly.net,6,http://androidweekly.net/images/issue6/killbot.png

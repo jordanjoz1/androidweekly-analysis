@@ -1,39 +1,20 @@
 description,title,section,site,issue_num,link
-"  The program for the upcoming Droidcon 2013 in Berlin is out - and it looks great.",Droidcon Program 2013,"
-  Articles & Tutorials",droidcon.com,57,http://de.droidcon.com/2013/content/program-2013
-"  A great compilation of valueable resources by Sergey Povnzer. Unfortunately our newsletter is not listed :-(",Resources every Android developer must know,"
-  Articles & Tutorials",bongizmo.com,57,http://www.bongizmo.com/blog/android-resources-each-developer-should-know/
-"  The 2nd part on how to create a dynamic icon by Mark Allison.",Dynamic Icon – Part 2,"
-  Articles & Tutorials",blog.stylingandroid.com,57,http://blog.stylingandroid.com/archives/1646
-"The Tactrick Android Developer Cup is challenging brainy Android developers. Prove yourself as the best app developer.",Tatrick DevCup 2013,"
-  Sponsored",devcup.tactrick.com,57,http://devcup.tactrick.com?utm_source=androidweekly
-"AnDevCon Spring, May 28-31, Boston, is the technical conference for software developers building or selling Android apps. Receive a $100 discount off the prevailing rate of either the 4-day or 3-day pass by inserting the code MEDIASPONSOR when prompted on the eRegistration page linked from www.andevcon.com",AnDevCon Spring 2013,"
-  Sponsored",andevcon.com,57,http://andevcon.com/?utm_source=androidweekly&utm_medium=banner&utm_term=partnership&utm_campaign=Androidweekly
-"  In Android Developer Days, there will be presentations, tutorials, quickies and workshops. If you want to share your knowledge and experience, we are inviting you to share them. All papers can be submitted to Android Developer Days OpenConf until 1st May 2013.","Android Developer Days, June 14/15, 2013,Call For Papers","
-  Sponsored",androiddeveloperdays.com,57,http://www.androiddeveloperdays.com
-"  QuickReturnListView is a implementation of the QuickReturn UI developed by Roman Nurik and Nick Butcher. It mimics the same behavior as seen in the Google+ app.",QuickReturnListView,"
-  Libraries & Code",github.com,57,https://github.com/LarsWerkman/QuickReturnListView
-"  Frankie Sardo has released a refactored version of that UI with a better API. But why not as a pull request?",QuickReturn.java,"
-  Libraries & Code",github.com,57,https://gist.github.com/frankiesardo/5161734
-"  Provigen is a library by Timothee Jeannin that helps you to generate ContentProvider from a ContractClass via annotations.",ProviGen,"
-  Libraries & Code",github.com,57,https://github.com/TimotheeJeannin/ProviGen
-"  Google has released a backported version of their ActionBar. I would still rather going with ActionBarSherlock",Appcompat,"
-  Libraries & Code",android.googlesource.com,57,https://android.googlesource.com/platform/frameworks/support/+/master/appcompat/
-"  They also released a SlidePlaneLayout in their compatibility package.",SlidingPaneLayout.java,"
-  Libraries & Code",android.googlesource.com,57,https://android.googlesource.com/platform/frameworks/support/+/master/v4/java/android/support/v4/widget/SlidingPaneLayout.java
-"  If you want to render Markdown with your App, then you can use Bypass to bypass HTML and a WebView.",Bypass,"
-  Libraries & Code",github.com,57,http://uncodin.github.com/bypass/
-"  We're looking for a mobile engineer to help build cutting-edge Android apps for Eventbrite. We're building the tools that allow event organizers to sell tickets or check in attendees right on their phone or tablet, and to allow attendees to check in at events.",Eventbrite Senior Android Mobile Engineer,"
-  Jobs","San Francisco, CA",57,https://hire.jobvite.com/j?cj=okVcXfw8&s=AndroidWeekly
-"Are you passionate about the latest Android SDK developments and 100% focused on great user experience and beautiful code? If you want to build exciting new features for the SoundCloud Android app and potentially other platforms, then this is for you.",SoundCloud Android Developer,"
-  Jobs","Berlin, Germany",57,http://hire.jobvite.com/j/?cj=oCIeWfwe&s=Android_Weekly
-"Do you share our dream that iterating a feature across the whole stack from UI to backend, should be as easy as a walk in the park? Do you love Android? Do you to be part of figuring out and architecting infrastructure that will fulfill our dream? Let's chat!",Spotify Platform Software Engineer Android,"
-  Jobs",Stockholm or New York,57,https://www.spotify.com/se/jobs/view/oRh7WfwV?utm_source=androidweekly
-"We want to improve people's relationship to music massively. We want to develop the most loved music service on Android. We believe in thinking holistically, using metrics, A/B tests, interviewing, and other ways to validate and tweak our ideas. Interested?",Spotify Feature Developer Android,"
-  Jobs","Stockholm, New York, or San Francisco",57,https://www.spotify.com/se/jobs/vacancies?utm_source=androidweekly
-,Post a job on Android Weekly,"
-  Jobs",androidweekly.net,57,http://androidweekly.net/jobs/new
-"  Get started with the Google Maps Android API in under 5 minutes.",Google Maps Developer Shortcut,"
-  Screencasts",plus.google.com,57,https://plus.google.com/113735310430199015092/posts/cn3t4DzepCs
-,Introduction To Android NDK,"
-  Screencasts",marakana.com,57,http://marakana.com/s/post/1153/introduction_to_ndk
+The program for the upcoming Droidcon 2013 in Berlin is out - and it looks great.,Droidcon Program 2013,Articles & Tutorials,droidcon.com,57,http://de.droidcon.com/2013/content/program-2013
+A great compilation of valueable resources by Sergey Povnzer. Unfortunately our newsletter is not listed :-(,Resources every Android developer must know,Articles & Tutorials,bongizmo.com,57,http://www.bongizmo.com/blog/android-resources-each-developer-should-know/
+The 2nd part on how to create a dynamic icon by Mark Allison.,Dynamic Icon – Part 2,Articles & Tutorials,blog.stylingandroid.com,57,http://blog.stylingandroid.com/archives/1646
+The Tactrick Android Developer Cup is challenging brainy Android developers. Prove yourself as the best app developer.,Tatrick DevCup 2013,Sponsored,devcup.tactrick.com,57,http://devcup.tactrick.com?utm_source=androidweekly
+"AnDevCon Spring, May 28-31, Boston, is the technical conference for software developers building or selling Android apps. Receive a $100 discount off the prevailing rate of either the 4-day or 3-day pass by inserting the code MEDIASPONSOR when prompted on the eRegistration page linked from www.andevcon.com",AnDevCon Spring 2013,Sponsored,andevcon.com,57,http://andevcon.com/?utm_source=androidweekly&utm_medium=banner&utm_term=partnership&utm_campaign=Androidweekly
+"In Android Developer Days, there will be presentations, tutorials, quickies and workshops. If you want to share your knowledge and experience, we are inviting you to share them. All papers can be submitted to Android Developer Days OpenConf until 1st May 2013.","Android Developer Days, June 14/15, 2013,Call For Papers",Sponsored,androiddeveloperdays.com,57,http://www.androiddeveloperdays.com
+QuickReturnListView is a implementation of the QuickReturn UI developed by Roman Nurik and Nick Butcher. It mimics the same behavior as seen in the Google+ app.,QuickReturnListView,Libraries & Code,github.com,57,https://github.com/LarsWerkman/QuickReturnListView
+Frankie Sardo has released a refactored version of that UI with a better API. But why not as a pull request?,QuickReturn.java,Libraries & Code,github.com,57,https://gist.github.com/frankiesardo/5161734
+Provigen is a library by Timothee Jeannin that helps you to generate ContentProvider from a ContractClass via annotations.,ProviGen,Libraries & Code,github.com,57,https://github.com/TimotheeJeannin/ProviGen
+Google has released a backported version of their ActionBar. I would still rather going with ActionBarSherlock,Appcompat,Libraries & Code,android.googlesource.com,57,https://android.googlesource.com/platform/frameworks/support/+/master/appcompat/
+They also released a SlidePlaneLayout in their compatibility package.,SlidingPaneLayout.java,Libraries & Code,android.googlesource.com,57,https://android.googlesource.com/platform/frameworks/support/+/master/v4/java/android/support/v4/widget/SlidingPaneLayout.java
+"If you want to render Markdown with your App, then you can use Bypass to bypass HTML and a WebView.",Bypass,Libraries & Code,github.com,57,http://uncodin.github.com/bypass/
+"We're looking for a mobile engineer to help build cutting-edge Android apps for Eventbrite. We're building the tools that allow event organizers to sell tickets or check in attendees right on their phone or tablet, and to allow attendees to check in at events.",Eventbrite Senior Android Mobile Engineer,Jobs,"San Francisco, CA",57,https://hire.jobvite.com/j?cj=okVcXfw8&s=AndroidWeekly
+"Are you passionate about the latest Android SDK developments and 100% focused on great user experience and beautiful code? If you want to build exciting new features for the SoundCloud Android app and potentially other platforms, then this is for you.",SoundCloud Android Developer,Jobs,"Berlin, Germany",57,http://hire.jobvite.com/j/?cj=oCIeWfwe&s=Android_Weekly
+"Do you share our dream that iterating a feature across the whole stack from UI to backend, should be as easy as a walk in the park? Do you love Android? Do you to be part of figuring out and architecting infrastructure that will fulfill our dream? Let's chat!",Spotify Platform Software Engineer Android,Jobs,Stockholm or New York,57,https://www.spotify.com/se/jobs/view/oRh7WfwV?utm_source=androidweekly
+"We want to improve people's relationship to music massively. We want to develop the most loved music service on Android. We believe in thinking holistically, using metrics, A/B tests, interviewing, and other ways to validate and tweak our ideas. Interested?",Spotify Feature Developer Android,Jobs,"Stockholm, New York, or San Francisco",57,https://www.spotify.com/se/jobs/vacancies?utm_source=androidweekly
+,Post a job on Android Weekly,Jobs,androidweekly.net,57,http://androidweekly.net/jobs/new
+Get started with the Google Maps Android API in under 5 minutes.,Google Maps Developer Shortcut,Screencasts,plus.google.com,57,https://plus.google.com/113735310430199015092/posts/cn3t4DzepCs
+,Introduction To Android NDK,Screencasts,marakana.com,57,http://marakana.com/s/post/1153/introduction_to_ndk

@@ -1,21 +1,11 @@
 description,title,section,site,issue_num,link
-"    NFC gonna be huge. Take a look at that tutorial and see how easy it is on the Android Platform.",Getting started with NFC on Android,"
-  Articles & Tutorials",netmagazine.com,26,http://www.netmagazine.com/tutorials/getting-started-nfc-android
-"  Connecting with your adb to multiple devices throws that annoying error ""error: more than one device and emulator"". Diego Torres hat found a nifty way to enhance the adb command with a device chooser.",Selecting the adb device,"
-  Articles & Tutorials",dtmilano.blogspot.de,26,http://dtmilano.blogspot.de/2012/03/selecting-adb-device.html
-"  If you're combining an ActionBar with a TabBar you might want the TabBar to appear on the bottom like in iOS. This blogpost explains how to archieve that goal.",iPhone style tabbar in Android,"
-  Articles & Tutorials",androidcookers.co.cc,26,http://www.androidcookers.co.cc/2011/12/i-phone-style-tabbar-in-android.html#more
-"  Developing Java with Eclipse on a Mac has some caveats, e.g. the auto completion is not working since the key bindings are already used for Spotlight. This blogpost explains how to remap the keys for the content assistant.",Keyboard shortcut for code completion in Eclipse on Mac OS X,"
-  Articles & Tutorials",stefaanlippens.net,26,http://stefaanlippens.net/code_completion_shortcut_eclipse_osx
-"  In this blog post you'll learn the ultimate way to implement a nice splash screen for your app.",Writing splash screens the right way,"
-  Articles & Tutorials",blogactivity.wordpress.com,26,http://blogactivity.wordpress.com/2012/02/24/writing-splash-screens-the-right-way/
-"  Do you want to code a game on Android? Don't reinvent the wheel, there are plenty of game engines out there. This website shows you a comprehensive list of commercial and open source game engines.",All Android Game Engines,"
-  Libraries & Code",mobilegameengines.com,26,http://mobilegameengines.com/android/game_engines
-"  31 Days of Android: Day 5 Adding multiple activities and using intents.",31 Days of Android: Day 5,"
-  Libraries & Code",chrisrisner.com,26,http://chrisrisner.com/31-Days-of-Android--Day-5%E2%80%93Adding-Multiple-Activities-and-using-Intents
-"  You've learned how to program Android? Now you want to do a larger app, but you quite unsure how fit the bits & pieces? Maybe get some inspiration by looking at 10 open source Android apps.",10 Open Source Android Apps you should look into,"
-  Libraries & Code",sudarmuthu.com,26,http://sudarmuthu.com/blog/10-open-source-android-apps-which-every-android-developer-must-look-into
-"    Do you want some nice Holo styles for your ActionBarSherlock? This generator makes it incredibly easy.",Android Action Bar Style Generator,"
-  Tools",jgilfelt.github.com,26,http://jgilfelt.github.com/android-actionbarstylegenerator/#name=example&compat=holo&theme=light&backColor=E4E4E4%2C100&secondaryColor=D6D6D6%2C100&tertiaryColor=F2F2F2%2C100&accentColor=33B5E5%2C100
-"	Google Tasks Incredible is a very nice todo app for your Android.",Google Tasks Incredible,"
-  App of the Week",play.google.com,26,https://play.google.com/store/apps/details?id=com.freethinkinc.tasks.lite&feature
+NFC gonna be huge. Take a look at that tutorial and see how easy it is on the Android Platform.,Getting started with NFC on Android,Articles & Tutorials,netmagazine.com,26,http://www.netmagazine.com/tutorials/getting-started-nfc-android
+"Connecting with your adb to multiple devices throws that annoying error ""error: more than one device and emulator"". Diego Torres hat found a nifty way to enhance the adb command with a device chooser.",Selecting the adb device,Articles & Tutorials,dtmilano.blogspot.de,26,http://dtmilano.blogspot.de/2012/03/selecting-adb-device.html
+If you're combining an ActionBar with a TabBar you might want the TabBar to appear on the bottom like in iOS. This blogpost explains how to archieve that goal.,iPhone style tabbar in Android,Articles & Tutorials,androidcookers.co.cc,26,http://www.androidcookers.co.cc/2011/12/i-phone-style-tabbar-in-android.html#more
+"Developing Java with Eclipse on a Mac has some caveats, e.g. the auto completion is not working since the key bindings are already used for Spotlight. This blogpost explains how to remap the keys for the content assistant.",Keyboard shortcut for code completion in Eclipse on Mac OS X,Articles & Tutorials,stefaanlippens.net,26,http://stefaanlippens.net/code_completion_shortcut_eclipse_osx
+In this blog post you'll learn the ultimate way to implement a nice splash screen for your app.,Writing splash screens the right way,Articles & Tutorials,blogactivity.wordpress.com,26,http://blogactivity.wordpress.com/2012/02/24/writing-splash-screens-the-right-way/
+"Do you want to code a game on Android? Don't reinvent the wheel, there are plenty of game engines out there. This website shows you a comprehensive list of commercial and open source game engines.",All Android Game Engines,Libraries & Code,mobilegameengines.com,26,http://mobilegameengines.com/android/game_engines
+31 Days of Android: Day 5 Adding multiple activities and using intents.,31 Days of Android: Day 5,Libraries & Code,chrisrisner.com,26,http://chrisrisner.com/31-Days-of-Android--Day-5%E2%80%93Adding-Multiple-Activities-and-using-Intents
+"You've learned how to program Android? Now you want to do a larger app, but you quite unsure how fit the bits & pieces? Maybe get some inspiration by looking at 10 open source Android apps.",10 Open Source Android Apps you should look into,Libraries & Code,sudarmuthu.com,26,http://sudarmuthu.com/blog/10-open-source-android-apps-which-every-android-developer-must-look-into
+Do you want some nice Holo styles for your ActionBarSherlock? This generator makes it incredibly easy.,Android Action Bar Style Generator,Tools,jgilfelt.github.com,26,http://jgilfelt.github.com/android-actionbarstylegenerator/#name=example&compat=holo&theme=light&backColor=E4E4E4%2C100&secondaryColor=D6D6D6%2C100&tertiaryColor=F2F2F2%2C100&accentColor=33B5E5%2C100
+Google Tasks Incredible is a very nice todo app for your Android.,Google Tasks Incredible,App of the Week,play.google.com,26,https://play.google.com/store/apps/details?id=com.freethinkinc.tasks.lite&feature

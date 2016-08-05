@@ -1,37 +1,19 @@
 description,title,section,site,issue_num,link
-"  Post by Wolfgang Rittmeyer on how to ActionViews to your ActionBar",Adding ActionViews to Your ActionBar,"
-  Articles & Tutorials",grokkingandroid.com,53,http://www.grokkingandroid.com/adding-actionviews-to-your-actionbar/
-"  4th post by Mark Allison on how to create a text clock widget.",Text Clock – Part 4,"
-  Articles & Tutorials",blog.stylingandroid.com,53,http://blog.stylingandroid.com/archives/1531
-"  A nice series of blog posts by Ashok Gelal on how to write a real world Android app from the scratch.",Writing a Real Android App from Scratch,"
-  Articles & Tutorials",ashokgelal.com,53,http://www.ashokgelal.com/tag/tagsnap_tutorial/
-"  Great post by Christopher Tate on Google+ about Android antipatterns and how to do it correctly.",Android Anti-Patterns,"
-  Articles & Tutorials",plus.google.com,53,https://plus.google.com/104992153032750621070/posts/Y65hwhihcwN
-"Genymobile is a French expert company on Android OS and Application area. We are looking for Linux hacker, Android Fan and Metal music lover ! You want to work on INNOVATIVE projects like Home Automation, Connected Object, .... joint the team ! ",Bugdroid needs you Android/Linux Engineer !,"
-  Jobs","Paris, France",53,https://genymobile.recruiterbox.com/jobs?utm_source=androidweekly
-"  We are currently seeking for an Android Developer (m/f) to join our team in Hamburg. If you like to become part of myTaxi, please apply online.",Android Developer for myTaxi,"
-  Jobs","Hamburg, Germany",53,http://www.mytaxi.com/about/jobs?utm_source=androidweekly
-,Post a job on Android Weekly,"
-  Jobs",androidweekly.net,53,http://androidweekly.net/jobs/new
-"  Mechanoid is a set of Xtext DSL's for the rapid development of Android applications. It covers database management, network code and preferences.",Mechanoid,"
-  Libraries & Code",github.com,53,http://robotoworks.github.com/mechanoid/
-"  Android library for auto generating SQL schema and Content Provider by annotations. You will get a full-featured content provider in 5 minutes.",Android-AnnotatedSQL,"
-  Libraries & Code",github.com,53,https://github.com/hamsterksu/Android-AnnotatedSQL
-"  Romain Piel has released a component that helps you with form validation.",Android Validator,"
-  Libraries & Code",throrinstudio.com,53,http://www.throrinstudio.com/dev/android/android-validator-1-0-released/
-"  Joe Simpson has ported the ZXing barcode scanning library to work in fragment. ",ZXing Barcode Scanner Android library,"
-  Libraries & Code",github.com,53,https://github.com/kennydude/zxing-lib
-"  The Android Annotations project has been updated. Android Annotations is a library that puts your biolerplate code on a diet.",AndroidAnnotations,"
-  Libraries & Code",androidannotations.org,53,http://androidannotations.org/
-"  Crouton is a class that can be used by Android developers that feel the need for an alternative to the Context insensitive Toast.",Crouton,"
-  Libraries & Code",github.com,53,https://github.com/keyboardsurfer/Crouton
-"  Using FreeType (font rasterization engine) and Harfbuzz-ng (complex script layout engine), this Android widget allows Indic text (Devanagari / Hindi, Kannada, Tamil, Telugu etc) to be rendered on Android phones without having to root the phone.",Indic-text-renderer,"
-  Libraries & Code",code.google.com,53,https://code.google.com/p/indic-text-renderer/
-"Check out a blog post about a free-to-attend Android developer event at Apps World North America on February 7-8 in San Francisco is all set to feature various leading Android developers, authors, evangelists and operators divulging their expertise on all things Droid.",Android Developer Conference,"
-  Sponsored",apps-world.net,53,http://www.apps-world.net/blog/2013/01/north-america/android-developer-conference-highlights-at-appsworld?utm_source=androidweekly
-"  AnDevCon Spring, May 28-31, Boston, is the technical conference for software developers building or selling Android apps. Receive a $100 discount off the prevailing rate of either the 4-day or 3-day pass by inserting the code MEDIASPONSOR when prompted on the eRegistration page linked from www.andevcon.com",AnDevCon Spring 2013,"
-  Sponsored",andevcon.com,53,http://andevcon.com/?utm_source=androidweekly&utm_medium=banner&utm_term=partnership&utm_campaign=Androidweekly
-"  Your app is ready but you need a kick ass backend for it? 9elements is specialized in creating stunning webservices. Request a quote.",Backend for your App,"
-  Sponsored",9elements.com,53,http://9elements.com/
-"  Android Device Usage & Testing Trends",Testing China Mobile Internet Market Insight Report 2012,"
-  Business",de.slideshare.net,53,http://de.slideshare.net/MichalFreund/umeng-testin-china-mobile-internet-market-insight-report-2012
+Post by Wolfgang Rittmeyer on how to ActionViews to your ActionBar,Adding ActionViews to Your ActionBar,Articles & Tutorials,grokkingandroid.com,53,http://www.grokkingandroid.com/adding-actionviews-to-your-actionbar/
+4th post by Mark Allison on how to create a text clock widget.,Text Clock – Part 4,Articles & Tutorials,blog.stylingandroid.com,53,http://blog.stylingandroid.com/archives/1531
+A nice series of blog posts by Ashok Gelal on how to write a real world Android app from the scratch.,Writing a Real Android App from Scratch,Articles & Tutorials,ashokgelal.com,53,http://www.ashokgelal.com/tag/tagsnap_tutorial/
+Great post by Christopher Tate on Google+ about Android antipatterns and how to do it correctly.,Android Anti-Patterns,Articles & Tutorials,plus.google.com,53,https://plus.google.com/104992153032750621070/posts/Y65hwhihcwN
+"Genymobile is a French expert company on Android OS and Application area. We are looking for Linux hacker, Android Fan and Metal music lover ! You want to work on INNOVATIVE projects like Home Automation, Connected Object, .... joint the team !",Bugdroid needs you Android/Linux Engineer !,Jobs,"Paris, France",53,https://genymobile.recruiterbox.com/jobs?utm_source=androidweekly
+"We are currently seeking for an Android Developer (m/f) to join our team in Hamburg. If you like to become part of myTaxi, please apply online.",Android Developer for myTaxi,Jobs,"Hamburg, Germany",53,http://www.mytaxi.com/about/jobs?utm_source=androidweekly
+,Post a job on Android Weekly,Jobs,androidweekly.net,53,http://androidweekly.net/jobs/new
+"Mechanoid is a set of Xtext DSL's for the rapid development of Android applications. It covers database management, network code and preferences.",Mechanoid,Libraries & Code,github.com,53,http://robotoworks.github.com/mechanoid/
+Android library for auto generating SQL schema and Content Provider by annotations. You will get a full-featured content provider in 5 minutes.,Android-AnnotatedSQL,Libraries & Code,github.com,53,https://github.com/hamsterksu/Android-AnnotatedSQL
+Romain Piel has released a component that helps you with form validation.,Android Validator,Libraries & Code,throrinstudio.com,53,http://www.throrinstudio.com/dev/android/android-validator-1-0-released/
+Joe Simpson has ported the ZXing barcode scanning library to work in fragment.,ZXing Barcode Scanner Android library,Libraries & Code,github.com,53,https://github.com/kennydude/zxing-lib
+The Android Annotations project has been updated. Android Annotations is a library that puts your biolerplate code on a diet.,AndroidAnnotations,Libraries & Code,androidannotations.org,53,http://androidannotations.org/
+Crouton is a class that can be used by Android developers that feel the need for an alternative to the Context insensitive Toast.,Crouton,Libraries & Code,github.com,53,https://github.com/keyboardsurfer/Crouton
+"Using FreeType (font rasterization engine) and Harfbuzz-ng (complex script layout engine), this Android widget allows Indic text (Devanagari / Hindi, Kannada, Tamil, Telugu etc) to be rendered on Android phones without having to root the phone.",Indic-text-renderer,Libraries & Code,code.google.com,53,https://code.google.com/p/indic-text-renderer/
+"Check out a blog post about a free-to-attend Android developer event at Apps World North America on February 7-8 in San Francisco is all set to feature various leading Android developers, authors, evangelists and operators divulging their expertise on all things Droid.",Android Developer Conference,Sponsored,apps-world.net,53,http://www.apps-world.net/blog/2013/01/north-america/android-developer-conference-highlights-at-appsworld?utm_source=androidweekly
+"AnDevCon Spring, May 28-31, Boston, is the technical conference for software developers building or selling Android apps. Receive a $100 discount off the prevailing rate of either the 4-day or 3-day pass by inserting the code MEDIASPONSOR when prompted on the eRegistration page linked from www.andevcon.com",AnDevCon Spring 2013,Sponsored,andevcon.com,53,http://andevcon.com/?utm_source=androidweekly&utm_medium=banner&utm_term=partnership&utm_campaign=Androidweekly
+Your app is ready but you need a kick ass backend for it? 9elements is specialized in creating stunning webservices. Request a quote.,Backend for your App,Sponsored,9elements.com,53,http://9elements.com/
+Android Device Usage & Testing Trends,Testing China Mobile Internet Market Insight Report 2012,Business,de.slideshare.net,53,http://de.slideshare.net/MichalFreund/umeng-testin-china-mobile-internet-market-insight-report-2012

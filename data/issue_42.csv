@@ -1,23 +1,12 @@
 description,title,section,site,issue_num,link
-"    Mark Allisons 5th post about styling the ActionBar. You should check out the past posts if you haven't already.",Styling the ActionBar Part 5,"
-  Articles & Tutorials",blog.stylingandroid.com,42,http://blog.stylingandroid.com/archives/1310
-"  ""pixels, density, dpi, dip, dp, dps, sp, sip"" for a novice developer Android units can be pretty confusing. Luckily Edwin Evans created a nice blog post to explain them all.",Android units,"
-  Articles & Tutorials",blog.edwinevans.me,42,http://blog.edwinevans.me/?p=131
-"  Lars Vogel has updated his entry level Android Development Tutorial. The tutorial is a pretty comprehensive and covers the complete development stack. If you want to start Android Development, be sure you'll start here.",Android Development Tutorial - 4.1,"
-  Articles & Tutorials",vogella.com,42,http://www.vogella.com/articles/Android/article.html
-"    We're an official media partner of the Droidcon UK 2012! If you want to buy a ticket, use this promocode to get your ticket more favorable: GDG-DROIDCON (30% off)",We're Official Media Partner,"
-  Droidcon UK 2012",uk.droidcon.com,42,http://uk.droidcon.com/
-"  Otto is an enhanced Guava-based event bus with emphasis on Android support. When you create large applications it is necessary to decouple different components while keeping the communication between them easy.",Otto,"
-  Libraries & Code",square.github.com,42,http://square.github.com/otto/
-"  Photoview 1.1, by Chris Banes, has been released. Photoview is an advanced image view which makes pinching and zooming easy. See his introductionary blog post for more information.",PhotoView v1.1 ,"
-  Libraries & Code",senab.co.uk,42,http://www.senab.co.uk/2012/10/12/photoview-v1-1/
-"  WebImageLoader, by Alexander Blom, is a library designed to take to hassle out of handling images on the web.",WebImageLoader,"
-  Libraries & Code",github.com,42,https://github.com/lexs/webimageloader
-"  The crouton library is an conceptual enhancement of Toasts. Read this blog posts if you had cases where Notifications via Toasts were not enough.",Crouton,"
-  Libraries & Code",grokkingandroid.com,42,http://www.grokkingandroid.com/useful-android-libraries-crouton/
-"    Facebook SDK 3.0 for Android released. Head over to the dev center and grab it while it's hot.",Facebook SDK 3.0,"
-  News",developers.facebook.com,42,https://developers.facebook.com/android/
-"  The new Google Play Developer console should help you to publish and monitor your apps. It's sleeker, faster, easier to navigate and it saves you time when you're publishing your apps.",Google Play Developer Console,"
-  News",android-developers.blogspot.de,42,http://android-developers.blogspot.de/2012/10/new-google-play-developer-console.html
-"		Choosing the right libraries to get things done can be a tough job. We've compiled a lot of them that we've found during the last years of Android development.",Android Weekly Toolbox!,"
-	Android Toolbox",androidweekly.net,42,http://androidweekly.net/toolbox
+Mark Allisons 5th post about styling the ActionBar. You should check out the past posts if you haven't already.,Styling the ActionBar Part 5,Articles & Tutorials,blog.stylingandroid.com,42,http://blog.stylingandroid.com/archives/1310
+"""pixels, density, dpi, dip, dp, dps, sp, sip"" for a novice developer Android units can be pretty confusing. Luckily Edwin Evans created a nice blog post to explain them all.",Android units,Articles & Tutorials,blog.edwinevans.me,42,http://blog.edwinevans.me/?p=131
+"Lars Vogel has updated his entry level Android Development Tutorial. The tutorial is a pretty comprehensive and covers the complete development stack. If you want to start Android Development, be sure you'll start here.",Android Development Tutorial - 4.1,Articles & Tutorials,vogella.com,42,http://www.vogella.com/articles/Android/article.html
+"We're an official media partner of the Droidcon UK 2012! If you want to buy a ticket, use this promocode to get your ticket more favorable: GDG-DROIDCON (30% off)",We're Official Media Partner,Droidcon UK 2012,uk.droidcon.com,42,http://uk.droidcon.com/
+Otto is an enhanced Guava-based event bus with emphasis on Android support. When you create large applications it is necessary to decouple different components while keeping the communication between them easy.,Otto,Libraries & Code,square.github.com,42,http://square.github.com/otto/
+"Photoview 1.1, by Chris Banes, has been released. Photoview is an advanced image view which makes pinching and zooming easy. See his introductionary blog post for more information.",PhotoView v1.1,Libraries & Code,senab.co.uk,42,http://www.senab.co.uk/2012/10/12/photoview-v1-1/
+"WebImageLoader, by Alexander Blom, is a library designed to take to hassle out of handling images on the web.",WebImageLoader,Libraries & Code,github.com,42,https://github.com/lexs/webimageloader
+The crouton library is an conceptual enhancement of Toasts. Read this blog posts if you had cases where Notifications via Toasts were not enough.,Crouton,Libraries & Code,grokkingandroid.com,42,http://www.grokkingandroid.com/useful-android-libraries-crouton/
+Facebook SDK 3.0 for Android released. Head over to the dev center and grab it while it's hot.,Facebook SDK 3.0,News,developers.facebook.com,42,https://developers.facebook.com/android/
+"The new Google Play Developer console should help you to publish and monitor your apps. It's sleeker, faster, easier to navigate and it saves you time when you're publishing your apps.",Google Play Developer Console,News,android-developers.blogspot.de,42,http://android-developers.blogspot.de/2012/10/new-google-play-developer-console.html
+Choosing the right libraries to get things done can be a tough job. We've compiled a lot of them that we've found during the last years of Android development.,Android Weekly Toolbox!,Android Toolbox,androidweekly.net,42,http://androidweekly.net/toolbox

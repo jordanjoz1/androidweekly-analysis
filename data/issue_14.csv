@@ -1,19 +1,10 @@
 description,title,section,site,issue_num,link
-"		Intents are a very cool mechanism to share data between applications. In this tutorial you'll lean how to share content via various sharing mechanisms.",Share With Intents,"
-	ARTICLES AND TUTORIALS",android-developers.blogspot.com,14,http://android-developers.blogspot.com/2012/02/share-with-intents.html
-"		Speed up your Android Development with an x86 emulator? The engineering Studio Edelmann has created a x86 VirtualBox for ICS. Go and grab it while it's hot ;-)",Android X86 Emulator VirtualBox,"
-	ARTICLES AND TUTORIALS",ib-edelmann.de,14,http://translate.google.de/translate?u=http%3A%2F%2Fib-edelmann.de%2Fandroid-x86-icecreamsandwich-emulator-virtualbox&sl=de&tl=en&hl=&ie=UTF-8
-"	In this article you'll learn the principles of game monetization. It's not Android specific but a great resource that lists plenty of monetization strategies.",The principles of game monetization,"
-	ARTICLES AND TUTORIALS",altdevblogaday.com,14,http://altdevblogaday.com/2012/02/09/the-principles-of-game-monetization/
-"	Robolectric is a unit test framework that de-fangs the Android SDK jar so you can test-drive the development of your Android app.",Robolectric,"
-	LIBRARIES AND CODE",pivotal.github.com,14,http://pivotal.github.com/robolectric/index.html
-"	This is a simple example for implementing ToggleButton in android application",Android ToggleButton,"
-	LIBRARIES AND CODE",technotalkative.com,14,http://www.technotalkative.com/android-togglebutton-example/
-"	Spinner is a widget similar to a drop-down list for selecting items. This tutorial will show you how to create a simple spinner widget that displays a list of days.",Android Spinner,"
-	LIBRARIES AND CODE",technotalkative.com,14,http://www.technotalkative.com/android-spinner-example/
-"		These cities have a G+ page and are preparing for the dev camp. Did we miss some?",Android Dev Camp on Google+,"
-	ANDROID DEV CAMP",plus.google.com,14,https://plus.google.com/102283760516132651199/posts/JKrqZHbUR6f
-"		This week Google introduced Chrome for Android. It's faster, it's better and it's synced with your desktop Chrome. With this move Google decoupled the Browser development cycle from the Android OS development cycle. A smart move, since the browser lags behind it's iOS competitor.",Introducing Chrome for Android,"
-	HEADLINES",chrome.blogspot.com,14,http://chrome.blogspot.com/2012/02/introducing-chrome-for-android.html
-"		In this screencast you'll be shown how you can use Chrome for Android for remotely debugging your mobile websites.",Chrome remotely debugging on Android,"
-	SCREENCAST",watchlaterapp.com,14,http://watchlaterapp.com/9nuu
+Intents are a very cool mechanism to share data between applications. In this tutorial you'll lean how to share content via various sharing mechanisms.,Share With Intents,ARTICLES AND TUTORIALS,android-developers.blogspot.com,14,http://android-developers.blogspot.com/2012/02/share-with-intents.html
+Speed up your Android Development with an x86 emulator? The engineering Studio Edelmann has created a x86 VirtualBox for ICS. Go and grab it while it's hot ;-),Android X86 Emulator VirtualBox,ARTICLES AND TUTORIALS,ib-edelmann.de,14,http://translate.google.de/translate?u=http%3A%2F%2Fib-edelmann.de%2Fandroid-x86-icecreamsandwich-emulator-virtualbox&sl=de&tl=en&hl=&ie=UTF-8
+In this article you'll learn the principles of game monetization. It's not Android specific but a great resource that lists plenty of monetization strategies.,The principles of game monetization,ARTICLES AND TUTORIALS,altdevblogaday.com,14,http://altdevblogaday.com/2012/02/09/the-principles-of-game-monetization/
+Robolectric is a unit test framework that de-fangs the Android SDK jar so you can test-drive the development of your Android app.,Robolectric,LIBRARIES AND CODE,pivotal.github.com,14,http://pivotal.github.com/robolectric/index.html
+This is a simple example for implementing ToggleButton in android application,Android ToggleButton,LIBRARIES AND CODE,technotalkative.com,14,http://www.technotalkative.com/android-togglebutton-example/
+Spinner is a widget similar to a drop-down list for selecting items. This tutorial will show you how to create a simple spinner widget that displays a list of days.,Android Spinner,LIBRARIES AND CODE,technotalkative.com,14,http://www.technotalkative.com/android-spinner-example/
+These cities have a G+ page and are preparing for the dev camp. Did we miss some?,Android Dev Camp on Google+,ANDROID DEV CAMP,plus.google.com,14,https://plus.google.com/102283760516132651199/posts/JKrqZHbUR6f
+"This week Google introduced Chrome for Android. It's faster, it's better and it's synced with your desktop Chrome. With this move Google decoupled the Browser development cycle from the Android OS development cycle. A smart move, since the browser lags behind it's iOS competitor.",Introducing Chrome for Android,HEADLINES,chrome.blogspot.com,14,http://chrome.blogspot.com/2012/02/introducing-chrome-for-android.html
+In this screencast you'll be shown how you can use Chrome for Android for remotely debugging your mobile websites.,Chrome remotely debugging on Android,SCREENCAST,watchlaterapp.com,14,http://watchlaterapp.com/9nuu

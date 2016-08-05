@@ -1,29 +1,16 @@
 description,title,section,site,issue_num,link
-"		In ICS Google introduced some new Social APIs. Here is a quick walkthrough on how to use them.",New Social APIs,"
-	ARTICLES AND TUTORIALS",android-developers.blogspot.com,13,http://android-developers.blogspot.com/2012/02/new-social-apis-in-android-ics.html
-"		Did you ever wanted to create an Android version of Instagram? Here you can read on how to do low level image manipulation at lightning speed.",Low level image manipulation,"
-	ARTICLES AND TUTORIALS",android-developers.blogspot.com,13,http://android-developers.blogspot.com/2012/01/levels-in-renderscript.html
-"	In Abhinava's blog he shares some code with you and builds a very simple Twitter Client.",Twitter Code For Android Applications,"
-	LIBRARIES AND CODE",abhinavasblog.blogspot.com,13,http://abhinavasblog.blogspot.com/2011/06/for-all-my-code-thirsty-friends-twitter.html
-,Here are some nice extensions to the ViewPager UI Component,"
-	LIBRARIES AND CODE",github.com,13,https://github.com/astuetz/ViewPagerExtensions
-"	  Global Android Dev Camp will take place from 17th to 19th of Feb. They have a new logo and in the last few days more Locations were added.",Android Dev Camp,"
-	ANDROID DEV CAMP",android-dev-camp-2012.blogspot.com,13,http://android-dev-camp-2012.blogspot.com/
-,"Berlin: c-base spacestation, Rungestraße 20, 10179 Berlin","
-	ANDROID DEV CAMP",docs.google.com,13,https://docs.google.com/spreadsheet/viewform?hl=de&formkey=dC1YT3RPNTBWWEptUkJKbjI2ZWYxeGc6MQ#gid=0
-,"Brussel: Outpost Brussel, Rue de la Tribune 8, 1000 Brussel","
-	ANDROID DEV CAMP",plus.google.com,13,https://plus.google.com/113239901244729600222/posts
-,"Düsseldorf: Garagebilk, Bilker Allee 217, 40215 Düsseldorf","
-	ANDROID DEV CAMP",garagebilk.de,13,http://garagebilk.de/pages/events
-,"Paris: EIT ICT Labs, 23 Avenue d Italie, 75013 Paris","
-	ANDROID DEV CAMP",meetup.paug.fr,13,http://meetup.paug.fr/
-,"San Francisco: Dev Bootcamp, 923 Market St., San Francisco, CA","
-	ANDROID DEV CAMP",gtugsf.com,13,http://www.gtugsf.com/events/48672962/?eventId=48672962&action=detail
-,"Montreal: CRIM, 405 Avenue Ogilvy #101, Montreal, QC H3N 1M3","
-	ANDROID DEV CAMP",eventbrite.com,13,http://montreal-android-dev-camp-2012-esearch.eventbrite.com/?srnk=1
-"	So check the map if your city is missing ;-)",There are 50 more locations,"
-	ANDROID DEV CAMP",android-dev-camp-2012.blogspot.com,13,http://android-dev-camp-2012.blogspot.com/2012/01/26-registered-user-groups-so-far.html
-"		The latest Android Income Report #9 with some juicy insights on how to monetize apps",Android Income Report #9,HEADLINES,droid-blog.net,13,http://droid-blog.net/2012/02/04/android-income-report-9-january-12/
+In ICS Google introduced some new Social APIs. Here is a quick walkthrough on how to use them.,New Social APIs,ARTICLES AND TUTORIALS,android-developers.blogspot.com,13,http://android-developers.blogspot.com/2012/02/new-social-apis-in-android-ics.html
+Did you ever wanted to create an Android version of Instagram? Here you can read on how to do low level image manipulation at lightning speed.,Low level image manipulation,ARTICLES AND TUTORIALS,android-developers.blogspot.com,13,http://android-developers.blogspot.com/2012/01/levels-in-renderscript.html
+In Abhinava's blog he shares some code with you and builds a very simple Twitter Client.,Twitter Code For Android Applications,LIBRARIES AND CODE,abhinavasblog.blogspot.com,13,http://abhinavasblog.blogspot.com/2011/06/for-all-my-code-thirsty-friends-twitter.html
+,Here are some nice extensions to the ViewPager UI Component,LIBRARIES AND CODE,github.com,13,https://github.com/astuetz/ViewPagerExtensions
+Global Android Dev Camp will take place from 17th to 19th of Feb. They have a new logo and in the last few days more Locations were added.,Android Dev Camp,ANDROID DEV CAMP,android-dev-camp-2012.blogspot.com,13,http://android-dev-camp-2012.blogspot.com/
+,"Berlin: c-base spacestation, Rungestraße 20, 10179 Berlin",ANDROID DEV CAMP,docs.google.com,13,https://docs.google.com/spreadsheet/viewform?hl=de&formkey=dC1YT3RPNTBWWEptUkJKbjI2ZWYxeGc6MQ#gid=0
+,"Brussel: Outpost Brussel, Rue de la Tribune 8, 1000 Brussel",ANDROID DEV CAMP,plus.google.com,13,https://plus.google.com/113239901244729600222/posts
+,"Düsseldorf: Garagebilk, Bilker Allee 217, 40215 Düsseldorf",ANDROID DEV CAMP,garagebilk.de,13,http://garagebilk.de/pages/events
+,"Paris: EIT ICT Labs, 23 Avenue d Italie, 75013 Paris",ANDROID DEV CAMP,meetup.paug.fr,13,http://meetup.paug.fr/
+,"San Francisco: Dev Bootcamp, 923 Market St., San Francisco, CA",ANDROID DEV CAMP,gtugsf.com,13,http://www.gtugsf.com/events/48672962/?eventId=48672962&action=detail
+,"Montreal: CRIM, 405 Avenue Ogilvy #101, Montreal, QC H3N 1M3",ANDROID DEV CAMP,eventbrite.com,13,http://montreal-android-dev-camp-2012-esearch.eventbrite.com/?srnk=1
+So check the map if your city is missing ;-),There are 50 more locations,ANDROID DEV CAMP,android-dev-camp-2012.blogspot.com,13,http://android-dev-camp-2012.blogspot.com/2012/01/26-registered-user-groups-so-far.html
+The latest Android Income Report #9 with some juicy insights on how to monetize apps,Android Income Report #9,HEADLINES,droid-blog.net,13,http://droid-blog.net/2012/02/04/android-income-report-9-january-12/
 ,Google is planning to add a new layer of security to Android,HEADLINES,googlemobile.blogspot.com,13,http://googlemobile.blogspot.com/2012/02/android-and-security.html
-"	Paul Bennett put together a curated circle of Android Developers on Google Plus, so if you want to have fresh resources be sure you add this circle.",Circle of Android Developers,"
-	RESOURCES",plus.google.com,13,https://plus.google.com/113516459185906517443/posts/83hMzFRivaS
+"Paul Bennett put together a curated circle of Android Developers on Google Plus, so if you want to have fresh resources be sure you add this circle.",Circle of Android Developers,RESOURCES,plus.google.com,13,https://plus.google.com/113516459185906517443/posts/83hMzFRivaS

@@ -1,17 +1,9 @@
 description,title,section,site,issue_num,link
-"    In this article you'll learn how to unify Key Store Access in ICS.",Unify Key Store Access,"
-  Articles & Tutorials",android-developers.blogspot.com,19,http://android-developers.blogspot.com/2012/03/unifying-key-store-access-in-ics.html
-"  A tutorial that shows you the development of services.",Service development,"
-  Articles & Tutorials",marakana.com,19,http://marakana.com/forums/android/examples/60.html
-"  Interesting blog post about how foreground notifications should be handled. Join the discussion.",Discussion: Foreground notifications,"
-  Articles & Tutorials",chris.boyle.name,19,http://chris.boyle.name/2012/03/android-foreground-service-notifications
-"  If you need a widget allowing to handle two values (like a minimum and maximum value or a range), this RangeSeekBar widget might suit your needs.",RangeSeekBar widget,"
-  Libraries & Code",code.google.com,19,https://code.google.com/p/range-seek-bar/
-"  Version 4.0 of the ActionBarSherlock has been released. ActionBarSherlock is an extension of the compatibility library designed to facilitate the use of the action bar design pattern across all versions of Android with a single API.",ActionBarSherlock 4.0,"
-  Libraries & Code",actionbarsherlock.com,19,http://actionbarsherlock.com/
-"    Big news: The google market is now called Play Store. No back to daily dev business.",The Play Store,"
-  News",play.google.com,19,https://play.google.com/store
-"    This is a screencast that get's you started with ActionBarSherlock.",Getting started with ActionBarSherlock,"
-  Screencasts",watchlaterapp.com,19,http://watchlaterapp.com/ahVI
-"	An ultra-tiny CPU monitor for Android. Only one pixel high! Shows your CPU usage stats on a small bar graph in the corner of the screen.""",CPU monitor,"
-  App of the Week",play.google.com,19,https://play.google.com/store/apps/details?id=com.bb.microcpu
+In this article you'll learn how to unify Key Store Access in ICS.,Unify Key Store Access,Articles & Tutorials,android-developers.blogspot.com,19,http://android-developers.blogspot.com/2012/03/unifying-key-store-access-in-ics.html
+A tutorial that shows you the development of services.,Service development,Articles & Tutorials,marakana.com,19,http://marakana.com/forums/android/examples/60.html
+Interesting blog post about how foreground notifications should be handled. Join the discussion.,Discussion: Foreground notifications,Articles & Tutorials,chris.boyle.name,19,http://chris.boyle.name/2012/03/android-foreground-service-notifications
+"If you need a widget allowing to handle two values (like a minimum and maximum value or a range), this RangeSeekBar widget might suit your needs.",RangeSeekBar widget,Libraries & Code,code.google.com,19,https://code.google.com/p/range-seek-bar/
+Version 4.0 of the ActionBarSherlock has been released. ActionBarSherlock is an extension of the compatibility library designed to facilitate the use of the action bar design pattern across all versions of Android with a single API.,ActionBarSherlock 4.0,Libraries & Code,actionbarsherlock.com,19,http://actionbarsherlock.com/
+Big news: The google market is now called Play Store. No back to daily dev business.,The Play Store,News,play.google.com,19,https://play.google.com/store
+This is a screencast that get's you started with ActionBarSherlock.,Getting started with ActionBarSherlock,Screencasts,watchlaterapp.com,19,http://watchlaterapp.com/ahVI
+"An ultra-tiny CPU monitor for Android. Only one pixel high! Shows your CPU usage stats on a small bar graph in the corner of the screen.""",CPU monitor,App of the Week,play.google.com,19,https://play.google.com/store/apps/details?id=com.bb.microcpu

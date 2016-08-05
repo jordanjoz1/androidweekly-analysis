@@ -1,17 +1,9 @@
 description,title,section,site,issue_num,link
-"		Android 4.0 allows drag and drop of views. Lars Vogel shows you in detail how to do this.",Drag & Drop in Android 4.0,"
-	Articles & Tutorials",vogella.de,15,http://www.vogella.de/articles/AndroidDragAndDrop/article.html
-"	This tutorial shows how to use fragment-based designs to create a modular user interface for both, mobiles and tablets.",Working With Fragments,"
-	Articles & Tutorials",mobile.tutsplus.com,15,http://mobile.tutsplus.com/tutorials/android/android-sdk_fragments/
-,Augmented Reality basics: Accessing camera & compass,"
-	Articles & Tutorials",devx.com,15,http://www.devx.com/wireless/Article/42482/1954
-"	Todd David has released an UI component that visualizes progress without a progress bar.",Another progress visualization,"
-	Libraries & Code",github.com,15,https://github.com/Todd-Davies/ProgressWheel
-"	GreenDao is an ORM that maps Java classes directly onto SQLite tables. No more tedious SQL wrapping.",Android ORM for SQLite,"
-	Libraries & Code",greendao-orm.com,15,http://greendao-orm.com/
-"		With Chrome for Android Google has released a very fast and solid browser. One benefit for those who do web development is that it's update cycle is now decoupled from the Android OS update cycle.",Chrome beta for Android,"
-	Headlines",code.google.com,15,http://code.google.com/chrome/mobile/
-"	Romain Nurik has released Android Design Preview, a little utility for Mac/Windows/Linux that'll mirror a portion of your desktop screen (such as your Photoshop canvas) to your USB-connected Android device.",Android Design Preview,"
-	Tools",plus.google.com,15,https://plus.google.com/113735310430199015092/posts/ZQ5wmtQPWkY
-"	Terminal IDE is an expandable terminal application, with a full Java / HTML / Android development kit, that runs on your Android device.",Terminal IDE,"
-	App of the Week",market.android.com,15,https://market.android.com/details?id=com.spartacusrex.spartacuside
+Android 4.0 allows drag and drop of views. Lars Vogel shows you in detail how to do this.,Drag & Drop in Android 4.0,Articles & Tutorials,vogella.de,15,http://www.vogella.de/articles/AndroidDragAndDrop/article.html
+"This tutorial shows how to use fragment-based designs to create a modular user interface for both, mobiles and tablets.",Working With Fragments,Articles & Tutorials,mobile.tutsplus.com,15,http://mobile.tutsplus.com/tutorials/android/android-sdk_fragments/
+,Augmented Reality basics: Accessing camera & compass,Articles & Tutorials,devx.com,15,http://www.devx.com/wireless/Article/42482/1954
+Todd David has released an UI component that visualizes progress without a progress bar.,Another progress visualization,Libraries & Code,github.com,15,https://github.com/Todd-Davies/ProgressWheel
+GreenDao is an ORM that maps Java classes directly onto SQLite tables. No more tedious SQL wrapping.,Android ORM for SQLite,Libraries & Code,greendao-orm.com,15,http://greendao-orm.com/
+With Chrome for Android Google has released a very fast and solid browser. One benefit for those who do web development is that it's update cycle is now decoupled from the Android OS update cycle.,Chrome beta for Android,Headlines,code.google.com,15,http://code.google.com/chrome/mobile/
+"Romain Nurik has released Android Design Preview, a little utility for Mac/Windows/Linux that'll mirror a portion of your desktop screen (such as your Photoshop canvas) to your USB-connected Android device.",Android Design Preview,Tools,plus.google.com,15,https://plus.google.com/113735310430199015092/posts/ZQ5wmtQPWkY
+"Terminal IDE is an expandable terminal application, with a full Java / HTML / Android development kit, that runs on your Android device.",Terminal IDE,App of the Week,market.android.com,15,https://market.android.com/details?id=com.spartacusrex.spartacuside

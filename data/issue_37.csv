@@ -1,21 +1,11 @@
 description,title,section,site,issue_num,link
-"    Basic ActionBar Part 1-5 - Great series by Mark Allison. Check it out before you digg in the next Tuturial.",Basic ActionBar,"
-  Articles & Tutorials",blog.stylingandroid.com,37,http://blog.stylingandroid.com/archives/1203#
-"  In this blogpost you'll learn how implement ActionMode. ActionMode is a mechanism for changing the UI model in a contextual way. ",ActionMode,"
-  Articles & Tutorials",blog.stylingandroid.com,37,http://blog.stylingandroid.com/archives/1212
-"  In this Google+ post Roman Nurik explains how to implement tokenized Text Fields. ",'Chips' in Recipient Text Fields,"
-  Articles & Tutorials",plus.google.com,37,https://plus.google.com/113735310430199015092/posts/WUd7GrfZfiZ
-"  Android-PullToRefresh has been updated to version 1.4. OverScroll Support, Jelly Bean optimisation, some fixes and more stuff. Check out Chris Banes repository at Github.",PullToRefresh 1.4,"
-  Libraries & Code",github.com,37,https://github.com/chrisbanes/Android-PullToRefresh
-"  Jake Wharton updated his ViewPagerIndicator to version 2.4.0. Lot of bugfixes and optimizations.",ViewPagerIndicator 2.4.0 released!,"
-  Libraries & Code",plus.google.com,37,https://plus.google.com/108284392618554783657/posts/U1RRMWkssYg
-"If the deadline approaches, projects can become messy. Andround Unused Resources is a Java application that will scan your project for... well... unused resources. Good if you need to clean some things up.",Android Unused Resources,"
-  Libraries & Code",code.google.com,37,http://code.google.com/p/android-unused-resources
-"    J2ObjC is an open-source command-line tool from Google that translates Java code to Objective-C for the iOS (iPhone/iPad) platform. This tool enables Java code to be part of an iOS application's build, as no editing of the generated files is necessary. Since it will not be able to deal with CoreData I'm not sure if it's feasible for production.",A Java to iOS Objective-C translator,"
-  News",google-opensource.blogspot.co.uk,37,http://google-opensource.blogspot.co.uk/2012/09/j2objc-java-to-ios-objective-c.html
-"In a regular Android project, constants in the resource R class are final, however, as of ADT 14, in a library project, they will be declared as non final. The reason the fields are no longer final is that it means that the library jars can be compiled once and reused directly in other projects.",Non-constant Fields in Case Labels,"
-  News",tools.android.com,37,http://tools.android.com/tips/non-constant-fields
-"Ms. Kaur goes over camera APIs and their functions inside Android, and is followed up by Mr. Rickson who breaks down the hardware application layers beneath it all. Dig as deep in to the Android camera stack as you want in this two-for-one presentation.",Exposing the Android Camera Stack,"
-  Screencasts",wla.tv,37,http://wla.tv/kJq2
-"	Say hello to Hooha, a new App.net client built for the community from the ground up. Hooha is a simple, clean and minimalistic app that is designed for readability. It makes reading, posting and sharing on App.net from your Android device a breeze.",Hooha,"
-  App of the Week",play.google.com,37,https://play.google.com/store/apps/details?id=com.themodernink.hooha
+Basic ActionBar Part 1-5 - Great series by Mark Allison. Check it out before you digg in the next Tuturial.,Basic ActionBar,Articles & Tutorials,blog.stylingandroid.com,37,http://blog.stylingandroid.com/archives/1203#
+In this blogpost you'll learn how implement ActionMode. ActionMode is a mechanism for changing the UI model in a contextual way.,ActionMode,Articles & Tutorials,blog.stylingandroid.com,37,http://blog.stylingandroid.com/archives/1212
+In this Google+ post Roman Nurik explains how to implement tokenized Text Fields.,'Chips' in Recipient Text Fields,Articles & Tutorials,plus.google.com,37,https://plus.google.com/113735310430199015092/posts/WUd7GrfZfiZ
+"Android-PullToRefresh has been updated to version 1.4. OverScroll Support, Jelly Bean optimisation, some fixes and more stuff. Check out Chris Banes repository at Github.",PullToRefresh 1.4,Libraries & Code,github.com,37,https://github.com/chrisbanes/Android-PullToRefresh
+Jake Wharton updated his ViewPagerIndicator to version 2.4.0. Lot of bugfixes and optimizations.,ViewPagerIndicator 2.4.0 released!,Libraries & Code,plus.google.com,37,https://plus.google.com/108284392618554783657/posts/U1RRMWkssYg
+"If the deadline approaches, projects can become messy. Andround Unused Resources is a Java application that will scan your project for... well... unused resources. Good if you need to clean some things up.",Android Unused Resources,Libraries & Code,code.google.com,37,http://code.google.com/p/android-unused-resources
+"J2ObjC is an open-source command-line tool from Google that translates Java code to Objective-C for the iOS (iPhone/iPad) platform. This tool enables Java code to be part of an iOS application's build, as no editing of the generated files is necessary. Since it will not be able to deal with CoreData I'm not sure if it's feasible for production.",A Java to iOS Objective-C translator,News,google-opensource.blogspot.co.uk,37,http://google-opensource.blogspot.co.uk/2012/09/j2objc-java-to-ios-objective-c.html
+"In a regular Android project, constants in the resource R class are final, however, as of ADT 14, in a library project, they will be declared as non final. The reason the fields are no longer final is that it means that the library jars can be compiled once and reused directly in other projects.",Non-constant Fields in Case Labels,News,tools.android.com,37,http://tools.android.com/tips/non-constant-fields
+"Ms. Kaur goes over camera APIs and their functions inside Android, and is followed up by Mr. Rickson who breaks down the hardware application layers beneath it all. Dig as deep in to the Android camera stack as you want in this two-for-one presentation.",Exposing the Android Camera Stack,Screencasts,wla.tv,37,http://wla.tv/kJq2
+"Say hello to Hooha, a new App.net client built for the community from the ground up. Hooha is a simple, clean and minimalistic app that is designed for readability. It makes reading, posting and sharing on App.net from your Android device a breeze.",Hooha,App of the Week,play.google.com,37,https://play.google.com/store/apps/details?id=com.themodernink.hooha

@@ -1,21 +1,11 @@
 description,title,section,site,issue_num,link
-"		A great drilldown on Android vs. iOS revenue.",Android App Revenue,"
-	HEADLINES",androidauthority.com,5,http://www.androidauthority.com/android-app-revenue-only-7-of-ios-revenue-not-so-fast-34241/
-"		Humours take on the headline ""Galaxy Nexus: Android Ice Cream Sandwich guinea pig"".",Android Ice Cream Sandwich guinea pig,"
-	HEADLINES",jpg,5,http://i.imgur.com/Oh6sM.jpg
-"	How to embed a WebView with the WebKit Engine.",WebView on Android,"
-	ARTICLES AND TUTORIALS",mobile.tutsplus.com/,5,http://mobile.tutsplus.com/tutorials/android/android-sdk-embed-a-webview-with-the-webkit-engine/
-"	Article by Roman Nurik about how to create pixel perfect Android web UIs with CSS media queries.",Pixel-perfect Android web UIs,"
-	ARTICLES AND TUTORIALS",designbycode.tumblr.com/,5,http://designbycode.tumblr.com/post/1127120282/pixel-perfect-android-web-ui
-"	Wanting to change the default TabWidget look and feel for Android?",How to create custom tabs,"
-	ARTICLES AND TUTORIALS",joshclemm.com,5,http://joshclemm.com/blog/?p=136
-"	Everything you need to know about fonts!",Customize Android Fonts,"
-	ARTICLES AND TUTORIALS",mobile.tutsplus.com,5,http://mobile.tutsplus.com/tutorials/android/customize-android-fonts/
-"	NewQuickAction is a small android library to create QuickAction dialog.",Quick Action UI Component,"
-	LIBRARIES AND CODE",github.com,5,https://github.com/lorensiuswlt/NewQuickAction
-,Brian Tarricone convenience Classes for Android,"
-	LIBRARIES AND CODE",github.com,5,https://github.com/kelnos/bt-android-utils
-"		In this 2-hour tutorial Marko will build an Android app from scratch in-order to illustrate some of the key concepts for Android UI development.",A screencast about Android UI,"
-	SCREENCASTS",watchlaterapp.com,5,http://watchlaterapp.com/HyI
-"	This application provides access to github.com informations and stay connected with your networks.",Github for Android,"
-	APP OF THE WEEK",market.android.com,5,https://market.android.com/details?id=com.gh4a
+A great drilldown on Android vs. iOS revenue.,Android App Revenue,HEADLINES,androidauthority.com,5,http://www.androidauthority.com/android-app-revenue-only-7-of-ios-revenue-not-so-fast-34241/
+"Humours take on the headline ""Galaxy Nexus: Android Ice Cream Sandwich guinea pig"".",Android Ice Cream Sandwich guinea pig,HEADLINES,jpg,5,http://i.imgur.com/Oh6sM.jpg
+How to embed a WebView with the WebKit Engine.,WebView on Android,ARTICLES AND TUTORIALS,mobile.tutsplus.com/,5,http://mobile.tutsplus.com/tutorials/android/android-sdk-embed-a-webview-with-the-webkit-engine/
+Article by Roman Nurik about how to create pixel perfect Android web UIs with CSS media queries.,Pixel-perfect Android web UIs,ARTICLES AND TUTORIALS,designbycode.tumblr.com/,5,http://designbycode.tumblr.com/post/1127120282/pixel-perfect-android-web-ui
+Wanting to change the default TabWidget look and feel for Android?,How to create custom tabs,ARTICLES AND TUTORIALS,joshclemm.com,5,http://joshclemm.com/blog/?p=136
+Everything you need to know about fonts!,Customize Android Fonts,ARTICLES AND TUTORIALS,mobile.tutsplus.com,5,http://mobile.tutsplus.com/tutorials/android/customize-android-fonts/
+NewQuickAction is a small android library to create QuickAction dialog.,Quick Action UI Component,LIBRARIES AND CODE,github.com,5,https://github.com/lorensiuswlt/NewQuickAction
+,Brian Tarricone convenience Classes for Android,LIBRARIES AND CODE,github.com,5,https://github.com/kelnos/bt-android-utils
+In this 2-hour tutorial Marko will build an Android app from scratch in-order to illustrate some of the key concepts for Android UI development.,A screencast about Android UI,SCREENCASTS,watchlaterapp.com,5,http://watchlaterapp.com/HyI
+This application provides access to github.com informations and stay connected with your networks.,Github for Android,APP OF THE WEEK,market.android.com,5,https://market.android.com/details?id=com.gh4a

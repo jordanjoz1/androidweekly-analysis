@@ -1,19 +1,10 @@
 description,title,section,site,issue_num,link
-"		The source code of Android 4.0 ""Ice Cream Sandwich"" is now available. The new Cyanogenmod will be awaited.",Ice Cream Sandwich source code hits AOSP,"
-	HEADLINES",androidandme.com,4,http://androidandme.com/2011/11/news/ice-cream-sandwich-source-code-hits-aosp-custom-roms-are-a-go/?utm_source=rss&utm_medium=rss&utm_campaign=ice-cream-sandwich-source-code-hits-aosp-custom-roms-are-a-go&utm_medium=referral
-"		The rise of Android continues with 550 thousand activations daily.",200 million Android devices,"
-	HEADLINES",androidandme.com,4,http://androidandme.com/2011/11/news/200-million-android-devices-have-been-activated-globally-550000-new-additions-daily/?utm_source=rss&utm_medium=rss&utm_campaign=200-million-android-devices-have-been-activated-globally-550000-new-additions-daily&utm_medium=referral
-"	Bored of having coffee while your emulator boots up? This post explains how to speed up your emulator with Virtual Box.",Speeding up Android development,"
-	ARTICLES AND TUTORIALS",brunocosta.com,4,http://brunocosta.com/blog/2011/11/02/speeding-up-android-development-with-android-x86-and-virtualbox/
-"	Installment of the Drag and Drop part 3.",Drag and Drop part 3,"
-	ARTICLES AND TUTORIALS",codingjunkie.net,4,http://codingjunkie.net/android-drag-and-drop-part-3/
-"	A good sum up on how to work with XML (e.g. for a RSS parser) on Android. Different techniques and libraries will be discussed.",Working with XML on Android,"
-	ARTICLES AND TUTORIALS",Working with XML on Android,4,http://www.ibm.com/developerworks/opensource/library/x-android/index.html
-"	Here comes two alternatives on how to create a horizontal view navigation. This is a pretty decent and well explained library.",Android Viewflow,"
-	LIBRARIES AND CODE",github.com,4,https://github.com/pakerfeldt/android-viewflow
-"	The next one was released as part of the compatibility package for devices with an older system (>1.6).",Horizontal View Swiping with ViewPager,"
-	LIBRARIES AND CODE",android-developers.blogspot.com,4,http://android-developers.blogspot.com/2011/08/horizontal-view-swiping-with-viewpager.html?m=1
-"		A screencast about the main building blocks for an android app.",Main Building Blocks,"
-	SCREENCASTS",watchlaterapp.com,4,http://watchlaterapp.com/4JCt
-"	Cool app to manage your to do tasks. Absolutely great designed. Android apps should definetely more be like this one.",Any.Do,"
-	APP OF THE WEEK",Any.Do,4,http://www.any.do/
+"The source code of Android 4.0 ""Ice Cream Sandwich"" is now available. The new Cyanogenmod will be awaited.",Ice Cream Sandwich source code hits AOSP,HEADLINES,androidandme.com,4,http://androidandme.com/2011/11/news/ice-cream-sandwich-source-code-hits-aosp-custom-roms-are-a-go/?utm_source=rss&utm_medium=rss&utm_campaign=ice-cream-sandwich-source-code-hits-aosp-custom-roms-are-a-go&utm_medium=referral
+The rise of Android continues with 550 thousand activations daily.,200 million Android devices,HEADLINES,androidandme.com,4,http://androidandme.com/2011/11/news/200-million-android-devices-have-been-activated-globally-550000-new-additions-daily/?utm_source=rss&utm_medium=rss&utm_campaign=200-million-android-devices-have-been-activated-globally-550000-new-additions-daily&utm_medium=referral
+Bored of having coffee while your emulator boots up? This post explains how to speed up your emulator with Virtual Box.,Speeding up Android development,ARTICLES AND TUTORIALS,brunocosta.com,4,http://brunocosta.com/blog/2011/11/02/speeding-up-android-development-with-android-x86-and-virtualbox/
+Installment of the Drag and Drop part 3.,Drag and Drop part 3,ARTICLES AND TUTORIALS,codingjunkie.net,4,http://codingjunkie.net/android-drag-and-drop-part-3/
+A good sum up on how to work with XML (e.g. for a RSS parser) on Android. Different techniques and libraries will be discussed.,Working with XML on Android,ARTICLES AND TUTORIALS,Working with XML on Android,4,http://www.ibm.com/developerworks/opensource/library/x-android/index.html
+Here comes two alternatives on how to create a horizontal view navigation. This is a pretty decent and well explained library.,Android Viewflow,LIBRARIES AND CODE,github.com,4,https://github.com/pakerfeldt/android-viewflow
+The next one was released as part of the compatibility package for devices with an older system (>1.6).,Horizontal View Swiping with ViewPager,LIBRARIES AND CODE,android-developers.blogspot.com,4,http://android-developers.blogspot.com/2011/08/horizontal-view-swiping-with-viewpager.html?m=1
+A screencast about the main building blocks for an android app.,Main Building Blocks,SCREENCASTS,watchlaterapp.com,4,http://watchlaterapp.com/4JCt
+Cool app to manage your to do tasks. Absolutely great designed. Android apps should definetely more be like this one.,Any.Do,APP OF THE WEEK,Any.Do,4,http://www.any.do/

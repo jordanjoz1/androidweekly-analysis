@@ -1,19 +1,10 @@
 description,title,section,site,issue_num,link
-"    ""Designing For Android: Tips And Techniques"" is an in depth blog post with many best practices when designing for Android. Especially when you have to design for multiple resolutions.",Designing For Android,"
-  Articles & Tutorials",smashingmagazine.com,33,http://mobile.smashingmagazine.com/2012/07/26/android-design-tips/
-"  In this blog post Jernej Virag explains all the must have libraries a Android developer should know. Very similiar to our toolbox, but great summaries and explanations of each library.",Must-have libraries,"
-  Articles & Tutorials",virag.si,33,https://www.virag.si/2012/06/must-have-libraries-in-modern-android-developer-toolbox/
-"  Sixth part of Mark Allisons ""Maven and Android"" series.",Maven and Android series,"
-  Articles & Tutorials",blog.stylingandroid.com,33,http://blog.stylingandroid.com/archives/1122
-"  Synchronized Scrolling by Xavi Rigua is a library project that allows you to have a Synchronized scrolling effect in a view, similar to the one in the GMail app (when you open a conversation with multiple messages, you can scroll down and the senders info stay on top of screen).",Synchronized Scrolling Library,"
-  Libraries & Code",github.com,33,https://github.com/xrigau/Synchronized-Scrolling/tree/master/XaviRigau-SynchronizedScrolling
-"  Sergey Tarasevich has a library on Github that helps you to share your content in Facebook or Twitter.",Android-Simple-Social-Sharing,"
-  Libraries & Code",github.com,33,https://github.com/nostra13/Android-Simple-Social-Sharing
-"  Universal Image Loader (also by Sergey Terasevich) is a reusable and powerful component for asynchronous image loading, caching and displaying.",Android-Universal-Image-Loader,"
-  Libraries & Code",github.com,33,https://github.com/nostra13/Android-Universal-Image-Loader
-"    An official writing style guide has been released by Google. Most of it is common sense, but it is a good nudge to revisit your copy.",Writing Style,"
-  News",developer.android.com,33,http://developer.android.com/design/style/writing.html
-"  Let's face it: Juggling with densities for Android is a bit of a pain, especially when dealing with 9 patch png. And then comes this tool, that takes a xhdpi PNG file, or 9.png file, and generates ldpi, mdpi and hdpi png files automatically. Great work!",9Patch Resizer,"
-  Tools",code.google.com,33,http://code.google.com/p/9patch-resizer/
-"  Android development contests are an excellent opportunity to showcase your design and development talents. In this blogpost Michelle Greenline lists three of them.",Three Upcoming Android Development Contests,"
-  Awards",news.dice.com,33,http://news.dice.com/2012/07/26/android-development-contests/
+"""Designing For Android: Tips And Techniques"" is an in depth blog post with many best practices when designing for Android. Especially when you have to design for multiple resolutions.",Designing For Android,Articles & Tutorials,smashingmagazine.com,33,http://mobile.smashingmagazine.com/2012/07/26/android-design-tips/
+"In this blog post Jernej Virag explains all the must have libraries a Android developer should know. Very similiar to our toolbox, but great summaries and explanations of each library.",Must-have libraries,Articles & Tutorials,virag.si,33,https://www.virag.si/2012/06/must-have-libraries-in-modern-android-developer-toolbox/
+"Sixth part of Mark Allisons ""Maven and Android"" series.",Maven and Android series,Articles & Tutorials,blog.stylingandroid.com,33,http://blog.stylingandroid.com/archives/1122
+"Synchronized Scrolling by Xavi Rigua is a library project that allows you to have a Synchronized scrolling effect in a view, similar to the one in the GMail app (when you open a conversation with multiple messages, you can scroll down and the senders info stay on top of screen).",Synchronized Scrolling Library,Libraries & Code,github.com,33,https://github.com/xrigau/Synchronized-Scrolling/tree/master/XaviRigau-SynchronizedScrolling
+Sergey Tarasevich has a library on Github that helps you to share your content in Facebook or Twitter.,Android-Simple-Social-Sharing,Libraries & Code,github.com,33,https://github.com/nostra13/Android-Simple-Social-Sharing
+"Universal Image Loader (also by Sergey Terasevich) is a reusable and powerful component for asynchronous image loading, caching and displaying.",Android-Universal-Image-Loader,Libraries & Code,github.com,33,https://github.com/nostra13/Android-Universal-Image-Loader
+"An official writing style guide has been released by Google. Most of it is common sense, but it is a good nudge to revisit your copy.",Writing Style,News,developer.android.com,33,http://developer.android.com/design/style/writing.html
+"Let's face it: Juggling with densities for Android is a bit of a pain, especially when dealing with 9 patch png. And then comes this tool, that takes a xhdpi PNG file, or 9.png file, and generates ldpi, mdpi and hdpi png files automatically. Great work!",9Patch Resizer,Tools,code.google.com,33,http://code.google.com/p/9patch-resizer/
+Android development contests are an excellent opportunity to showcase your design and development talents. In this blogpost Michelle Greenline lists three of them.,Three Upcoming Android Development Contests,Awards,news.dice.com,33,http://news.dice.com/2012/07/26/android-development-contests/

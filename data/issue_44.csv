@@ -1,23 +1,12 @@
 description,title,section,site,issue_num,link
-"  Mark Allison has started a new series: Styling Pull to Refresh.",Styling Pull to Refresh,"
-  Articles & Tutorials",blog.stylingandroid.com,44,http://blog.stylingandroid.com/archives/1341
-"  In this Google+ post Nick Butcher reminds us gently to update our icons for the Nexus 10.",Nexus 10 launcher icons,"
-  Articles & Tutorials",plus.google.com,44,https://plus.google.com/u/0/118292708268361843293/posts/ePQya3KsTjW
-"  Android Scripts is a neat little collection of shell scripts that speeds up your development process.",Android Scripts,"
-  Articles & Tutorials",udinic.wordpress.com,44,http://udinic.wordpress.com/2012/10/24/android-scripts/
-"  The activity lifecycle is often ignored by new developers. They realize it, when a device rotation is tearing down and setting up an activity and all the state is lost. This blog post by Charles Harley explains how to properly save the view state and restore it again, when the view comes back to life.",Views saving instance state in Android,"
-  Articles & Tutorials",charlesharley.com,44,http://www.charlesharley.com/2012/programming/views-saving-instance-state-in-android/
-"  And reach Android Developers around the world!",Post a job on Android Weekly,"
-  Jobs",androidweekly.net,44,http://androidweekly.net/jobs/new
-"  RoboSpice is a modular android library that makes writing asynchronous network requests easy. It executes asynchronously (in a background AndroidService) network requests and supports REST out of the box via Spring Android [link zu http://www.springsource.org/spring-android].",RoboSpice,"
-  Libraries & Code",github.com,44,https://github.com/octo-online/robospice
-"  A very simple bare-minimum WebSocket and Socket.IO client for Android by Koushik Dutta.",Android Websockets,"
-  Libraries & Code",github.com,44,https://github.com/koush/android-websockets
-"  This library by Paul Burke provides you the possibility to choose a file from the filesystem or an external storage device.",Android File Chooser,"
-  Libraries & Code",github.com,44,https://github.com/iPaulPro/aFileChooser
-"  GreenDroid light is... guess what, a lighter version of the GreenDroid library. Nikolaus Klein, has removed the ActionBar code, since you can (and should) use ActionBarSherlock - he also removed some of the original constraints.",Green Droid Light,"
-  Libraries & Code",github.com,44,https://github.com/foxykeep/GreenDroidLight
-"  A new flavour of Jelly Bean has been released. The Android 4.2 goodness brings us a whole new camera experience, display mirroring, beam to device and countless additional features. ",Whats new in Jelly Bean,"
-  News",android.com,44,http://www.android.com/whatsnew/
-"  The nexus comes in three different sizes: The Nexus 4 is a mobile phone, the Nexus 7 a lightweight tablet and the Nexus 10 is the ultimate tablet solution. The devices look really tempting to buy, just the versioning is a little confusing and will bring headaches with future updates.","The best of Google, now in three sizes","
-  News",officialandroid.blogspot.de,44,http://officialandroid.blogspot.de/2012/10/nexus-best-of-google-now-in-three-sizes.html
+Mark Allison has started a new series: Styling Pull to Refresh.,Styling Pull to Refresh,Articles & Tutorials,blog.stylingandroid.com,44,http://blog.stylingandroid.com/archives/1341
+In this Google+ post Nick Butcher reminds us gently to update our icons for the Nexus 10.,Nexus 10 launcher icons,Articles & Tutorials,plus.google.com,44,https://plus.google.com/u/0/118292708268361843293/posts/ePQya3KsTjW
+Android Scripts is a neat little collection of shell scripts that speeds up your development process.,Android Scripts,Articles & Tutorials,udinic.wordpress.com,44,http://udinic.wordpress.com/2012/10/24/android-scripts/
+"The activity lifecycle is often ignored by new developers. They realize it, when a device rotation is tearing down and setting up an activity and all the state is lost. This blog post by Charles Harley explains how to properly save the view state and restore it again, when the view comes back to life.",Views saving instance state in Android,Articles & Tutorials,charlesharley.com,44,http://www.charlesharley.com/2012/programming/views-saving-instance-state-in-android/
+And reach Android Developers around the world!,Post a job on Android Weekly,Jobs,androidweekly.net,44,http://androidweekly.net/jobs/new
+RoboSpice is a modular android library that makes writing asynchronous network requests easy. It executes asynchronously (in a background AndroidService) network requests and supports REST out of the box via Spring Android [link zu http://www.springsource.org/spring-android].,RoboSpice,Libraries & Code,github.com,44,https://github.com/octo-online/robospice
+A very simple bare-minimum WebSocket and Socket.IO client for Android by Koushik Dutta.,Android Websockets,Libraries & Code,github.com,44,https://github.com/koush/android-websockets
+This library by Paul Burke provides you the possibility to choose a file from the filesystem or an external storage device.,Android File Chooser,Libraries & Code,github.com,44,https://github.com/iPaulPro/aFileChooser
+"GreenDroid light is... guess what, a lighter version of the GreenDroid library. Nikolaus Klein, has removed the ActionBar code, since you can (and should) use ActionBarSherlock - he also removed some of the original constraints.",Green Droid Light,Libraries & Code,github.com,44,https://github.com/foxykeep/GreenDroidLight
+"A new flavour of Jelly Bean has been released. The Android 4.2 goodness brings us a whole new camera experience, display mirroring, beam to device and countless additional features.",Whats new in Jelly Bean,News,android.com,44,http://www.android.com/whatsnew/
+"The nexus comes in three different sizes: The Nexus 4 is a mobile phone, the Nexus 7 a lightweight tablet and the Nexus 10 is the ultimate tablet solution. The devices look really tempting to buy, just the versioning is a little confusing and will bring headaches with future updates.","The best of Google, now in three sizes",News,officialandroid.blogspot.de,44,http://officialandroid.blogspot.de/2012/10/nexus-best-of-google-now-in-three-sizes.html

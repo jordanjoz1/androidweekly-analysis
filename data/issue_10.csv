@@ -1,19 +1,10 @@
 description,title,section,site,issue_num,link
-"		A tutorial how to show notifications in the Android Notification manager.",Notification,"
-	ARTICLES AND TUTORIALS",vogella.de,10,http://www.vogella.de/articles/AndroidNotifications/article.html
-"		Speed up your Android development with an x86 based Android Emulator that runs on Virtual Box.",Speed up your Android Emulator,"
-	ARTICLES AND TUTORIALS",bobbychanblog.com,10,http://www.bobbychanblog.com/2011/07/faster-android-emulator-alternative-using-virtualbox/
-,Styling Android with defaults.,"
-	ARTICLES AND TUTORIALS",therealjoshua.com,10,http://www.therealjoshua.com/2012/01/styling-android-with-defaults/
-,A ListView control that has an event for a Double Tap.,"
-	LIBRARIES AND CODE",github.com,10,https://github.com/NikolaDespotoski/DoubleTapListView
-,A UI control to show a wheel select.,"
-	LIBRARIES AND CODE",code.google.com,10,http://code.google.com/p/android-wheel/
-,Pricing your App correctly to increase sales.,"
-	HEADLINES",appbackr.com,10,http://www.appbackr.com/blog/developers/pricing-android-app
-,Android the plattform for prototypes,"
-	HEADLINES",robsandhu.tumblr.com,10,http://robsandhu.tumblr.com/post/15537100360/android-the-platform-for-prototypes
-"		 ","For the hackers, who to build a custom ROM.","
-	SCREENCASTS",watchlaterapp.com,10,http://watchlaterapp.com/6Bra
-,Subscribe and listen to your favourite Podcasts.,"
-	APP OF THE WEEK",market.android.com,10,https://market.android.com/details?id=com.google.android.apps.listen&hl=de
+A tutorial how to show notifications in the Android Notification manager.,Notification,ARTICLES AND TUTORIALS,vogella.de,10,http://www.vogella.de/articles/AndroidNotifications/article.html
+Speed up your Android development with an x86 based Android Emulator that runs on Virtual Box.,Speed up your Android Emulator,ARTICLES AND TUTORIALS,bobbychanblog.com,10,http://www.bobbychanblog.com/2011/07/faster-android-emulator-alternative-using-virtualbox/
+,Styling Android with defaults.,ARTICLES AND TUTORIALS,therealjoshua.com,10,http://www.therealjoshua.com/2012/01/styling-android-with-defaults/
+,A ListView control that has an event for a Double Tap.,LIBRARIES AND CODE,github.com,10,https://github.com/NikolaDespotoski/DoubleTapListView
+,A UI control to show a wheel select.,LIBRARIES AND CODE,code.google.com,10,http://code.google.com/p/android-wheel/
+,Pricing your App correctly to increase sales.,HEADLINES,appbackr.com,10,http://www.appbackr.com/blog/developers/pricing-android-app
+,Android the plattform for prototypes,HEADLINES,robsandhu.tumblr.com,10,http://robsandhu.tumblr.com/post/15537100360/android-the-platform-for-prototypes
+ ,"For the hackers, who to build a custom ROM.",SCREENCASTS,watchlaterapp.com,10,http://watchlaterapp.com/6Bra
+,Subscribe and listen to your favourite Podcasts.,APP OF THE WEEK,market.android.com,10,https://market.android.com/details?id=com.google.android.apps.listen&hl=de

@@ -1,19 +1,10 @@
 description,title,section,site,issue_num,link
-"	In this tutorial you will learn how to run a heavy task in a background process without blocking the UI.",http://www.brighthub.com/mobile/google-android/articles/117359.aspx,"
-	Articles and Tutorials",,3,http://www.brighthub.com/mobile/google-android/articles/117359.aspx
-"	Second installment of the Drag and Drop article we mentioned in last week's newsletter. In the Android component library there is no native support for Drag and Drop. But it's not that difficult to implement it by yourself.",http://codingjunkie.net/android-drag-and-drop-part-2/,"
-	Articles and Tutorials",,3,http://codingjunkie.net/android-drag-and-drop-part-2/
-"	KreCi put up some nice Developer Income Reports which reflect his journey with Android development and how to make money with it.",http://www.kreci.net/reports/,"
-	Articles and Tutorials",,3,http://www.kreci.net/reports/
-"	A brief overview of Android App landingpages.",http://www.designdazzling.com/2010/09/25-website-designs-of-android-application/,"
-	Articles and Tutorials",,3,http://www.designdazzling.com/2010/09/25-website-designs-of-android-application/
-"	A good article about the distributen of mobile games on iOS, Android, Sony and Nintendo.",http://androidandme.com/2011/11/news/game-over-smartphone-game-revenue-leaves-nintendo-and-sony-in-the-dust/,"
-	Headlines",,3,http://androidandme.com/2011/11/news/game-over-smartphone-game-revenue-leaves-nintendo-and-sony-in-the-dust/
-"	RealViewSwitcher allows to your user to horizontally navigate through the views like in the Launcher App.",http://marcreichelt.blogspot.com/2010/09/android-use-realviewswitcher-to-switch.html,"
-	Libraries and Code",,3,http://marcreichelt.blogspot.com/2010/09/android-use-realviewswitcher-to-switch.html
-"	Is your app aware if your device is connected to the internet? This snippet will help you to determine if you are online.",http://p-xr.com/android-snippet-check-if-the-device-is-connected-to-the-internet/,"
-	Libraries and Code",,3,http://p-xr.com/android-snippet-check-if-the-device-is-connected-to-the-internet/
-"	An easy to understand Android development video for beginners. You will lean how to create the good old ""hello world"".",http://www.youtube.com/watch?v=0gELwUFooaQ,"
-	Screencasts",,3,http://www.youtube.com/watch?v=0gELwUFooaQ
-"	A very clean and simple app to create mockups.",https://market.android.com/details?id=com.welant.mockups,"
-	App of the week",,3,https://market.android.com/details?id=com.welant.mockups
+In this tutorial you will learn how to run a heavy task in a background process without blocking the UI.,http://www.brighthub.com/mobile/google-android/articles/117359.aspx,Articles and Tutorials,,3,http://www.brighthub.com/mobile/google-android/articles/117359.aspx
+Second installment of the Drag and Drop article we mentioned in last week's newsletter. In the Android component library there is no native support for Drag and Drop. But it's not that difficult to implement it by yourself.,http://codingjunkie.net/android-drag-and-drop-part-2/,Articles and Tutorials,,3,http://codingjunkie.net/android-drag-and-drop-part-2/
+KreCi put up some nice Developer Income Reports which reflect his journey with Android development and how to make money with it.,http://www.kreci.net/reports/,Articles and Tutorials,,3,http://www.kreci.net/reports/
+A brief overview of Android App landingpages.,http://www.designdazzling.com/2010/09/25-website-designs-of-android-application/,Articles and Tutorials,,3,http://www.designdazzling.com/2010/09/25-website-designs-of-android-application/
+"A good article about the distributen of mobile games on iOS, Android, Sony and Nintendo.",http://androidandme.com/2011/11/news/game-over-smartphone-game-revenue-leaves-nintendo-and-sony-in-the-dust/,Headlines,,3,http://androidandme.com/2011/11/news/game-over-smartphone-game-revenue-leaves-nintendo-and-sony-in-the-dust/
+RealViewSwitcher allows to your user to horizontally navigate through the views like in the Launcher App.,http://marcreichelt.blogspot.com/2010/09/android-use-realviewswitcher-to-switch.html,Libraries and Code,,3,http://marcreichelt.blogspot.com/2010/09/android-use-realviewswitcher-to-switch.html
+Is your app aware if your device is connected to the internet? This snippet will help you to determine if you are online.,http://p-xr.com/android-snippet-check-if-the-device-is-connected-to-the-internet/,Libraries and Code,,3,http://p-xr.com/android-snippet-check-if-the-device-is-connected-to-the-internet/
+"An easy to understand Android development video for beginners. You will lean how to create the good old ""hello world"".",http://www.youtube.com/watch?v=0gELwUFooaQ,Screencasts,,3,http://www.youtube.com/watch?v=0gELwUFooaQ
+A very clean and simple app to create mockups.,https://market.android.com/details?id=com.welant.mockups,App of the week,,3,https://market.android.com/details?id=com.welant.mockups

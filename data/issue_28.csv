@@ -1,21 +1,11 @@
 description,title,section,site,issue_num,link
-"    In his article Josh walks implements his own architecture for event dispatching.",Event Dispatching: Sending Messages,"
-  Articles & Tutorials",therealjoshua.com,28,http://www.therealjoshua.com/2012/03/event-dispatching-sending-messages/?utm_source=androidweekly
-"  In this article the creators of the Prixing explain how they created a custom component.",The making of Prixing #1: Fly-in app menu,"
-  Articles & Tutorials",android.cyrilmottier.com,28,http://android.cyrilmottier.com/?p=658&utm_source=androidweekly
-"  31 Days of Android: Day 6–Options Menus and Base Activities.",31 Days of Android: Day 6,"
-  Articles & Tutorials",chrisrisner.com,28,http://chrisrisner.com/31-Days-of-Android--Day-6%E2%80%93Options-Menus-and-Base-Activities?utm_source=androidweekly
-"A very good implementation of the pull to refresh paradigma for lists.",Pull To Refresh,"
-  Libraries & Code",github.com,28,https://github.com/chrisbanes/Android-PullToRefresh?utm_source=androidweekly
-"  Do you need a pinch zoom component and you don't want to use a WebView, then you have to try Android Pinch.",Android Pinch,"
-  Libraries & Code",code.google.com,28,http://code.google.com/p/android-pinch/
-"    Second screen applications involve interactivity between smart phones, tablets, or other devices and TV. The official docs now poped up on how to deal with second screen apps.",How To Deal With Second Screen Apps,"
-  News",developers.google.com,28,https://developers.google.com/tv/remote/?utm_source=androidweekly
-"  Nick Bradbury has written a blog post where he discusses that the fragmentation problem on Android is not that difficult to deal with. In my opinion times has been tough when dealing with 1.5 - 2.1. But since 2.2 everything has become a lot better.",Android's Overblown Fragmentation Problem,"
-  News",nick.typepad.com,28,http://nick.typepad.com/blog/2012/05/androids-overblown-fragmentation-problem.html?utm_source=androidweekly
-"    Finally Intel releases x86 system image for Android emulator (ICS). A faster emulator is a relief ;-)",Intel releases x86 system image for Android emulator,"
-  News",androidcentral.com,28,http://www.androidcentral.com/intel-releases-x86-system-image-android-emulator?utm_source=androidweekly
-"    App store marketing is a tough job. In this article you'll learn how to thrive with google play.",How Android Developers Can Thrive With Google Play,"
-  Business",techcrunch.com,28,http://techcrunch.com/2012/05/20/how-android-developers-can-thrive-with-google-play/?utm_source=androidweekly
-"	Do you need the specs of your Android device? Device Profiler does exactly that!",Device Profiler,"
-  App of the Week",play.google.com,28,https://play.google.com/store/apps/details?id=nl.sogeti.android.deviceprofiler
+In his article Josh walks implements his own architecture for event dispatching.,Event Dispatching: Sending Messages,Articles & Tutorials,therealjoshua.com,28,http://www.therealjoshua.com/2012/03/event-dispatching-sending-messages/?utm_source=androidweekly
+In this article the creators of the Prixing explain how they created a custom component.,The making of Prixing #1: Fly-in app menu,Articles & Tutorials,android.cyrilmottier.com,28,http://android.cyrilmottier.com/?p=658&utm_source=androidweekly
+31 Days of Android: Day 6–Options Menus and Base Activities.,31 Days of Android: Day 6,Articles & Tutorials,chrisrisner.com,28,http://chrisrisner.com/31-Days-of-Android--Day-6%E2%80%93Options-Menus-and-Base-Activities?utm_source=androidweekly
+A very good implementation of the pull to refresh paradigma for lists.,Pull To Refresh,Libraries & Code,github.com,28,https://github.com/chrisbanes/Android-PullToRefresh?utm_source=androidweekly
+"Do you need a pinch zoom component and you don't want to use a WebView, then you have to try Android Pinch.",Android Pinch,Libraries & Code,code.google.com,28,http://code.google.com/p/android-pinch/
+"Second screen applications involve interactivity between smart phones, tablets, or other devices and TV. The official docs now poped up on how to deal with second screen apps.",How To Deal With Second Screen Apps,News,developers.google.com,28,https://developers.google.com/tv/remote/?utm_source=androidweekly
+Nick Bradbury has written a blog post where he discusses that the fragmentation problem on Android is not that difficult to deal with. In my opinion times has been tough when dealing with 1.5 - 2.1. But since 2.2 everything has become a lot better.,Android's Overblown Fragmentation Problem,News,nick.typepad.com,28,http://nick.typepad.com/blog/2012/05/androids-overblown-fragmentation-problem.html?utm_source=androidweekly
+Finally Intel releases x86 system image for Android emulator (ICS). A faster emulator is a relief ;-),Intel releases x86 system image for Android emulator,News,androidcentral.com,28,http://www.androidcentral.com/intel-releases-x86-system-image-android-emulator?utm_source=androidweekly
+App store marketing is a tough job. In this article you'll learn how to thrive with google play.,How Android Developers Can Thrive With Google Play,Business,techcrunch.com,28,http://techcrunch.com/2012/05/20/how-android-developers-can-thrive-with-google-play/?utm_source=androidweekly
+Do you need the specs of your Android device? Device Profiler does exactly that!,Device Profiler,App of the Week,play.google.com,28,https://play.google.com/store/apps/details?id=nl.sogeti.android.deviceprofiler

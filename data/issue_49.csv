@@ -1,27 +1,14 @@
 description,title,section,site,issue_num,link
-"  If you don't have the time to read the whole documentation there is a handy tutorial which explains the basics.",YouTube Android Player API Tutorial,"
-  Articles & Tutorials",kpbird.blogspot.in,49,http://kpbird.blogspot.in/2012/12/youtube-android-player-api-tutorial.html
-"  Mark Allison has posted his third episode on how to support multiple displays.",Multiple Displays – Part 3,"
-  Articles & Tutorials",blog.stylingandroid.com,49,http://blog.stylingandroid.com/archives/1435
-,Multiple Displays – Part 4,"
-  Articles & Tutorials",blog.stylingandroid.com,49,http://blog.stylingandroid.com/archives/1440
-"Two Toasters is looking for Mobile Developers to join our team. At Two Toasters, you will be working with cutting edge technology to build state of the art iOS and Android applications with a team that enjoys working hard and playing ping pong.",Mobile Developer at Two Toasters,"
-  Jobs","Durham, North Carolina, USA",49,http://twotoasters.com/Jobs/#Mobile%20Developer?utm_source=androidweekly
-"Join us in the Tech Villa and develop the next killer Android App with an exceptionally team at doo. If you're a senior Android developer with a passion for building kick-ass apps, we look forward to hearing from you! Check out what its like to work at doo. https://doo.net/de/jobs.html",doo - focus on building something great,"
-  Jobs","Bonn, Germany",49,http://vimeo.com/doonet/review/53607029/b3ff5d5229?utm_source=androidweekly
-"Your job will be to develop Android Apps in a friendly, fair and relaxedworking environment.You should enjoy programming and constant learning andhave a sense for clean, reusable code. Knowledge of other programminglanguages than Java is a plus.",Android App Developer at The App Guys,"
-  Jobs","Cologne, Germany",49,http://www.theappguys.de/jobs?utm_source=androidweekly
-,Post a job on Android Weekly,"
-  Jobs",androidweekly.net,49,http://androidweekly.net/jobs/new
-"  DataDroid is an Android Library which will ease the developement of Android applications when you have to manage local data or to call REST webservices for remote data.",DataDroid v2,"
-  Libraries & Code",datadroidlib.com,49,http://www.datadroidlib.com/2012/12/datadroid-v2-is-available
-"  Inscription is an open source library to display information about your Android app.",Inscription,"
-  Libraries & Code",github.com,49,https://github.com/MartinvanZ/Inscription
-"  AsyncTaskFragment is an Android library project designed to help you to perform background operations and publish results on the UI thread from your fragment without having to manipulate threads and/or handlers.",AsyncTaskFragment,"
-  Libraries & Code",github.com,49,https://github.com/GBouerat/AsyncTaskFragment
-"  Cards UI View library for Android, like the one on Google Now.",CardsUI for Android,"
-  Libraries & Code",bitbucket.org,49,https://bitbucket.org/nadavfima/cardsui-for-android
-"  Navigation menu for Android (based on Google+ app).",RibbonMenu,"
-  Libraries & Code",github.com,49,https://github.com/darvds/RibbonMenu
-"  Android-PullToRefresh v2.1 is out. There are performance improvements.",Android-PullToRefresh,"
-  Libraries & Code",github.com,49,https://github.com/chrisbanes/Android-PullToRefresh
+If you don't have the time to read the whole documentation there is a handy tutorial which explains the basics.,YouTube Android Player API Tutorial,Articles & Tutorials,kpbird.blogspot.in,49,http://kpbird.blogspot.in/2012/12/youtube-android-player-api-tutorial.html
+Mark Allison has posted his third episode on how to support multiple displays.,Multiple Displays – Part 3,Articles & Tutorials,blog.stylingandroid.com,49,http://blog.stylingandroid.com/archives/1435
+,Multiple Displays – Part 4,Articles & Tutorials,blog.stylingandroid.com,49,http://blog.stylingandroid.com/archives/1440
+"Two Toasters is looking for Mobile Developers to join our team. At Two Toasters, you will be working with cutting edge technology to build state of the art iOS and Android applications with a team that enjoys working hard and playing ping pong.",Mobile Developer at Two Toasters,Jobs,"Durham, North Carolina, USA",49,http://twotoasters.com/Jobs/#Mobile%20Developer?utm_source=androidweekly
+"Join us in the Tech Villa and develop the next killer Android App with an exceptionally team at doo. If you're a senior Android developer with a passion for building kick-ass apps, we look forward to hearing from you! Check out what its like to work at doo. https://doo.net/de/jobs.html",doo - focus on building something great,Jobs,"Bonn, Germany",49,http://vimeo.com/doonet/review/53607029/b3ff5d5229?utm_source=androidweekly
+"Your job will be to develop Android Apps in a friendly, fair and relaxedworking environment.You should enjoy programming and constant learning andhave a sense for clean, reusable code. Knowledge of other programminglanguages than Java is a plus.",Android App Developer at The App Guys,Jobs,"Cologne, Germany",49,http://www.theappguys.de/jobs?utm_source=androidweekly
+,Post a job on Android Weekly,Jobs,androidweekly.net,49,http://androidweekly.net/jobs/new
+DataDroid is an Android Library which will ease the developement of Android applications when you have to manage local data or to call REST webservices for remote data.,DataDroid v2,Libraries & Code,datadroidlib.com,49,http://www.datadroidlib.com/2012/12/datadroid-v2-is-available
+Inscription is an open source library to display information about your Android app.,Inscription,Libraries & Code,github.com,49,https://github.com/MartinvanZ/Inscription
+AsyncTaskFragment is an Android library project designed to help you to perform background operations and publish results on the UI thread from your fragment without having to manipulate threads and/or handlers.,AsyncTaskFragment,Libraries & Code,github.com,49,https://github.com/GBouerat/AsyncTaskFragment
+"Cards UI View library for Android, like the one on Google Now.",CardsUI for Android,Libraries & Code,bitbucket.org,49,https://bitbucket.org/nadavfima/cardsui-for-android
+Navigation menu for Android (based on Google+ app).,RibbonMenu,Libraries & Code,github.com,49,https://github.com/darvds/RibbonMenu
+Android-PullToRefresh v2.1 is out. There are performance improvements.,Android-PullToRefresh,Libraries & Code,github.com,49,https://github.com/chrisbanes/Android-PullToRefresh

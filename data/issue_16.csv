@@ -1,17 +1,9 @@
 description,title,section,site,issue_num,link
-"		Replica Island is a free open source android game. If you ever wanted to see how a game is build here is your chance - though be careful since the project is not that new anymore, things may be done differently in newer versions of Android.",Replica Island,"
-	Articles & Tutorials",replicaisland.net,16,http://www.replicaisland.net/
-"	Android library for implementing the action bar design pattern using the native ActionBar on 3.0+ and a custom implementation on pre-3.0 through a single API and theme.",ActionBarSherlock,"
-	Libraries & Code",github.com,16,https://github.com/JakeWharton/ActionBarSherlock/tree/4.0-wip
-"	Roman Nurik has hacked together a great bash completion for the adb tool.",Bash completion for the adb tool,"
-	Libraries & Code",code.google.com,16,http://code.google.com/p/romannurik-code/source/browse/misc/bash_completion/adb
-"		Android Development Tool 17 (Preview) was released yesterday. Lot's of neat stuff inside.",Android Development Tool 17,"
-	Headlines",tools.android.com,16,http://tools.android.com/download/adt-17-preview
-"		Ever wanted to make a screenshot of your newly developed Android App? With Android Screen Monitor you can mirror the device screen to your desktop.",Android Screen Monitor,"
-	Tools",code.google.com,16,http://code.google.com/p/android-screen-monitor/
-"	m2e Android Configurator brings Maven dependency management into the ADT.",m2e Android Configurator,"
-	Tools",github.com,16,http://rgladwell.github.com/m2e-android/
-"		This video demonstrates how to use AndoidStudio add-in in Visual studio for Android application development.",AndoidStudio,"
-	Screencasts",watchlaterapp.com,16,http://watchlaterapp.com/a3Ny
-"	Schooltraq is a free academic planner that lets students organise their work.",Schooltraq,"
-	App of the Week",beta.schooltraq.com,16,http://beta.schooltraq.com/beta/android/
+"Replica Island is a free open source android game. If you ever wanted to see how a game is build here is your chance - though be careful since the project is not that new anymore, things may be done differently in newer versions of Android.",Replica Island,Articles & Tutorials,replicaisland.net,16,http://www.replicaisland.net/
+Android library for implementing the action bar design pattern using the native ActionBar on 3.0+ and a custom implementation on pre-3.0 through a single API and theme.,ActionBarSherlock,Libraries & Code,github.com,16,https://github.com/JakeWharton/ActionBarSherlock/tree/4.0-wip
+Roman Nurik has hacked together a great bash completion for the adb tool.,Bash completion for the adb tool,Libraries & Code,code.google.com,16,http://code.google.com/p/romannurik-code/source/browse/misc/bash_completion/adb
+Android Development Tool 17 (Preview) was released yesterday. Lot's of neat stuff inside.,Android Development Tool 17,Headlines,tools.android.com,16,http://tools.android.com/download/adt-17-preview
+Ever wanted to make a screenshot of your newly developed Android App? With Android Screen Monitor you can mirror the device screen to your desktop.,Android Screen Monitor,Tools,code.google.com,16,http://code.google.com/p/android-screen-monitor/
+m2e Android Configurator brings Maven dependency management into the ADT.,m2e Android Configurator,Tools,github.com,16,http://rgladwell.github.com/m2e-android/
+This video demonstrates how to use AndoidStudio add-in in Visual studio for Android application development.,AndoidStudio,Screencasts,watchlaterapp.com,16,http://watchlaterapp.com/a3Ny
+Schooltraq is a free academic planner that lets students organise their work.,Schooltraq,App of the Week,beta.schooltraq.com,16,http://beta.schooltraq.com/beta/android/

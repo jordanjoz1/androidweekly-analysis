@@ -1,21 +1,11 @@
 description,title,section,site,issue_num,link
-"    Live wallpapers don’t remain as static background images but instead have interactive features. Learn how to create a live wallpaper in this tutorial.",Creating Live Wallpapers on Android,"
-  Articles & Tutorials",mobile.tutsplus.com,18,http://mobile.tutsplus.com/tutorials/android/creating-live-wallpapers-on-android/
-"  The fine folks on the Android User Experience team are pleased to release some official Android Design stencils for your mockup-creating pleasure.",Android Design V2: Now with stencils,"
-  Articles & Tutorials",android-developers.blogspot.com,18,http://android-developers.blogspot.com/2012/02/android-design-v2-now-with-stencils.html
-"  Here you have another nice tutorial series how to make an Android game.",How to make an Android game,"
-  Articles & Tutorials",caseyrichard.com,18,http://caseyrichard.com/?p=195
-,Android Lint tool in IntelliJ IDEA 11.1,"
-  Articles & Tutorials",blogs.jetbrains.com,18,http://blogs.jetbrains.com/idea/2012/02/integration-with-android-lint-tool-in-intellij-idea-111/
-"  GreenDroid is a development library for the Android platform. It is intended to make UI developments easier and consistent through your applications.",GreenDroid,"
-  Libraries & Code",github.com,18,https://github.com/cyrilmottier/GreenDroid
-"  A platform for developing apps using JRuby on Android.",Ruboto - Ruby on Android,"
-  Libraries & Code",github.com,18,https://github.com/ruboto/ruboto
-"    Android applications have historically been limited to a maximum size of 50MB.",Android Apps Break the 50MB Barrier,"
-  News",android-developers.blogspot.com,18,http://android-developers.blogspot.com/2012/03/android-apps-break-50mb-barrier.html
-"  Unity 3 is a game development tool that has been designed to let you focus on creating amazing games.",Unity 3,"
-  Tools",store.unity3d.com,18,https://store.unity3d.com/index.html
-"    A quick demo video creating, editing and running an Android App with AIDE on a Galaxy S2 phone.",AIDE - Android Java IDE,"
-  Screencasts",watchlaterapp.com,18,http://watchlaterapp.com/ahCY
-"	AIDE is an integrated development environment (IDE) for developing real Android Apps directly on Android devices.",AIDE,"
-  App of the Week",play.google.com,18,https://play.google.com/store/apps/details?id=com.aide.ui&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5haWRlLnVpIl0.
+Live wallpapers don’t remain as static background images but instead have interactive features. Learn how to create a live wallpaper in this tutorial.,Creating Live Wallpapers on Android,Articles & Tutorials,mobile.tutsplus.com,18,http://mobile.tutsplus.com/tutorials/android/creating-live-wallpapers-on-android/
+The fine folks on the Android User Experience team are pleased to release some official Android Design stencils for your mockup-creating pleasure.,Android Design V2: Now with stencils,Articles & Tutorials,android-developers.blogspot.com,18,http://android-developers.blogspot.com/2012/02/android-design-v2-now-with-stencils.html
+Here you have another nice tutorial series how to make an Android game.,How to make an Android game,Articles & Tutorials,caseyrichard.com,18,http://caseyrichard.com/?p=195
+,Android Lint tool in IntelliJ IDEA 11.1,Articles & Tutorials,blogs.jetbrains.com,18,http://blogs.jetbrains.com/idea/2012/02/integration-with-android-lint-tool-in-intellij-idea-111/
+GreenDroid is a development library for the Android platform. It is intended to make UI developments easier and consistent through your applications.,GreenDroid,Libraries & Code,github.com,18,https://github.com/cyrilmottier/GreenDroid
+A platform for developing apps using JRuby on Android.,Ruboto - Ruby on Android,Libraries & Code,github.com,18,https://github.com/ruboto/ruboto
+Android applications have historically been limited to a maximum size of 50MB.,Android Apps Break the 50MB Barrier,News,android-developers.blogspot.com,18,http://android-developers.blogspot.com/2012/03/android-apps-break-50mb-barrier.html
+Unity 3 is a game development tool that has been designed to let you focus on creating amazing games.,Unity 3,Tools,store.unity3d.com,18,https://store.unity3d.com/index.html
+"A quick demo video creating, editing and running an Android App with AIDE on a Galaxy S2 phone.",AIDE - Android Java IDE,Screencasts,watchlaterapp.com,18,http://watchlaterapp.com/ahCY
+AIDE is an integrated development environment (IDE) for developing real Android Apps directly on Android devices.,AIDE,App of the Week,play.google.com,18,https://play.google.com/store/apps/details?id=com.aide.ui&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5haWRlLnVpIl0.

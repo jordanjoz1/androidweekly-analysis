@@ -1,37 +1,19 @@
 description,title,section,site,issue_num,link
-"  In this Blog Post Wolfram Rittmeyer explains why fragments are so cool and how to make them run on older devices.",Fragments and the Support Library,"
-  Articles & Tutorials",grokkingandroid.com,47,http://www.grokkingandroid.com/getting-started-with-fragments-and-the-support-library/
-,ViewPager Redux - Part 2,"
-  Articles & Tutorials",blog.stylingandroid.com,47,http://blog.stylingandroid.com/archives/1366
-"  as always by the great Mark Allison",ViewPager Redux - Part 3,"
-  Articles & Tutorials",blog.stylingandroid.com,47,http://blog.stylingandroid.com/archives/1378
-"  In this post by Cyril Mottier you'll learn how to create an ActionBar with an animated Background",ActionBar on the move,"
-  Articles & Tutorials",android.cyrilmottier.com,47,http://android.cyrilmottier.com/?p=837
-"  Nice introduction into some NFC hacking by Wiebe Elsinga.",Fun with Android and NFC,"
-  Articles & Tutorials",wiebe-elsinga.com,47,http://wiebe-elsinga.com/blog/?p=1269
-"  Great slides by Fernando Cejas about Android design patterns.",Android Design Patterns,"
-  Articles & Tutorials",de.slideshare.net,47,http://de.slideshare.net/penano/android-design-patterns-15425401
-"  Two Toasters is looking for Mobile Developers to join our team. At Two Toasters, you will be working with cutting edge technology to build state of the art iOS and Android applications with a team that enjoys working hard and playing ping pong.",Mobile Developer at Two Toasters,"
-  Jobs","Durham, North Carolina, USA",47,http://twotoasters.com/Jobs/#Mobile%20Developer?utm_source=androidweekly
-"  Join us in the Tech Villa and develop the next killer Android App with an exceptionally team at doo. If you're a senior Android developer with a passion for building kick-ass apps, we look forward to hearing from you! Check out what its like to work at doo. https://doo.net/de/jobs.html",doo - focus on building something great,"
-  Jobs","Bonn, Germany",47,http://vimeo.com/doonet/review/53607029/b3ff5d5229?utm_source=androidweekly
-"  Your job will be to develop Android Apps in a friendly, fair and relaxed  working environment.You should enjoy programming and constant learning and  have a sense for clean, reusable code. Knowledge of other programming  languages than Java is a plus.",Android App Developer at The App Guys,"
-  Jobs","Cologne, Germany",47,http://www.theappguys.de/jobs?utm_source=androidweekly
-,Post a job on Android Weekly,"
-  Jobs",androidweekly.net,47,http://androidweekly.net/jobs/new
-"  Android Views is like our Toolbox a great collection of open source views for different purposes.",Androidviews.net,"
-  Libraries & Code",androidviews.net,47,http://www.androidviews.net/
-"  ICS backport of the Switch button for API Level 8.",Switch Compat Library,"
-  Libraries & Code",github.com,47,https://github.com/ankri/SwitchCompatLibrary
-"  Complex Preferences is a library that helps you to store complex objects, even with associations, in the SharedPreferences.",Android Complex Preferences,"
-  Libraries & Code",github.com,47,https://github.com/fsilvestremorais/android-complex-preferences
-"  ActiveTextView is a view designed to add additional options for links within a TextView.",Active Text View,"
-  Libraries & Code",github.com,47,https://github.com/laurencedawson/activetextview
-"  Android library that allows you to bind a LinearLayout with a ListAdapter.",LinearListView,"
-  Libraries & Code",github.com,47,https://github.com/frankiesardo/LinearListView
-"  Form validation and feedback library for Android.",Android Formidable Validation,"
-  Libraries & Code",github.com,47,https://github.com/coreform/android-formidable-validation
-"  Project stORM is a template-based object relational mapping tool. This screencast gives you a good introduction of what stORM can do for you.",An Open Source ORM for SQLite on Android,"
-  Screencasts",marakana.com,47,http://marakana.com/s/post/1324/storm_open_source_orm_sqlite_android_video
-"  Fascinating insight into the Android app from Square and their open source libraries.",Android Squared,"
-  Screencasts",infoq.com,47,http://www.infoq.com/presentations/Android-Squared
+In this Blog Post Wolfram Rittmeyer explains why fragments are so cool and how to make them run on older devices.,Fragments and the Support Library,Articles & Tutorials,grokkingandroid.com,47,http://www.grokkingandroid.com/getting-started-with-fragments-and-the-support-library/
+,ViewPager Redux - Part 2,Articles & Tutorials,blog.stylingandroid.com,47,http://blog.stylingandroid.com/archives/1366
+as always by the great Mark Allison,ViewPager Redux - Part 3,Articles & Tutorials,blog.stylingandroid.com,47,http://blog.stylingandroid.com/archives/1378
+In this post by Cyril Mottier you'll learn how to create an ActionBar with an animated Background,ActionBar on the move,Articles & Tutorials,android.cyrilmottier.com,47,http://android.cyrilmottier.com/?p=837
+Nice introduction into some NFC hacking by Wiebe Elsinga.,Fun with Android and NFC,Articles & Tutorials,wiebe-elsinga.com,47,http://wiebe-elsinga.com/blog/?p=1269
+Great slides by Fernando Cejas about Android design patterns.,Android Design Patterns,Articles & Tutorials,de.slideshare.net,47,http://de.slideshare.net/penano/android-design-patterns-15425401
+"Two Toasters is looking for Mobile Developers to join our team. At Two Toasters, you will be working with cutting edge technology to build state of the art iOS and Android applications with a team that enjoys working hard and playing ping pong.",Mobile Developer at Two Toasters,Jobs,"Durham, North Carolina, USA",47,http://twotoasters.com/Jobs/#Mobile%20Developer?utm_source=androidweekly
+"Join us in the Tech Villa and develop the next killer Android App with an exceptionally team at doo. If you're a senior Android developer with a passion for building kick-ass apps, we look forward to hearing from you! Check out what its like to work at doo. https://doo.net/de/jobs.html",doo - focus on building something great,Jobs,"Bonn, Germany",47,http://vimeo.com/doonet/review/53607029/b3ff5d5229?utm_source=androidweekly
+"Your job will be to develop Android Apps in a friendly, fair and relaxed  working environment.You should enjoy programming and constant learning and  have a sense for clean, reusable code. Knowledge of other programming  languages than Java is a plus.",Android App Developer at The App Guys,Jobs,"Cologne, Germany",47,http://www.theappguys.de/jobs?utm_source=androidweekly
+,Post a job on Android Weekly,Jobs,androidweekly.net,47,http://androidweekly.net/jobs/new
+Android Views is like our Toolbox a great collection of open source views for different purposes.,Androidviews.net,Libraries & Code,androidviews.net,47,http://www.androidviews.net/
+ICS backport of the Switch button for API Level 8.,Switch Compat Library,Libraries & Code,github.com,47,https://github.com/ankri/SwitchCompatLibrary
+"Complex Preferences is a library that helps you to store complex objects, even with associations, in the SharedPreferences.",Android Complex Preferences,Libraries & Code,github.com,47,https://github.com/fsilvestremorais/android-complex-preferences
+ActiveTextView is a view designed to add additional options for links within a TextView.,Active Text View,Libraries & Code,github.com,47,https://github.com/laurencedawson/activetextview
+Android library that allows you to bind a LinearLayout with a ListAdapter.,LinearListView,Libraries & Code,github.com,47,https://github.com/frankiesardo/LinearListView
+Form validation and feedback library for Android.,Android Formidable Validation,Libraries & Code,github.com,47,https://github.com/coreform/android-formidable-validation
+Project stORM is a template-based object relational mapping tool. This screencast gives you a good introduction of what stORM can do for you.,An Open Source ORM for SQLite on Android,Screencasts,marakana.com,47,http://marakana.com/s/post/1324/storm_open_source_orm_sqlite_android_video
+Fascinating insight into the Android app from Square and their open source libraries.,Android Squared,Screencasts,infoq.com,47,http://www.infoq.com/presentations/Android-Squared
